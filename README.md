@@ -1,4 +1,4 @@
-# sui-devtools-directory
+# sui-dev-tools-directory
 
 Directory tracking developer tools and infrastructure projects within Sui ecosystem
 
