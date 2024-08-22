@@ -16,7 +16,7 @@
 
 ## Description
 
-![Sui Logo](../img/Sui_Symbol_Sea.png | width=100)
+<img src="../img/Sui_Symbol_Sea.png" width="200" />
 
 Directory of tools in Sui ecosystem.
 
