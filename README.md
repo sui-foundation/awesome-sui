@@ -13,7 +13,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - **Oracle**
 - **SDK**
 
-## Ecosystem Submission Guidelines
+## New Dev Tooling Submission Guidelines
 
 - Duplicate and fill out the [new tool submission template](./new_tool_submission_template.md) for the tool you are registering
 - Change the file name into the name of the tool in [snaking case](https://en.wikipedia.org/wiki/Snake_case), and move it into the folder according to the category of the tool being submitted
