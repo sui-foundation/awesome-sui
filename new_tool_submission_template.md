@@ -13,5 +13,9 @@
 
 ## Description
 
+## Features
+
 ## Documentation or Tutorial
+
+## Latest Version Number of Sui Tested On
 
