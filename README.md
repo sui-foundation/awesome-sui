@@ -6,6 +6,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 - [IDEs](#ides)
     - [Web IDEs](#web-ides)
+    - [Desktop IDEs](#desktop-ides)
 - **AI**
     - [Example](./AI/example.md)
 - **dApp Development**
@@ -21,6 +22,12 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [MoveStudio](IDE/movestudio.md) - Online IDE for Sui smart contract development.
 - [ChainIDE](IDE/chainide.md) - Move Cloud-Powered Development Platform.
 - ⚠️ [WELLDONE Code](IDE/welldone_code.md) - Remix IDE plugin supports non-EVM smart contract development including Sui.
+
+### Desktop IDEs
+- [VSCode Move by Mysten Labs](IDE/vscode_mysten_move_analyzer.md) - VSCode Extension supports Move on Sui development with LSP features through Move Analyzer developed by Mysten Labs.
+- ⚠️ [VSCode Sui Move Analyzer by Movebit](IDE/vscode_movebit_sui_move_analyzer.md) - A fork of VSCode Move by Mysten Labs.
+- [IntelliJ Sui Move Language Plugin](IDE/intellij_sui_move_language.md) - IntelliJ-based plugin for Move on Sui development.
+- [Emacs move-mode](IDE/emacs_movemode.md) - move-mode is an Emacs major-mode for editing smart contracts written in the Move programming language
 
 ## New Dev Tooling Submission Guidelines
 
