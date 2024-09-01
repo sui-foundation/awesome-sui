@@ -19,7 +19,7 @@ ChainIDE is cloud-based IDE for creating decentralized applications to deploy on
 
 ## Features
 - Move
-    - Move 2024 supported
+    - Move 2024 is supported
     - Compilation
     - Unit Testing
     - Deployment

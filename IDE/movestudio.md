@@ -19,7 +19,7 @@ Online IDE for Sui smart contract development
 
 ## Features
 - Move
-    - Move 2024 supported
+    - Move 2024 is supported
     - Compilation
     - Unit Testing
     - Deployment

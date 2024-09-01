@@ -19,7 +19,7 @@ BitsLab IDE is an out-of-the-box, configuration-free online development environm
 
 ## Features
 - Move
-    - Move 2024 supported
+    - Move 2024 is supported
     - Compilation
     - Unit Testing
     - Deployment

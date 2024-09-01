@@ -26,7 +26,7 @@
 - Inlay hints
 - Go/Find references
 - Move
-    - Move 2024 supported
+    - Move 2024 is supported
     - Move 2024 syntax highlight ([VSCode Move Syntax](https://marketplace.visualstudio.com/items?itemName=damirka.move-syntax))
 - Utilities
     - Integration with `sui` binary (Sui CLI)
