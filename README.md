@@ -1,17 +1,26 @@
-# sui-dev-tools-directory
+# Awesome Sui [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Directory tracking developer tools and infrastructure projects within Sui ecosystem
 
-## Overview
+## Contents
 
+- [IDEs](#ides)
+    - [Web IDEs](#web-ides)
 - **AI**
     - [Example](./AI/example.md)
 - **dApp Development**
 - **Explorer**
-- **IDE**
 - **Indexer**
 - **Oracle**
 - **SDK**
+
+## IDEs
+
+### Web IDEs
+- [BitsLab IDE](IDE/bitslab_ide.md) - online Move code editor that requires no configuration and supports Move code syntax highlighting, it's beginner-friendly and supports interacting with Sui.
+- [MoveStudio](IDE/movestudio.md) - Online IDE for Sui smart contract development.
+- [ChainIDE](IDE/chainide.md) - Move Cloud-Powered Development Platform.
+- ⚠️ [WELLDONE Code](IDE/welldone_code.md) - Remix IDE plugin supports non-EVM smart contract development including Sui.
 
 ## New Dev Tooling Submission Guidelines
 
