@@ -34,6 +34,8 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Prettier Move Plugin](IDE/prettier_move_plugin.md) - a Move language plugin for the Prettier code formatter
 - [Sui Extension](IDE/vscode_sui_extension.md) - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
 - ⚠️ [Sui Simulator](IDE/vscode_sui_simulator.md) - VSCode Extension to streamline Sui development workflow with intuitive UI.
+- [Move.vim](IDE/movevim.md) - Syntax highlighting for the Move smart contract programming language.
+- [Tree Sitter Move](IDE/tree_sitter_move.md) - Tree Sitter for Move.
 
 ## New Dev Tooling Submission Guidelines
 
