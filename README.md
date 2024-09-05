@@ -8,11 +8,11 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
     - [Web IDEs](#web-ides)
     - [Desktop IDEs](#desktop-ides)
     - [IDE Utilities](#ide-utilities)
+- [Indexers](#indexers)
 - **AI**
     - [Example](./AI/example.md)
 - **dApp Development**
 - **Explorer**
-- **Indexer**
 - **Oracle**
 - **SDK**
 
@@ -36,6 +36,9 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - ⚠️ [Sui Simulator](IDE/vscode_sui_simulator.md) - VSCode Extension to streamline Sui development workflow with intuitive UI.
 - [Move.vim](IDE/movevim.md) - Syntax highlighting for the Move smart contract programming language.
 - [Tree Sitter Move](IDE/tree_sitter_move.md) - Tree Sitter for Move.
+
+## Indexers
+- [ZettaBlock](Indexer/zettablock.md) - Provide APIs to access blockchain data including Sui.
 
 ## New Dev Tooling Submission Guidelines
 
