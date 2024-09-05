@@ -41,7 +41,8 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [ZettaBlock](Indexer/zettablock.md) - Provide APIs to access blockchain data including Sui.
 - [Sentio](Indexer/sentio.md) - Transform raw indexed data (transactions, events,...) into meaningful queryable data by writing custom processor logic.
 - [BlockVision (Sui Vision)](Indexer/blockvision.md) - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi,...
-- 
+- [BlockBerry (SuiScan)](Indexer/blockberry.md) - The Blockberry Sui API provides endpoints that reveal data about significant entities on the Sui Network.
+- [Space And Time (SxT)](Indexer/space_and_time.md) - Verifiable compute layer that scales zero-knowledge proofs on a decentralized data warehouse to deliver trustless data processing to smart contracts, LLMs, and enterprises.
 
 ## New Dev Tooling Submission Guidelines
 
@@ -49,5 +50,3 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - Change the file name into the name of the tool in [snaking case](https://en.wikipedia.org/wiki/Snake_case), and move it into the folder according to the category of the tool being submitted
 - If you would like to include and link to an image, you can add it under the [`img` folder](./img/), and include it in the same pull request.
 - Create a pull request with the changes against the `main` branch
-
-
