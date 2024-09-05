@@ -40,7 +40,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 ## Indexers
 - [ZettaBlock](Indexer/zettablock.md) - Provide APIs to access blockchain data including Sui.
 - [Sentio](Indexer/sentio.md) - Transform raw indexed data (transactions, events,...) into meaningful queryable data by writing custom processor logic.
-- [BlockVision (Sui Vision)](Indexer/blockvision.md) - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi,...
+- [BlockVision (SuiVision)](Indexer/blockvision.md) - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi,...
 - [BlockBerry (SuiScan)](Indexer/blockberry.md) - The Blockberry Sui API provides endpoints that reveal data about significant entities on the Sui Network.
 - [Space And Time (SxT)](Indexer/space_and_time.md) - Verifiable compute layer that scales zero-knowledge proofs on a decentralized data warehouse to deliver trustless data processing to smart contracts, LLMs, and enterprises.
 
