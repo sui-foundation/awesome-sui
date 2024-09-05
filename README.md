@@ -39,7 +39,9 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 ## Indexers
 - [ZettaBlock](Indexer/zettablock.md) - Provide APIs to access blockchain data including Sui.
-- [Sentio](Indexer/sentio.md) - Transform raw indexed data (transactions, events,...) into meaningful usable data by writing custom processor logic.
+- [Sentio](Indexer/sentio.md) - Transform raw indexed data (transactions, events,...) into meaningful queryable data by writing custom processor logic.
+- [BlockVision (Sui Vision)](Indexer/blockvision.md) - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi,...
+- 
 
 ## New Dev Tooling Submission Guidelines
 
