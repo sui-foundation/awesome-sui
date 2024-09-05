@@ -10,10 +10,10 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
     - [IDE Utilities](#ide-utilities)
 - [Indexers](#indexers)
 - [Explorers](#explorers)
+- [Oracles](#oracles)
 - **AI**
     - [Example](./AI/example.md)
 - **dApp Development**
-- **Oracle**
 - **SDK**
 
 ## IDEs
@@ -51,6 +51,11 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [OKLink](Explorer/oklink.md) - Provide fundamental explorer and data APIs on Sui.
 - [Polymedia Explorer](Explorer/polymedia.md) - A fork of the original Sui Explorer.
 - [Local Sui Explorer](Explorer/local_sui_explorer.md) - Sui Explorer for your localnet maintained by [kkomelin](https://github.com/kkomelin)
+
+## Oracles
+- [Pyth Network](Oracle/pyth.md) - Oracle protocol that connects the owners of market data to applications on multiple blockchains including Sui.
+- [Supra Oracles](Oracle/supra.md) - Oracle protocol to provide reliable data feed.
+- [Switchboard](Oracle/switchboard.md) - Data feed customization and management.
 
 ## New Dev Tooling Submission Guidelines
 
