@@ -15,7 +15,7 @@
 
 ## Description
 
-Redefining the way Web3 developers interact and build on top of blockchain data
+Redefining the way Web3 developers interact and build on top of blockchain data. Generate custom GraphQL or REST APIs from SQL queries and incorporate your private off-chain data.
 
 ## Features
 - [DataHub & DevStudio](https://docs.zettablock.com/docs/datahub-and-devstudio)

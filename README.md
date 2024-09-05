@@ -9,10 +9,10 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
     - [Desktop IDEs](#desktop-ides)
     - [IDE Utilities](#ide-utilities)
 - [Indexers](#indexers)
+- [Explorers](#explorers)
 - **AI**
     - [Example](./AI/example.md)
 - **dApp Development**
-- **Explorer**
 - **Oracle**
 - **SDK**
 
@@ -38,11 +38,19 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Tree Sitter Move](IDE/tree_sitter_move.md) - Tree Sitter for Move.
 
 ## Indexers
-- [ZettaBlock](Indexer/zettablock.md) - Provide APIs to access blockchain data including Sui.
+- [ZettaBlock](Indexer/zettablock.md) - Generate custom GraphQL or REST APIs from SQL queries and incorporate your private off-chain data.
 - [Sentio](Indexer/sentio.md) - Transform raw indexed data (transactions, events,...) into meaningful queryable data by writing custom processor logic.
 - [BlockVision (SuiVision)](Indexer/blockvision.md) - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi,...
 - [BlockBerry (SuiScan)](Indexer/blockberry.md) - The Blockberry Sui API provides endpoints that reveal data about significant entities on the Sui Network.
-- [Space And Time (SxT)](Indexer/space_and_time.md) - Verifiable compute layer that scales zero-knowledge proofs on a decentralized data warehouse to deliver trustless data processing to smart contracts, LLMs, and enterprises.
+- [Space And Time (SxT)](Indexer/space_and_time.md) - Verifiable compute layer for AI x blockchain. Decentralized data warehouse with sub-second ZK proof.
+
+## Explorers
+
+- [SuiVision](Explorer/suivision.md) - Data analytics covering transactions, wallets, staking, and validators.
+- [SuiScan](Explorer/suiscan.md) - Explorer and analytics platform for Sui.
+- [OKLink](Explorer/oklink.md) - Provide fundamental explorer and data APIs on Sui.
+- [Polymedia Explorer](Explorer/polymedia.md) - A fork of the original Sui Explorer.
+- [Local Sui Explorer](Explorer/local_sui_explorer.md) - Sui Explorer for your localnet maintained by [kkomelin](https://github.com/kkomelin)
 
 ## New Dev Tooling Submission Guidelines
 
