@@ -25,6 +25,5 @@ Redefining the way Web3 developers interact and build on top of blockchain data
 - API can be realtime if it is built from realtime refresh table
 - [Data Catalog](https://app.zettablock.com/v2/explore/tables)
 
-
 ## Latest Version Number of Sui Tested On
 
