@@ -23,6 +23,7 @@ Online IDE for Sui smart contract development
     - Compilation
     - Unit Testing
     - Deployment
+    - Only support one default `sui` binary version
 - Project Management
     - Multiple workspaces
     - Persistent session
@@ -34,3 +35,5 @@ Online IDE for Sui smart contract development
 - Example templates
 
 ## Latest Version Number of Sui Tested On
+
+- `sui 1.25.0-b10ea7331e1c`

@@ -23,6 +23,7 @@ BitsLab IDE is an out-of-the-box, configuration-free online development environm
     - Compilation
     - Unit Testing
     - Deployment
+    - Multiple `sui` binary versions to choose from
 - Project Management
     - Multiple workspaces
     - Persistent session
