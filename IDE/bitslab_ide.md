@@ -11,7 +11,7 @@
 
 ## Homepage or Repo or Download Link
 
-[Homepage](https://www.bitslab.xyz/bitslabide) | [IDE](https://ide.bitslab.xyz/) | [Tutorial](https://www.youtube.com/watch?v=-9-WkqQwtu8)
+[Homepage](https://www.bitslab.xyz/bitslabide) | [IDE](https://ide.bitslab.xyz/) | [Tutorial](https://www.youtube.com/watch?v=-9-WkqQwtu8) | [Telegram](https://t.me/moveanalyzer)
 
 ## Description
 
