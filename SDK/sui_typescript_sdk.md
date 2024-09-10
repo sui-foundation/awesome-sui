@@ -20,3 +20,7 @@ The Sui TypeScript SDK is a modular library of tools for interacting with the Su
 ## Features
 
 - [Module packages](https://sdk.mystenlabs.com/typescript#module-packages)
+- [GraphQL (RPC 2.0)](https://sdk.mystenlabs.com/typescript/graphql) is supported.
+- [Sui BCS types are supported](https://github.com/MystenLabs/sui/blob/main/sdk/typescript/src/bcs)
+- [Kiosk SDK](https://sdk.mystenlabs.com/kiosk)
+- [zkSend (Stashed) SDK](https://sdk.mystenlabs.com/zksend)
