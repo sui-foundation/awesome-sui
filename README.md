@@ -11,6 +11,9 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Client SDKs & Libraries](#client-sdks--libraries)
     - [Client SDKs](#client-sdks)
     - [Client Libraries](#client-libraries)
+- [dApp Development](#dapp-development)
+    - [dApp Toolkits](#dapp-toolkits)
+    - [Smart Contract Toolkits](#smart-contract-toolkits)
 - [Indexers](#indexers)
 - [Explorers](#explorers)
 - [Oracles](#oracles)
@@ -61,7 +64,30 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Sui Client Gen (KunaLabs)](https://github.com/kunalabs-io/sui-client-gen/tree/master) - A tool for generating TS SDKs for Sui Move smart contracts. Supports code generation both for source code and on-chain packages with no IDLs or ABIs required.
 - [TypeMove (Sentio)](https://github.com/sentioxyz/typemove/blob/main/packages/sui/Readme.md) - Generate TypeScript bindings for Sui contracts.
 - [Sui Wallet Standard (Mysten Labs)](SDK/sui_wallet_standard.md) - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
-- [Suiet Wallet Kit](SDK/suiet_wallet_kit.md) - Suiet wallet kit is an awesome react toolkit for DApps to interact with all the wallets in Sui💧 easily 🥳.
+
+## dApp Development
+
+### dApp Toolkits
+- [@mysten/create-dapp](https://sdk.mystenlabs.com/dapp-kit/create-dapp) - CLI tool that helps you create Sui dApp projects.
+- [Sui dApp Kit (Mysten Labs)](dApp%20Development/sui_dapp_kit.md) - Set of React components, hooks, and utilities to help you build a dApp for the Sui ecosystem.
+- [Sui dApp Starter](dApp%20Development/sui_dapp_starter.md) - Full-stack boilerplate which let you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
+- [Suiet Wallet Kit](dApp%20Development/suiet_wallet_kit.md) - Suiet wallet kit is an awesome react toolkit for DApps to interact with all the wallets in Sui💧 easily 🥳.
+- [Sui Suitcase](https://github.com/juzybits/polymedia-suitcase) - Sui utilities for TypeScript, Node, and React.
+- [SuiBase](dApp%20Development/suibase.md) - Streamlines development and testing of your Sui network apps.
+- ⚠️ [Obelisk Engine (Beta)](https://obelisk.build/engine/docs) - Framework for ambitious Move applications. It compresses the complexity of building Move apps with a tightly integrated software stack. [Github](https://github.com/0xobelisk/obelisk-engine)
+- [Polymedia Commando (Polymedia)](https://github.com/juzybits/polymedia-commando) - Sui command line tools to help with Sui airdrops (send coins to many addresses), gather data from different sources (Sui RPCs, Indexer.xyz, Suiscan), and more.
+- [zkLogin Demo (Polymedia)](https://zklogin-demo.polymedia.app/) - A Sui zkLogin end-to-end implementation and tutorial. It shows how to use Google / Twitch / Facebook to create a Sui zkLogin address and send a transaction. [Github](https://github.com/juzybits/polymedia-zklogin-demo)
+- [RPC Tools (Polymedia)](https://rpcs.polymedia.app/) - A webapp that lets users find the fastest RPC for their location. [Github](https://github.com/juzybits/polymedia-rpcs)
+
+### Smart Contract Toolkits
+- [Sui CLI](https://docs.sui.io/references/cli) - CLI tool to interact with the Sui network, its features, and the Move programming language.
+- [Sentio Debugger](https://docs.sentio.xyz/docs/debugger) - Shows the trace of the transaction [Explorer App](https://app.sentio.xyz/explorer)(mainnet only).
+- [`std::debug`](https://docs.sui.io/guides/developer/first-app/debug#related-links) - Print arbitrary values to the console to help with debugging process.
+- [Sui Tears 💧 (Interest Protocol)](https://docs.interestprotocol.com/overview/sui-tears) - Open source production ready Sui Move library to increase the productivity of new and experienced developers alike.
+- [Sui Codec][https://github.com/sui-potatoes/app/tree/main/packages/codec] - Ultimate encoding solution for Sui.
+- [Move on Sui examples (Mysten Labs)](https://github.com/MystenLabs/sui/tree/main/examples/move) - Examples of Move on Sui applications.
+- [SuiGPT Decompiler](https://suigpt.tools/decompile) - Use latest generative AI to convert Move Bytecode back to Source Code.
+- [Revela](https://revela.verichains.io/) - Decompile Sui smart contracts to recover Move source code.
 
 ## Indexers
 - [ZettaBlock](Indexer/zettablock.md) - Generate custom GraphQL or REST APIs from SQL queries and incorporate your private off-chain data.

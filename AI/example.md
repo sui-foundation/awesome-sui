@@ -1,27 +1,21 @@
-# Example Tool
+# Tooling Name (Please Replace)
 
 ## Tooling Category
 
-- [x] **AI**
-- [ ] **dApp Development**
-- [ ] **Explorer**
-- [ ] **IDE**
-- [ ] **Indexer**
-- [ ] **Oracle**
-- [ ] **SDK**
-
+- [ ] dApp Development
+- [ ] Explorer
+- [ ] IDE
+- [ ] Indexer
+- [ ] Oracle
+- [ ] SDK
+- [x] AI
 ## Homepage or Repo or Download Link
-
-**[Repo Link](https://github.com/sui-foundation/sui-devtools-directory)**
 
 ## Description
 
-<img src="../img/Sui_Symbol_Sea.png" width="200" />
-
-Directory of tools in Sui ecosystem.
+## Features
 
 ## Documentation or Tutorial
 
-[Readme](https://github.com/sui-foundation/sui-devtools-directory/blob/main/README.md)
-
+## Latest Version Number of Sui Tested On
 
