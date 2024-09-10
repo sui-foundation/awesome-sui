@@ -3,7 +3,6 @@
 Directory tracking developer tools and infrastructure projects within Sui ecosystem
 
 ## Contents
-
 - [IDEs](#ides)
     - [Web IDEs](#web-ides)
     - [Desktop IDEs](#desktop-ides)
@@ -13,13 +12,12 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
     - [Client Libraries](#client-libraries)
 - [dApp Development](#dapp-development)
     - [dApp Toolkits](#dapp-toolkits)
+        - [zkLogin](#zklogin)
     - [Smart Contract Toolkits](#smart-contract-toolkits)
-- [Indexers](#indexers)
+- [Indexers & Data Services](#indexers--data-services)
 - [Explorers](#explorers)
 - [Oracles](#oracles)
-- **AI**
-    - [Example](./AI/example.md)
-- **dApp Development**
+- [AI](#ai)
 
 ## IDEs
 
@@ -64,6 +62,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Sui Client Gen (KunaLabs)](https://github.com/kunalabs-io/sui-client-gen/tree/master) - A tool for generating TS SDKs for Sui Move smart contracts. Supports code generation both for source code and on-chain packages with no IDLs or ABIs required.
 - [TypeMove (Sentio)](https://github.com/sentioxyz/typemove/blob/main/packages/sui/Readme.md) - Generate TypeScript bindings for Sui contracts.
 - [Sui Wallet Standard (Mysten Labs)](SDK/sui_wallet_standard.md) - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
+- [CoinMeta (Polymedia)](https://github.com/juzybits/polymedia-coinmeta) - Library for fetching coin metadata for Sui coins
 
 ## dApp Development
 
@@ -72,32 +71,53 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Sui dApp Kit (Mysten Labs)](dApp%20Development/sui_dapp_kit.md) - Set of React components, hooks, and utilities to help you build a dApp for the Sui ecosystem.
 - [Sui dApp Starter](dApp%20Development/sui_dapp_starter.md) - Full-stack boilerplate which let you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
 - [Suiet Wallet Kit](dApp%20Development/suiet_wallet_kit.md) - Suiet wallet kit is an awesome react toolkit for DApps to interact with all the wallets in Sui💧 easily 🥳.
+- [SmartKit](https://smartkit.vercel.app/) - React library that allows your dapp to connect to the Sui network in a simple way. [Github](https://github.com/heapup-tech/smartkit)
 - [Sui Suitcase](https://github.com/juzybits/polymedia-suitcase) - Sui utilities for TypeScript, Node, and React.
+- [Sui MultiSig Toolkit (Mysten Labs)](https://multisig-toolkit.vercel.app/offline-signer) - Toolkit for transaction signing.
+- [Wormhole Kit(zktx.io)](https://github.com/zktx-io/wormhole-kit-monorepo) - React library that enables instant integration of Wormhole into your dapp.
 - [SuiBase](dApp%20Development/suibase.md) - Streamlines development and testing of your Sui network apps.
 - ⚠️ [Obelisk Engine (Beta)](https://obelisk.build/engine/docs) - Framework for ambitious Move applications. It compresses the complexity of building Move apps with a tightly integrated software stack. [Github](https://github.com/0xobelisk/obelisk-engine)
-- [Polymedia Commando (Polymedia)](https://github.com/juzybits/polymedia-commando) - Sui command line tools to help with Sui airdrops (send coins to many addresses), gather data from different sources (Sui RPCs, Indexer.xyz, Suiscan), and more.
-- [zkLogin Demo (Polymedia)](https://zklogin-demo.polymedia.app/) - A Sui zkLogin end-to-end implementation and tutorial. It shows how to use Google / Twitch / Facebook to create a Sui zkLogin address and send a transaction. [Github](https://github.com/juzybits/polymedia-zklogin-demo)
+- [Sui Tools](https://sui-tools.vercel.app/ptb-generator) - Scaffolding Typescript PTBs for any on-chain function you might want to invoke.
+- [Enoki (MystenLabs)](https://docs.enoki.mystenlabs.com/) - Make zkLogin and Sponsored Transactions more accessible.
+- [Sui Gas Pool (MystenLabs)](https://github.com/MystenLabs/sui-gas-pool) - Service that powers sponsored transactions on Sui at scale.
+
+#### zkLogin
+- [zkLogin Demo (Polymedia)](https://github.com/juzybits/polymedia-zklogin-demo)
+- [Sui zkLogin Demo by @jovicheng](https://github.com/jovicheng/sui-zklogin-demo)
+- [Sui zkWallet Demo by @ronanyeah](https://github.com/ronanyeah/sui-zk-wallet)
+
+#### Misc
+- [`sui-sniffer`](https://www.app.kriya.finance/sui-sniffer/) - Checking security of Sui tokens.
 - [RPC Tools (Polymedia)](https://rpcs.polymedia.app/) - A webapp that lets users find the fastest RPC for their location. [Github](https://github.com/juzybits/polymedia-rpcs)
+- [Polymedia Commando (Polymedia)](https://github.com/juzybits/polymedia-commando) - Sui command line tools to help with Sui airdrops (send coins to many addresses), gather data from different sources (Sui RPCs, Indexer.xyz, Suiscan), and more.
+- [YubiSui (MystenLabs)](https://github.com/MystenLabs/yubigen) - Create a Sui Wallet inside a yubikey and sign Sui transactions with it.
+- [`sui-dapp-kit-theme-creator`](https://sui-dapp-kit-theme-creator.app/) - Build custom Sui dApp Kit themes
+- [Minting Server (Mysten Labs)](https://github.com/MystenLabs/minting-server) - A scalable system architecture that can process multiple Sui transactions in parallel using a producer-consumer worker scheme
+- [SuiInfra](https://suinfra.io/) - Provide users and developers with up-to-date recommendations on the ideal RPCs to use for their needs.
+- [SuiSec](https://suisec.vercel.app/) - Series of security tools to protect users from hacker attacks. [Github](https://github.com/SuiSec/SuiSecToolkit)
 
 ### Smart Contract Toolkits
 - [Sui CLI](https://docs.sui.io/references/cli) - CLI tool to interact with the Sui network, its features, and the Move programming language.
 - [Sentio Debugger](https://docs.sentio.xyz/docs/debugger) - Shows the trace of the transaction [Explorer App](https://app.sentio.xyz/explorer)(mainnet only).
 - [`std::debug`](https://docs.sui.io/guides/developer/first-app/debug#related-links) - Print arbitrary values to the console to help with debugging process.
 - [Sui Tears 💧 (Interest Protocol)](https://docs.interestprotocol.com/overview/sui-tears) - Open source production ready Sui Move library to increase the productivity of new and experienced developers alike.
-- [Sui Codec][https://github.com/sui-potatoes/app/tree/main/packages/codec] - Ultimate encoding solution for Sui.
+- [Sui Codec](https://github.com/sui-potatoes/app/tree/main/packages/codec) - Ultimate encoding solution for Sui.
+- [SuiDouble Metadata](https://github.com/suidouble/suidouble_metadata) - A Sui Move library and a set of tools to store, retrieve, and manage any type of primitive data as chunks in a `vector<u8>`. Store any data in the `vector<u8>` without dependencies and without any `Struct` defined.
 - [Move on Sui examples (Mysten Labs)](https://github.com/MystenLabs/sui/tree/main/examples/move) - Examples of Move on Sui applications.
 - [SuiGPT Decompiler](https://suigpt.tools/decompile) - Use latest generative AI to convert Move Bytecode back to Source Code.
 - [Revela](https://revela.verichains.io/) - Decompile Sui smart contracts to recover Move source code.
+- [Package Source Code Verification (WELLDONE Studio)](https://twitter.com/suiscanofficial/status/1775931534878621737) - Verify your package source code on [SuiScan](https://suiscan.xyz/mainnet/package-verification)
 
-## Indexers
+## Indexers & Data Services
 - [ZettaBlock](Indexer/zettablock.md) - Generate custom GraphQL or REST APIs from SQL queries and incorporate your private off-chain data.
 - [Sentio](Indexer/sentio.md) - Transform raw indexed data (transactions, events,...) into meaningful queryable data by writing custom processor logic.
 - [BlockVision (SuiVision)](Indexer/blockvision.md) - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi,...
 - [BlockBerry (SuiScan)](Indexer/blockberry.md) - The Blockberry Sui API provides endpoints that reveal data about significant entities on the Sui Network.
 - [Space And Time (SxT)](Indexer/space_and_time.md) - Verifiable compute layer for AI x blockchain. Decentralized data warehouse with sub-second ZK proof.
+- [Birdeye Data Services](https://bds.birdeye.so/) - Access Crypto Market Data APIs on Sui. [Blog](https://blog.sui.io/birdeye-data-services-crypto-api-websocket/) | [API Documentation](https://docs.birdeye.so/reference/intro/authentication)
+- [Indexer.xyz (behind TradePort)](https://www.indexer.xyz/) - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui. [API Explorer](https://www.indexer.xyz/api-explorer) | [API Docs](https://tradeport.xyz/docs).
 
 ## Explorers
-
 - [SuiVision](Explorer/suivision.md) - Data analytics covering transactions, wallets, staking, and validators.
 - [SuiScan](Explorer/suiscan.md) - Explorer and analytics platform for Sui.
 - [OKLink](Explorer/oklink.md) - Provide fundamental explorer and data APIs on Sui.
@@ -108,6 +128,10 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Pyth Network](Oracle/pyth.md) - Oracle protocol that connects the owners of market data to applications on multiple blockchains including Sui.
 - [Supra Oracles](Oracle/supra.md) - Oracle protocol to provide reliable data feed.
 - [Switchboard](Oracle/switchboard.md) - Data feed customization and management.
+
+## AI
+- [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
+- [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
 
 ## New Dev Tooling Submission Guidelines
 
