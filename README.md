@@ -8,13 +8,15 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
     - [Web IDEs](#web-ides)
     - [Desktop IDEs](#desktop-ides)
     - [IDE Utilities](#ide-utilities)
+- [Client SDKs & Libraries](#client-sdks--libraries)
+    - [Client SDKs](#client-sdks)
+    - [Client Libraries](#client-libraries)
 - [Indexers](#indexers)
 - [Explorers](#explorers)
 - [Oracles](#oracles)
 - **AI**
     - [Example](./AI/example.md)
 - **dApp Development**
-- **SDK**
 
 ## IDEs
 
@@ -36,6 +38,30 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - ⚠️ [Sui Simulator](IDE/vscode_sui_simulator.md) - VSCode Extension to streamline Sui development workflow with intuitive UI.
 - [Move.vim](IDE/movevim.md) - Syntax highlighting for the Move smart contract programming language.
 - [Tree Sitter Move](IDE/tree_sitter_move.md) - Tree Sitter for Move.
+
+## Client SDKs & Libraries
+
+### Client SDKs
+- [Sui Typescript SDK (Mysten Labs)](SDK/sui_typescript_sdk.md) - Typescript modular library of tools for interacting with the Sui blockchain.
+- [Sui Rust SDK (Mysten Labs)](SDK/sui_rust_sdk.md) - Rust SDK to interact with Sui blockchain.
+- [Pysui](SDK/pysui.md) - Python SDK to interact with Sui blockchain.
+- [Sui Go SDK (SuiVision)](SDK/sui_go_sdk.md) - Golang SDK to interact with Sui blockchain.
+- [Sui Dart SDK](SDK/sui_dart_sdk.md) - Dart SDK to interact with Sui blockchain.
+- [Sui Kotlin SDK](SDK/ksui.md) - Kotlin Multiplatform (KMP) SDK for integrating with the Sui blockchain.
+- [SuiKit (OpenDive)](SDK/suikit.md) - Swift SDK natively designed to make developing for the Sui Blockchain easy.
+- [Sui Unity SDK (OpenDive)](SDK/sui_unity_sdk_opendive.md) - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
+
+### Client Libraries
+- [BCS Typescript (Mysten Labs)](https://sdk.mystenlabs.com/bcs) - BCS with Typescript.
+- [BCS Rust]((https://github.com/zefchain/bcs)) - BCS with Rust.
+- [BCS Dart](https://github.com/mofalabs/bcs) - BCS with Dart.
+- [BCS Kotlin](https://github.com/mcxross/kotlinx-serialization-bcs) - BCS with Kotlin
+- [BCS Swift](https://github.com/OpenDive/SuiKit/tree/main/Sources/SuiKit/Utils/BCS) - BCS with Swift
+- [BCS Unity](https://github.com/OpenDive/Sui-Unity-SDK/tree/main/Assets/Sui-Unity-SDK/Code/OpenDive.BCS) - BCS with Unity C#
+- [Sui Client Gen (KunaLabs)](https://github.com/kunalabs-io/sui-client-gen/tree/master) - A tool for generating TS SDKs for Sui Move smart contracts. Supports code generation both for source code and on-chain packages with no IDLs or ABIs required.
+- [TypeMove (Sentio)](https://github.com/sentioxyz/typemove/blob/main/packages/sui/Readme.md) - Generate TypeScript bindings for Sui contracts.
+- [Sui Wallet Standard (Mysten Labs)](SDK/sui_wallet_standard.md) - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
+- [Suiet Wallet Kit](SDK/suiet_wallet_kit.md) - Suiet wallet kit is an awesome react toolkit for DApps to interact with all the wallets in Sui💧 easily 🥳.
 
 ## Indexers
 - [ZettaBlock](Indexer/zettablock.md) - Generate custom GraphQL or REST APIs from SQL queries and incorporate your private off-chain data.
