@@ -13,6 +13,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [dApp Development](#dapp-development)
     - [dApp Toolkits](#dapp-toolkits)
         - [zkLogin](#zklogin)
+        - [Misc](#misc)
     - [Smart Contract Toolkits](#smart-contract-toolkits)
 - [Indexers & Data Services](#indexers--data-services)
 - [Explorers](#explorers)
