@@ -2,12 +2,12 @@
 
 ## Tooling Category
 
-- [ ] dApp Development
+- [x] dApp Development
 - [ ] Explorer
 - [ ] IDE
 - [ ] Indexer
 - [ ] Oracle
-- [x] SDK
+- [ ] SDK
 
 ## Homepage or Repo or Download Link
 
