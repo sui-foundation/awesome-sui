@@ -2,13 +2,15 @@
 
 ## Tooling Category
 
+- [x] AI
 - [ ] dApp Development
 - [ ] Explorer
 - [ ] IDE
 - [ ] Indexer
 - [ ] Oracle
 - [ ] SDK
-- [x] AI
+- [ ] Walrus
+
 ## Homepage or Repo or Download Link
 
 ## Description

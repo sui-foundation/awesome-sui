@@ -7,9 +7,9 @@
 - [ ] Explorer
 - [ ] IDE
 - [ ] Indexer
-- [x] Oracle
+- [ ] Oracle
 - [ ] SDK
-- [ ] Walrus
+- [x] Walrus
 
 ## Homepage or Repo or Download Link
 
