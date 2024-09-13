@@ -1,6 +1,8 @@
 # Awesome Sui [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Directory tracking developer tools and infrastructure projects within Sui ecosystem
+Directory tracking developer tools and infrastructure projects within Sui ecosystem.
+
+[*Submit your own devtool here.*]((#submission-guidelines))
 
 ## Contents
 - [IDEs](#ides)
@@ -19,6 +21,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Explorers](#explorers)
 - [Oracles](#oracles)
 - [AI](#ai)
+- [Submission Guidelines](#submission-guidelines)
 
 ## IDEs
 
@@ -134,9 +137,12 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
 - [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
 
-## New Dev Tooling Submission Guidelines
+## Submission Guidelines
 
-- Duplicate and fill out the [new tool submission template](./new_tool_submission_template.md) for the tool you are registering
-- Change the file name into the name of the tool in [snaking case](https://en.wikipedia.org/wiki/Snake_case), and move it into the folder according to the category of the tool being submitted
-- If you would like to include and link to an image, you can add it under the [`img` folder](./img/), and include it in the same pull request.
-- Create a pull request with the changes against the `main` branch
+- For submitting new tools:
+    - Duplicate and fill out the [new tool submission template](./new_tool_submission_template.md) for the tool you are registering
+    - Change the file name into the name of the tool in [snaking case](https://en.wikipedia.org/wiki/Snake_case), and move it into the folder according to the category of the tool being submitted
+    - If you would like to include and link to an image, you can add it under the [`img` folder](./img/), and include it in the same pull request.
+    - Create a pull request with the changes against the `main` branch
+- For editing existing tracked tools:
+    - Create a PR directly with the changes needed against the `main` branch
