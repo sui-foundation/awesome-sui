@@ -5,23 +5,27 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 [**Submit your own devtool here**](#submission-guidelines)
 
 ## Contents
-- [IDEs](#ides)
+- [Awesome Sui ](#awesome-sui-)
+  - [Contents](#contents)
+  - [IDEs](#ides)
     - [Web IDEs](#web-ides)
     - [Desktop IDEs](#desktop-ides)
     - [IDE Utilities](#ide-utilities)
-- [Client SDKs & Libraries](#client-sdks--libraries)
+  - [Client SDKs \& Libraries](#client-sdks--libraries)
     - [Client SDKs](#client-sdks)
     - [Client Libraries](#client-libraries)
-- [dApp Development](#dapp-development)
+  - [dApp Development](#dapp-development)
     - [dApp Toolkits](#dapp-toolkits)
-        - [zkLogin](#zklogin)
-        - [Misc](#misc)
+      - [zkLogin](#zklogin)
+      - [Misc](#misc)
     - [Smart Contract Toolkits](#smart-contract-toolkits)
-- [Indexers & Data Services](#indexers--data-services)
-- [Explorers](#explorers)
-- [Oracles](#oracles)
-- [AI](#ai)
-- [Submission Guidelines](#submission-guidelines)
+  - [Indexers \& Data Services](#indexers--data-services)
+  - [Explorers](#explorers)
+  - [Oracles](#oracles)
+  - [Security](#security)
+  - [AI](#ai)
+  - [Launchpad](#launchpad)
+  - [Submission Guidelines](#submission-guidelines)
 
 ## IDEs
 
@@ -78,6 +82,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [SmartKit](https://smartkit.vercel.app/) - React library that allows your dapp to connect to the Sui network in a simple way. [Github](https://github.com/heapup-tech/smartkit)
 - [Sui Suitcase](https://github.com/juzybits/polymedia-suitcase) - Sui utilities for TypeScript, Node, and React.
 - [Sui MultiSig Toolkit (Mysten Labs)](https://multisig-toolkit.vercel.app/offline-signer) - Toolkit for transaction signing.
+- [Sui dApp Scaffold (Bucket Protocol)](https://github.com/Bucket-Protocol/sui-dapp-scaffold-v1) - A frontend scaffold for a decentralized application (dApp) on the Sui blockchain.
 - [Wormhole Kit(zktx.io)](https://github.com/zktx-io/wormhole-kit-monorepo) - React library that enables instant integration of Wormhole into your dapp.
 - [SuiBase](dApp%20Development/suibase.md) - Streamlines development and testing of your Sui network apps.
 - ⚠️ [Obelisk Engine (Beta)](https://obelisk.build/engine/docs) - Framework for ambitious Move applications. It compresses the complexity of building Move apps with a tightly integrated software stack. [Github](https://github.com/0xobelisk/obelisk-engine)
@@ -98,7 +103,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [`sui-dapp-kit-theme-creator`](https://sui-dapp-kit-theme-creator.app/) - Build custom Sui dApp Kit themes
 - [Minting Server (Mysten Labs)](https://github.com/MystenLabs/minting-server) - A scalable system architecture that can process multiple Sui transactions in parallel using a producer-consumer worker scheme
 - [SuiInfra](https://suinfra.io/) - Provide users and developers with up-to-date recommendations on the ideal RPCs to use for their needs.
-- [SuiSec](https://suisec.vercel.app/) - Series of security tools to protect users from hacker attacks. [Github](https://github.com/SuiSec/SuiSecToolkit)
+- [Sui RPC Proxy](https://github.com/SuiSec/sui-rpc-proxy) - Monitor and analyze the network requests made by the Sui wallet application and Sui dApps.
 
 ### Smart Contract Toolkits
 - [Sui CLI](https://docs.sui.io/references/cli) - CLI tool to interact with the Sui network, its features, and the Move programming language.
@@ -133,9 +138,17 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Supra Oracles](Oracle/supra.md) - Oracle protocol to provide reliable data feed.
 - [Switchboard](Oracle/switchboard.md) - Data feed customization and management.
 
+## Security
+- [SuiSecBlockList](https://github.com/SuiSec/SuiSecBlockList) - Block malicious websites and packages, Identify and hide phishing objects.
+- [DryRunTransactionBlockResponsePlus](https://github.com/SuiSec/DryRunTransactionBlockResponsePlus) - Decorator of `DryRunTransactionBlockResponse`, highlight `SenderChange`.
+- [Guardians](https://github.com/suiet/guardians) - Phishing Website Protection.
+
 ## AI
 - [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
 - [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
+
+## Launchpad
+- [PumpSui](https://pumpsui.com) - An anti-rug crowdfunding platform. Honest project launchpad. [Github](https://github.com/PumpSui/PumpSuiContract)
 
 ## Submission Guidelines
 
