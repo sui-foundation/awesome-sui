@@ -2,7 +2,7 @@
 
 Directory tracking developer tools and infrastructure projects within Sui ecosystem.
 
-[*Submit your own devtool here.*]((#submission-guidelines))
+[**Submit your own devtool here**]((#submission-guidelines))
 
 ## Contents
 - [IDEs](#ides)
