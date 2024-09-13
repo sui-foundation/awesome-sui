@@ -24,7 +24,6 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
   - [Oracles](#oracles)
   - [Security](#security)
   - [AI](#ai)
-  - [Launchpad](#launchpad)
   - [Submission Guidelines](#submission-guidelines)
 
 ## IDEs
@@ -146,9 +145,6 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 ## AI
 - [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
 - [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
-
-## Launchpad
-- [PumpSui](https://pumpsui.com) - An anti-rug crowdfunding platform. Honest project launchpad. [Github](https://github.com/PumpSui/PumpSuiContract)
 
 ## Submission Guidelines
 
