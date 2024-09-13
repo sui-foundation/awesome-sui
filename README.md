@@ -21,6 +21,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Explorers](#explorers)
 - [Oracles](#oracles)
 - [AI](#ai)
+- [Walrus](#walrus)
 - [Submission Guidelines](#submission-guidelines)
 
 ## IDEs
@@ -136,6 +137,9 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 ## AI
 - [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
 - [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
+
+## Walrus
+- [Walrus Sites GA](https://github.com/marketplace/actions/walrus-sites-ga) - Reusable GitHub Action for deploying Walrus Sites
 
 ## Submission Guidelines
 
