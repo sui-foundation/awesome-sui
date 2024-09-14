@@ -20,6 +20,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Indexers & Data Services](#indexers--data-services)
 - [Explorers](#explorers)
 - [Oracles](#oracles)
+- [Security](#security)
 - [AI](#ai)
 - [Walrus](#walrus)
 - [Submission Guidelines](#submission-guidelines)
