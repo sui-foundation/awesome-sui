@@ -155,7 +155,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - For submitting new tools:
     - Duplicate and fill out the [new tool submission template](./new_tool_submission_template.md) for the tool you are registering
     - Change the file name into the name of the tool in [snake casing](https://en.wikipedia.org/wiki/Snake_case), and move it into the folder according to the category of the tool being submitted
-    - If you would like to include and link to an image, you can add it under the [`img` folder](./img/), and include it in the same pull request.
+    - If you would like to include and link to an image, you can add it under the [`img` folder](./img/), and include it in the same pull request
     - Create a pull request with the changes against the `main` branch
 - For editing existing tracked tools:
-    - Create a PR directly with the changes needed against the `main` branch
+    - Create a pull request directly with the changes needed against the `main` branch
