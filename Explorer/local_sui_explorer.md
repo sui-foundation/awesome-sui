@@ -17,14 +17,10 @@
 
 Sui Explorer for your localnet.
 
+Sui Explorer Local is integrated into [Sui dApp Starter](../dApp%20Development/sui_dapp_starter.md) and [Suibase](../dApp%20Development/suibase.md).
+
 ## Features
-- Fundamental network data (transactions, epoch,...)
-- Function execution
-- Analytics:
-    - Validators
+- Object and transaction data view
 - Supported networks:
-    - Mainnet
-    - Testnet
-    - Devnet
     - Local (default)
     - Custom nodes
