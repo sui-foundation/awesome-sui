@@ -15,7 +15,7 @@
 
 ## Description
 
-Sui dApp Starter is a full-stack boilerplate which let you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
+Sui dApp Starter is a full-stack boilerplate which lets you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
 
 ## Features
 

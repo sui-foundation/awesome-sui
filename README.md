@@ -76,7 +76,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 ### dApp Toolkits
 - [@mysten/create-dapp](https://sdk.mystenlabs.com/dapp-kit/create-dapp) - CLI tool that helps you create Sui dApp projects.
 - [Sui dApp Kit (Mysten Labs)](dApp%20Development/sui_dapp_kit.md) - Set of React components, hooks, and utilities to help you build a dApp for the Sui ecosystem.
-- [Sui dApp Starter](dApp%20Development/sui_dapp_starter.md) - Full-stack boilerplate which let you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
+- [Sui dApp Starter](dApp%20Development/sui_dapp_starter.md) - Full-stack boilerplate which lets you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
 - [Suiet Wallet Kit](dApp%20Development/suiet_wallet_kit.md) - Suiet wallet kit is an awesome react toolkit for DApps to interact with all the wallets in Sui💧 easily 🥳.
 - [SmartKit](https://smartkit.vercel.app/) - React library that allows your dapp to connect to the Sui network in a simple way. [Github](https://github.com/heapup-tech/smartkit)
 - [Sui Suitcase](https://github.com/juzybits/polymedia-suitcase) - Sui utilities for TypeScript, Node, and React.
