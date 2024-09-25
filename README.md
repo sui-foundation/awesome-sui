@@ -61,7 +61,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 ### Client Libraries
 - [BCS Typescript (Mysten Labs)](https://sdk.mystenlabs.com/bcs) - BCS with Typescript.
-- [BCS Rust]((https://github.com/zefchain/bcs)) - BCS with Rust.
+- [BCS Rust](https://github.com/zefchain/bcs) - BCS with Rust.
 - [BCS Dart](https://github.com/mofalabs/bcs) - BCS with Dart.
 - [BCS Kotlin](https://github.com/mcxross/kotlinx-serialization-bcs) - BCS with Kotlin
 - [BCS Swift](https://github.com/OpenDive/SuiKit/tree/main/Sources/SuiKit/Utils/BCS) - BCS with Swift
