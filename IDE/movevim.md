@@ -4,8 +4,8 @@
 
 - [ ] dApp Development
 - [ ] Explorer
-- [ ] IDE
-- [x] Indexer
+- [x] IDE
+- [ ] Indexer
 - [ ] Oracle
 - [ ] SDK
 
