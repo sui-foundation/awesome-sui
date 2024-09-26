@@ -29,10 +29,14 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 ## IDEs
 
 ### Web IDEs
-- [BitsLab IDE](IDE/bitslab_ide.md) - online Move code editor that requires no configuration and supports Move code syntax highlighting, it's beginner-friendly and supports interacting with Sui.
-- [MoveStudio](IDE/movestudio.md) - Online IDE for Sui smart contract development.
-- [ChainIDE](IDE/chainide.md) - Move Cloud-Powered Development Platform.
-- ⚠️ [WELLDONE Code](IDE/welldone_code.md) - Remix IDE plugin supports non-EVM smart contract development including Sui.
+- **BitsLab IDE** - Online Move code editor that requires no configuration and supports Move code syntax highlighting, it's beginner-friendly and supports interacting with Sui.
+  - [Homepage](https://www.bitslab.xyz/bitslabide) | [IDE](https://ide.bitslab.xyz/) | [Tutorial](https://www.youtube.com/watch?v=-9-WkqQwtu8)
+- **MoveStudio** - Online IDE for Sui smart contract development.
+  - [Homepage](https://www.movestudio.dev/) | [GitHub](https://github.com/dantheman8300/move-studio) | [IDE](https://www.movestudio.dev/build)
+- **ChainIDE** - Move Cloud-Powered Development Platform.
+  - [Homepage](https://chainide.com) | [Documentation](https://chainide.gitbook.io/chainide-english-1/ethereum-ide-1/9.-sui-ide) | [IDE](https://chainide.com/s/sui)
+- ⚠️ **WELLDONE Code** - Remix IDE plugin supports non-EVM smart contract development including Sui.
+  - [Homepage](https://docs.welldonestudio.io/code) | [Documentation & Tutorial](https://docs.welldonestudio.io/code/deploy-and-run/sui)
 
 ### Desktop IDEs
 - [VSCode Move by Mysten Labs](IDE/vscode_mysten_move_analyzer.md) - VSCode Extension supports Move on Sui development with LSP features through Move Analyzer developed by Mysten Labs.
