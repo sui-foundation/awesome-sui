@@ -15,7 +15,7 @@
 
 ## Description
 
-- VSCode Extension for Move on Sui smart contract development powered by LSP Sui Move Analyzer language server developed by Movebit. It is a fork of original Move Analyzer by Mysten Labs.
+- VSCode Extension for Move on Sui smart contract development powered by LSP Sui Move Analyzer language server developed by Movebit.
 
 ## Features
 
