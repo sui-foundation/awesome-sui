@@ -9,10 +9,6 @@
 - [x] Oracle
 - [ ] SDK
 
-## Homepage or Repo or Download Link
-
-[Homepage](https://supra.com/) | [Sui Tutorial](https://docs.supra.com/docs/developer-tutorials/move) | 
-
 ## Features
 - [Pull-based price feed](https://docs.supra.com/docs/data-feeds/pull-model) ([Sui is supported](https://docs.supra.com/docs/data-feeds/pull-model/networks))
 - [Push-based price feed](https://docs.supra.com/docs/data-feeds/decentralized) ([Sui is supported](https://docs.supra.com/docs/data-feeds/decentralized/networks))

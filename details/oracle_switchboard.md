@@ -11,7 +11,6 @@
 
 ## Homepage or Repo or Download Link
 
-[Documentation](https://docs.switchboard.xyz/docs)
 
 ## Description
 

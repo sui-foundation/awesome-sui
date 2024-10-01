@@ -184,9 +184,12 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 ## Oracles
 
-- [Pyth Network](Oracle/pyth.md) - Oracle protocol that connects the owners of market data to applications on multiple blockchains including Sui.
-- [Supra Oracles](Oracle/supra.md) - Oracle protocol to provide reliable data feed.
-- [Switchboard](Oracle/switchboard.md) - Data feed customization and management.
+- **Pyth Network** - Oracle protocol that connects the owners of market data to applications on multiple blockchains including Sui.
+  - [Homepage](https://www.pyth.network/) | [Documentation](https://docs.pyth.network/home) | [Sui Tutorial](https://docs.pyth.network/price-feeds/use-real-time-data/sui) | [Further Information](details/oracle_pyth.md)
+- **Supra Oracles** - Oracle protocol to provide reliable data feed.
+  - [Homepage](https://supra.com/) | [Sui Tutorial](https://docs.supra.com/docs/developer-tutorials/move) | [Further Information](details/oracle_supra.md)
+- **Switchboard** - Data feed customization and management.
+  - [Documentation](https://docs.switchboard.xyz/docs) | [Further Information](details/oracle_switchboard.md)
 
 ## Security
 
