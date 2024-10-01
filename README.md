@@ -84,6 +84,16 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - **Sui Unity SDK (OpenDive)** - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
   - [Github](https://github.com/OpenDive/Sui-Unity-SDK) | [Further Information](details/sdk_sui_unity_opendive.md)
 
+### DeFi SDKs
+- [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI Typescript SDK Client provides tools for interacting with the Sui blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
+- [Bucket Protocol SDK](https://github.com/Bucket-Protocol/bucket-protocol-sdk) - The Typescript SDK for interacting with Bucket Protocol.
+- [Suilend SDK](https://github.com/solendprotocol/suilend-public/tree/production/sdk) - The TypeScript SDK for interacting with the Suilend program published on npm as [`@suilend/sdk`](https://www.npmjs.com/package/@suilend/sdk).
+- [Scallop SDK](https://github.com/scallop-io/sui-scallop-sdk) - The Typescript SDK for interacting with the Scallop lending protocol on the Sui network.
+- [Cetus CLMM SDK](https://github.com/CetusProtocol/cetus-clmm-sui-sdk) - The official software development kit (SDK) specifically designed for seamless integration with Cetus-CLMM on Sui.
+- [Aftermath SDK](https://github.com/AftermathFinance/aftermath-ts-sdk) - The Typescript SDK for interacting with Aftermath Protocol.
+- [FlowX SDK](https://github.com/FlowX-Finance/sdk) - FlowX Typescript SDK is an official software development kit that allows developers to interact with FlowX protocols using the Typescript programming language.
+- [7k Aggregator SDK](https://github.com/7k-ag/7k-sdk-ts) - The Typescript SDK for interacting with 7k Aggregator protocol. 
+
 ### Client Libraries
 
 - [BCS Typescript (Mysten Labs)](https://sdk.mystenlabs.com/bcs) - BCS with Typescript.
