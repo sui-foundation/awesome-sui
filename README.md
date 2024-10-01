@@ -204,7 +204,8 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 ## Walrus
 
-- [Walrus Sites GA](https://github.com/marketplace/actions/walrus-sites-ga) - Reusable GitHub Action for deploying Walrus Sites
+- **Walrus Sites GA** - Reusable GitHub Action for deploying Walrus Sites
+  - [Github](https://github.com/zktx-io/walrus-sites-ga) | [Marketplace](https://github.com/marketplace/actions/walrus-sites-ga) | [Examples](https://github.com/zktx-io/walrus-sites-ga-example) | [Further Information](details/walrus_sites_ga.md)
 
 ## Submission Guidelines
 
