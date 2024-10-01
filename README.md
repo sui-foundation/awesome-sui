@@ -154,13 +154,20 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 ## Indexers & Data Services
 
-- [ZettaBlock](Indexer/zettablock.md) - Generate custom GraphQL or REST APIs from SQL queries and incorporate your private off-chain data.
-- [Sentio](Indexer/sentio.md) - Transform raw indexed data (transactions, events,...) into meaningful queryable data by writing custom processor logic.
-- [BlockVision (SuiVision)](Indexer/blockvision.md) - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi,...
-- [BlockBerry (SuiScan)](Indexer/blockberry.md) - The Blockberry Sui API provides endpoints that reveal data about significant entities on the Sui Network.
-- [Space And Time (SxT)](Indexer/space_and_time.md) - Verifiable compute layer for AI x blockchain. Decentralized data warehouse with sub-second ZK proof.
-- [Birdeye Data Services](https://bds.birdeye.so/) - Access Crypto Market Data APIs on Sui. [Blog](https://blog.sui.io/birdeye-data-services-crypto-api-websocket/) | [API Documentation](https://docs.birdeye.so/reference/intro/authentication)
-- [Indexer.xyz (behind TradePort)](https://www.indexer.xyz/) - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui. [API Explorer](https://www.indexer.xyz/api-explorer) | [API Docs](https://tradeport.xyz/docs).
+- **ZettaBlock** - Generate custom GraphQL or REST APIs from SQL queries and incorporate your private off-chain data.
+  - [Homepage](https://zettablock.com/) | [Docs](https://docs.zettablock.com) | [Pricing](https://zettablock.com/pricing) | [Further Information](details/indexer_zettablock.md)
+- **Sentio** - Transform raw indexed data (transactions, events,...) into meaningful queryable data by writing custom processor logic.
+  - [Homepage](https://www.sentio.xyz/indexer/) | [Documentation](https://docs.sentio.xyz/docs/data-collection) | [Examples](https://github.com/sentioxyz/sentio-processors/tree/main/projects) | [Further Information](details/indexer_sentio.md)
+- **BlockVision (SuiVision)** - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi,...
+  - [Homepage](https://suivision.xyz/) | [Documentation](https://docs.blockvision.org/reference/welcome-to-blockvision)
+- **BlockBerry (SuiScan)** - The Blockberry Sui API provides endpoints that reveal data about significant entities on the Sui Network. We index useful object metadata, including NFTs, domains, collections, coins, etc. Some data is drawn from third-party providers, particularly market data (coin prices, market cap, etc.).
+  - [Homepage](https://blockberry.one/) | [Documentation](https://docs.blockberry.one/reference/sui-quickstart)
+- **Space And Time (SxT)** - Verifiable compute layer for AI x blockchain. Decentralized data warehouse with sub-second ZK proof.
+  - [Homepage](https://www.spaceandtime.io/) | [Documentation](https://www.spaceandtime.io/) | [Further Documentation](details/indexer_space_and_time.md)
+- **Birdeye Data Services** - Access Crypto Market Data APIs on Sui. 
+  - [Homepage](https://bds.birdeye.so/) | [Blog](https://blog.sui.io/birdeye-data-services-crypto-api-websocket/) | [API Documentation](https://docs.birdeye.so/reference/intro/authentication)
+- **Indexer.xyz (behind TradePort)** - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui. 
+  - [Homepage](https://www.indexer.xyz/) | [API Explorer](https://www.indexer.xyz/api-explorer) | [API Docs](https://tradeport.xyz/docs)
 
 ## Explorers
 

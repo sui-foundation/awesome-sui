@@ -11,7 +11,7 @@
 
 ## Homepage or Repo or Download Link
 
-[Homepage](https://zettablock.com/) | [Docs](https://docs.zettablock.com) | [Pricing](https://zettablock.com/pricing)
+
 
 ## Description
 
