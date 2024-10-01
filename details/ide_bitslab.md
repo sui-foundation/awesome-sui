@@ -9,10 +9,6 @@
 - [ ] Oracle
 - [ ] SDK
 
-## Homepage or Repo or Download Link
-
-[Homepage](https://www.bitslab.xyz/bitslabide) | [IDE](https://ide.bitslab.xyz/) | [Tutorial](https://www.youtube.com/watch?v=-9-WkqQwtu8)
-
 ## Description
 
 BitsLab IDE is an out-of-the-box, configuration-free online development environment that supports end-to-end development of Move smart contracts. It is powerful, easy to use, user friendly, includes built-in tutorials, and supports plugin extensions.

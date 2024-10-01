@@ -1,4 +1,4 @@
-# VSCode Move by Mysten Labs
+# VSCode Move (Mysten Labs)
 
 ## Tooling Category
 
@@ -8,10 +8,6 @@
 - [ ] Indexer
 - [ ] Oracle
 - [ ] SDK
-
-## Homepage or Repo or Download Link
-
-[Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=mysten.move) | [Github](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer)
 
 ## Description
 

@@ -1,7 +1,7 @@
 # WELLDONE Code
 
 > [!WARNING]
-> The tool is not currently not working with Sui.
+> The tool is currently not working.
 
 ## Tooling Category
 
@@ -11,10 +11,6 @@
 - [ ] Indexer
 - [ ] Oracle
 - [ ] SDK
-
-## Homepage or Repo or Download Link
-
-[Homepage](https://docs.welldonestudio.io/code) | [Documentation & Tutorial](https://docs.welldonestudio.io/code/deploy-and-run/sui)
 
 ## Description
 

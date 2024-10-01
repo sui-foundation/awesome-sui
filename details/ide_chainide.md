@@ -1,4 +1,4 @@
-# MoveStudio
+# ChainIDE
 
 ## Tooling Category
 
@@ -9,13 +9,9 @@
 - [ ] Oracle
 - [ ] SDK
 
-## Homepage or Repo or Download Link
-
-[Homepage](https://www.movestudio.dev/) | [Github](https://github.com/dantheman8300/move-studio) | [IDE](https://www.movestudio.dev/build)
-
 ## Description
 
-Online IDE for Sui smart contract development
+ChainIDE is cloud-based IDE for creating decentralized applications to deploy on blockchains. It supports Sui smart contract development.
 
 ## Features
 - Move
@@ -23,11 +19,10 @@ Online IDE for Sui smart contract development
     - Compilation
     - Unit Testing
     - Deployment
-    - Only support one default `sui` binary version
 - Project Management
     - Multiple workspaces
     - Persistent session
-    - Import from local file system
+    - Integrated terminal
 - Utilities
     - Lightweight object explorer
     - Lightweight package explorer
@@ -36,4 +31,3 @@ Online IDE for Sui smart contract development
 
 ## Latest Version Number of Sui Tested On
 
-- `sui 1.25.0-b10ea7331e1c`

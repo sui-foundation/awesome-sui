@@ -1,4 +1,4 @@
-# VSCode Sui Move Analyzer by Movebit
+# VSCode Sui Move Analyzer (MoveBit)
 
 ## Tooling Category
 
@@ -8,10 +8,6 @@
 - [ ] Indexer
 - [ ] Oracle
 - [ ] SDK
-
-## Homepage or Repo or Download Link
-
-[Homepage](https://movebit.xyz/analyzer) | [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=MoveBit.sui-move-analyzer) | [Github](https://github.com/movebit/sui-move-analyzer)
 
 ## Description
 
