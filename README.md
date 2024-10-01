@@ -103,15 +103,20 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 ### dApp Toolkits
 
 - [@mysten/create-dapp](https://sdk.mystenlabs.com/dapp-kit/create-dapp) - CLI tool that helps you create Sui dApp projects.
-- [Sui dApp Kit (Mysten Labs)](dApp%20Development/sui_dapp_kit.md) - Set of React components, hooks, and utilities to help you build a dApp for the Sui ecosystem.
-- [Sui dApp Starter](dApp%20Development/sui_dapp_starter.md) - Full-stack boilerplate which lets you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
-- [Suiet Wallet Kit](dApp%20Development/suiet_wallet_kit.md) - Suiet wallet kit is an awesome react toolkit for DApps to interact with all the wallets in Sui💧 easily 🥳.
-- [SmartKit](https://smartkit.vercel.app/) - React library that allows your dapp to connect to the Sui network in a simple way. [Github](https://github.com/heapup-tech/smartkit)
+- **Sui dApp Kit (Mysten Labs)** - Set of React components, hooks, and utilities to help you build a dApp for the Sui ecosystem.
+  - [Github](https://github.com/MystenLabs/sui/tree/main/sdk/dapp-kit) | [Documentation](https://sdk.mystenlabs.com/dapp-kit)
+- **Sui dApp Starter** - Full-stack boilerplate which lets you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
+  - [Github](https://github.com/kkomelin/sui-dapp-starter?tab=readme-ov-file) | [Documentation](https://sui-dapp-starter.dev/docs/) |  [Demo app](https://demo.sui-dapp-starter.dev/)
+- **Suiet Wallet Kit** - Suiet wallet kit is an awesome react toolkit for DApps to interact with all the wallets in Sui💧 easily 🥳.
+  - [Github](https://github.com/suiet/wallet-kit) | [Documentation](https://kit.suiet.app/docs/QuickStart)
+- **SmartKit** - React library that allows your dapp to connect to the Sui network in a simple way.
+  - [Homepage](https://smartkit.vercel.app/) | [Github](https://github.com/heapup-tech/smartkit)
 - [Sui Suitcase](https://github.com/juzybits/polymedia-suitcase) - Sui utilities for TypeScript, Node, and React.
 - [Sui MultiSig Toolkit (Mysten Labs)](https://multisig-toolkit.vercel.app/offline-signer) - Toolkit for transaction signing.
-- [Sui dApp Scaffold (Bucket Protocol)](dApp%20Development/sui_dapp_scaffold.md) - A frontend scaffold for a decentralized application (dApp) on the Sui blockchain.
+- [Sui dApp Scaffold (Bucket Protocol)](https://github.com/Bucket-Protocol/sui-dapp-scaffold-v1) - A frontend scaffold for a decentralized application (dApp) on the Sui blockchain.
 - [Wormhole Kit(zktx.io)](https://github.com/zktx-io/wormhole-kit-monorepo) - React library that enables instant integration of Wormhole into your dapp.
-- [SuiBase](dApp%20Development/suibase.md) - Streamlines development and testing of your Sui network apps.
+- **SuiBase** - Suibase makes it easy to create "workdirs", each defining a distinct development environment targeting a network.
+  - [Github](https://github.com/chainmovers/suibase) | [Documentation](https://suibase.io/)
 - ⚠️ [Obelisk Engine (Beta)](https://obelisk.build/engine/docs) - Framework for ambitious Move applications. It compresses the complexity of building Move apps with a tightly integrated software stack. [Github](https://github.com/0xobelisk/obelisk-engine)
 - [Sui Tools](https://sui-tools.vercel.app/ptb-generator) - Scaffolding Typescript PTBs for any on-chain function you might want to invoke.
 - [Enoki (MystenLabs)](https://docs.enoki.mystenlabs.com/) - Make zkLogin and Sponsored Transactions more accessible.
