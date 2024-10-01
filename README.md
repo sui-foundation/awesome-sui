@@ -2,6 +2,8 @@
 
 Directory tracking developer tools and infrastructure projects within Sui ecosystem.
 
+> ⚠️ prefix means that the tool isn't working properly at the moment. We encourage builders to have further check.
+
 [**Submit your own devtool here**](#submission-guidelines)
 
 ## Contents
@@ -37,7 +39,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
   - [Homepage](https://www.movestudio.dev/) | [Github](https://github.com/dantheman8300/move-studio) | [IDE](https://www.movestudio.dev/build) | [Further Information](details/ide_movestudio.md)
 - **ChainIDE** - Move Cloud-Powered Development Platform.
   - [Homepage](https://chainide.com) | [Documentation](https://chainide.gitbook.io/chainide-english-1/ethereum-ide-1/9.-sui-ide) | [IDE](https://chainide.com/s/sui) | [Further Information](details/ide_chainide.md)
-- **WELLDONE Code** - Remix IDE plugin supports non-EVM smart contract development including Sui.
+- ⚠️ **WELLDONE Code** - Remix IDE plugin supports non-EVM smart contract development including Sui.
   - [Homepage](https://docs.welldonestudio.io/code) | [Documentation & Tutorial](https://docs.welldonestudio.io/code/deploy-and-run/sui) | [Further Information](details/ide_welldone_code.md)
 
 
