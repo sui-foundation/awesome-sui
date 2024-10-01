@@ -9,15 +9,11 @@
 - [ ] Oracle
 - [ ] SDK
 
-## Homepage or Repo or Download Link
-
-[Github](https://github.com/kkomelin/sui-explorer)
-
 ## Description
 
 Sui Explorer for your localnet.
 
-Sui Explorer Local is integrated into [Sui dApp Starter](../dApp%20Development/sui_dapp_starter.md) and [Suibase](../dApp%20Development/suibase.md).
+Sui Explorer Local is integrated into [Sui dApp Starter](https://github.com/kkomelin/sui-dapp-starter?tab=readme-ov-file) and [Suibase](https://github.com/chainmovers/suibase).
 
 ## Features
 - Object and transaction data view

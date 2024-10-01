@@ -9,10 +9,6 @@
 - [ ] Oracle
 - [ ] SDK
 
-## Homepage or Repo or Download Link
-
-[Homepage](https://www.oklink.com/sui)
-
 ## Description
 
 Provide fundamental explorer and data APIs on Sui.

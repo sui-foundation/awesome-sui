@@ -9,10 +9,6 @@
 - [ ] Oracle
 - [ ] SDK
 
-## Homepage or Repo or Download Link
-
-[Homepage](https://suiscan.xyz/mainnet/home) | [Documentation](https://docs.blockberry.one/reference/welcome-to-blockberry-api)
-
 ## Description
 
 Explorer and analytics platform for Sui.

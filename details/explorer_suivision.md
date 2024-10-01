@@ -9,10 +9,6 @@
 - [ ] Oracle
 - [ ] SDK
 
-## Homepage or Repo or Download Link
-
-[Homepage](https://suivision.xyz/) | [Documentation](https://docs.blockvision.org/reference/integrate-suivision-into-your-dapp)
-
 ## Description
 
 Data analytics covering transactions, wallets, staking, and validators
