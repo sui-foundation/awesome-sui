@@ -9,10 +9,6 @@
 - [ ] Oracle
 - [x] SDK
 
-## Homepage or Repo or Download Link
-
-[Documentation](https://pysui.readthedocs.io/en/latest/index.html) | [Github](https://github.com/FrankC01/pysui?tab=readme-ov-file) | [Pypi](https://pypi.org/project/pysui/) | [Discord](https://discord.gg/uCGYfY4Ph4)
-
 ## Description
 
 Python Client SDK for Sui blockchain

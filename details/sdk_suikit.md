@@ -9,10 +9,6 @@
 - [ ] Oracle
 - [x] SDK
 
-## Homepage or Repo or Download Link
-
-[Github](https://github.com/opendive/suikit?tab=readme-ov-file) | 
-
 ## Description
 
 SuiKit is a Swift SDK natively designed to make developing for the Sui Blockchain easy.

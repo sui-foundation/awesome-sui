@@ -9,10 +9,6 @@
 - [ ] Oracle
 - [x] SDK
 
-## Homepage or Repo or Download Link
-
-[Github](https://github.com/OpenDive/Sui-Unity-SDK)
-
 ## Description
 
 The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.

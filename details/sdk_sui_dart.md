@@ -1,4 +1,4 @@
-# Sui Dart SDK (by Mofalabs)
+# Sui Dart SDK (MofaLabs)
 
 ## Tooling Category
 
@@ -8,10 +8,6 @@
 - [ ] Indexer
 - [ ] Oracle
 - [x] SDK
-
-## Homepage or Repo or Download Link
-
-[Github](https://github.com/mofalabs/sui) | [API documentation](https://pub.dev/documentation/sui/latest/)
 
 ## Description
 

@@ -67,14 +67,22 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 ### Client SDKs
 
-- [Sui Typescript SDK (Mysten Labs)](SDK/sui_typescript_sdk.md) - Typescript modular library of tools for interacting with the Sui blockchain.
-- [Sui Rust SDK (Mysten Labs)](SDK/sui_rust_sdk.md) - Rust SDK to interact with Sui blockchain.
-- [Pysui](SDK/pysui.md) - Python SDK to interact with Sui blockchain.
-- [Sui Go SDK (SuiVision)](SDK/sui_go_sdk.md) - Golang SDK to interact with Sui blockchain.
-- [Sui Dart SDK](SDK/sui_dart_sdk.md) - Dart SDK to interact with Sui blockchain.
-- [Sui Kotlin SDK](SDK/ksui.md) - Kotlin Multiplatform (KMP) SDK for integrating with the Sui blockchain.
-- [SuiKit (OpenDive)](SDK/suikit.md) - Swift SDK natively designed to make developing for the Sui Blockchain easy.
-- [Sui Unity SDK (OpenDive)](SDK/sui_unity_sdk_opendive.md) - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
+- **Sui Typescript SDK (Mysten Labs)** - Typescript modular library of tools for interacting with the Sui blockchain.
+  - [Github](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) | [Documentation](https://sdk.mystenlabs.com/typescript) | [Further Information](details/sdk_sui_typescript.md)
+- **Sui Rust SDK (Mysten Labs)** - Rust SDK to interact with Sui blockchain.
+  - [Github](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) | [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) | [Further Information](details/sdk_sui_rust.md)
+- **Pysui** - Python SDK to interact with Sui blockchain.
+  - [Github](https://github.com/FrankC01/pysui?tab=readme-ov-file)| [Documentation](https://pysui.readthedocs.io/en/latest/index.html) | [Pypi](https://pypi.org/project/pysui/) | [Discord](https://discord.gg/uCGYfY4Ph4) | [Further Information](details/sdk_pysui.md)
+- **Sui Go SDK (SuiVision)** - Golang SDK to interact with Sui blockchain.
+  - [Github](https://github.com/block-vision/sui-go-sdk) | [API Documentation](https://pkg.go.dev/github.com/block-vision/sui-go-sdk) | [Examples](https://github.com/block-vision/sui-go-sdk?tab=readme-ov-file#examples) | [Further Information](details/sdk_sui_go.md)
+- **Sui Dart SDK** - Dart SDK to interact with Sui blockchain.
+  - [Github](https://github.com/mofalabs/sui) | [API documentation](https://pub.dev/documentation/sui/latest/) | [Further Information](details/sdk_sui_dart.md)
+- **Sui Kotlin SDK** - Kotlin Multiplatform (KMP) SDK for integrating with the Sui blockchain.
+  - [Github](https://github.com/mcxross/ksui) | [Further Information](details/sdk_ksui.md)
+- **SuiKit (OpenDive)** - Swift SDK natively designed to make developing for the Sui Blockchain easy.
+  - [Github](https://github.com/opendive/suikit?tab=readme-ov-file) | [Further Information](details/sdk_suikit.md)
+- **Sui Unity SDK (OpenDive)** - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
+  - [Github](https://github.com/OpenDive/Sui-Unity-SDK) | [Further Information](details/sdk_sui_unity_opendive.md)
 
 ### Client Libraries
 
@@ -86,7 +94,8 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [BCS Unity](https://github.com/OpenDive/Sui-Unity-SDK/tree/main/Assets/Sui-Unity-SDK/Code/OpenDive.BCS) - BCS with Unity C#
 - [Sui Client Gen (KunaLabs)](https://github.com/kunalabs-io/sui-client-gen/tree/master) - A tool for generating TS SDKs for Sui Move smart contracts. Supports code generation both for source code and on-chain packages with no IDLs or ABIs required.
 - [TypeMove (Sentio)](https://github.com/sentioxyz/typemove/blob/main/packages/sui/Readme.md) - Generate TypeScript bindings for Sui contracts.
-- [Sui Wallet Standard (Mysten Labs)](SDK/sui_wallet_standard.md) - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
+- **Sui Wallet Standard (Mysten Labs)** - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
+  - [Github](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-standard) | [Documentation](https://docs.sui.io/standards/wallet-standard)
 - [CoinMeta (Polymedia)](https://github.com/juzybits/polymedia-coinmeta) - Library for fetching coin metadata for Sui coins
 
 ## dApp Development
