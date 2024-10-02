@@ -15,6 +15,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
   - [IDE Utilities](#ide-utilities)
 - [Client SDKs \& Libraries](#client-sdks--libraries)
   - [Client SDKs](#client-sdks)
+  - [DeFi SDKs](#defi-sdks)
   - [Client Libraries](#client-libraries)
 - [dApp Development](#dapp-development)
   - [dApp Toolkits](#dapp-toolkits)
