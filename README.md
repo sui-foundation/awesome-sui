@@ -93,7 +93,8 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Cetus CLMM SDK](https://github.com/CetusProtocol/cetus-clmm-sui-sdk) - The official software development kit (SDK) specifically designed for seamless integration with Cetus-CLMM on Sui.
 - [Aftermath SDK](https://github.com/AftermathFinance/aftermath-ts-sdk) - The Typescript SDK for interacting with Aftermath Protocol.
 - [FlowX SDK](https://github.com/FlowX-Finance/sdk) - FlowX Typescript SDK is an official software development kit that allows developers to interact with FlowX protocols using the Typescript programming language.
-- [7k Aggregator SDK](https://github.com/7k-ag/7k-sdk-ts) - The Typescript SDK for interacting with 7k Aggregator protocol. 
+- [7k Aggregator SDK](https://github.com/7k-ag/7k-sdk-ts) - The Typescript SDK for interacting with 7k Aggregator protocol.
+- [Hop Aggregator SDK](https://docs.hop.ag/hop-sdk) - The Typescript SDK for interacting with Hop Aggregator.
 
 ### Client Libraries
 
