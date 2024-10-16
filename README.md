@@ -8,27 +8,28 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 ## Contents
 
-- [Contents](#contents)
-- [IDEs](#ides)
-  - [Web IDEs](#web-ides)
-  - [Desktop IDEs](#desktop-ides)
-  - [IDE Utilities](#ide-utilities)
-- [Client SDKs \& Libraries](#client-sdks--libraries)
-  - [Client SDKs](#client-sdks)
-  - [DeFi SDKs](#defi-sdks)
-  - [Client Libraries](#client-libraries)
-- [dApp Development](#dapp-development)
-  - [dApp Toolkits](#dapp-toolkits)
-    - [zkLogin](#zklogin)
-    - [Misc](#misc)
-  - [Smart Contract Toolkits](#smart-contract-toolkits)
-- [Indexers \& Data Services](#indexers--data-services)
-- [Explorers](#explorers)
-- [Oracles](#oracles)
-- [Security](#security)
-- [AI](#ai)
-- [Walrus](#walrus)
-- [Submission Guidelines](#submission-guidelines)
+- [Awesome Sui ](#awesome-sui-)
+  - [Contents](#contents)
+  - [IDEs](#ides)
+    - [Web IDEs](#web-ides)
+    - [Desktop IDEs](#desktop-ides)
+    - [IDE Utilities](#ide-utilities)
+  - [Client SDKs \& Libraries](#client-sdks--libraries)
+    - [Client SDKs](#client-sdks)
+    - [DeFi SDKs](#defi-sdks)
+    - [Client Libraries](#client-libraries)
+  - [dApp Development](#dapp-development)
+    - [dApp Toolkits](#dapp-toolkits)
+      - [zkLogin](#zklogin)
+      - [Misc](#misc)
+    - [Smart Contract Toolkits](#smart-contract-toolkits)
+  - [Indexers \& Data Services](#indexers--data-services)
+  - [Explorers](#explorers)
+  - [Oracles](#oracles)
+  - [Security](#security)
+  - [AI](#ai)
+  - [Walrus](#walrus)
+  - [Submission Guidelines](#submission-guidelines)
 
 ## IDEs
 
@@ -192,6 +193,8 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
   - [Homepage](https://explorer.polymedia.app) | [Github](https://github.com/juzybits/polymedia-explorer) | [Further Information](details/explorer_polymedia.md)
 - **Local Sui Explorer** - Sui Explorer for your localnet maintained by [kkomelin](https://github.com/kkomelin)
   - [Github](https://github.com/kkomelin/sui-explorer) | [Further Information](details/explorer_local_sui_explorer.md)
+- **Suimon** - Powerful command line tool designed to provide detailed dashboards for monitoring SUI network.
+  - [Github](https://github.com/bartosian/suimon) | [Further Information](details/explorer_suimon.md)
 
 ## Oracles
 
