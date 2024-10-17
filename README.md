@@ -70,6 +70,8 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 - **Sui Typescript SDK (Mysten Labs)** - Typescript modular library of tools for interacting with the Sui blockchain.
   - [Github](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) | [Documentation](https://sdk.mystenlabs.com/typescript) | [Further Information](details/sdk_sui_typescript.md)
+- **Sui Kit(Scallop)** - Toolkit for interacting with SUI Network in Typescript.
+  - [Github](https://github.com/scallop-io/sui-kit) | [Further Information](details/sdk_sui_kit_scallop.md)
 - **Sui Rust SDK (Mysten Labs)** - Rust SDK to interact with Sui blockchain.
   - [Github](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) | [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) | [Further Information](details/sdk_sui_rust.md)
 - **Pysui** - Python SDK to interact with Sui blockchain.
