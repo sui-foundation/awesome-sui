@@ -8,27 +8,28 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 ## Contents
 
-- [Contents](#contents)
-- [IDEs](#ides)
-  - [Web IDEs](#web-ides)
-  - [Desktop IDEs](#desktop-ides)
-  - [IDE Utilities](#ide-utilities)
-- [Client SDKs \& Libraries](#client-sdks--libraries)
-  - [Client SDKs](#client-sdks)
-  - [DeFi SDKs](#defi-sdks)
-  - [Client Libraries](#client-libraries)
-- [dApp Development](#dapp-development)
-  - [dApp Toolkits](#dapp-toolkits)
-    - [zkLogin](#zklogin)
-    - [Misc](#misc)
-  - [Smart Contract Toolkits](#smart-contract-toolkits)
-- [Indexers \& Data Services](#indexers--data-services)
-- [Explorers](#explorers)
-- [Oracles](#oracles)
-- [Security](#security)
-- [AI](#ai)
-- [Walrus](#walrus)
-- [Submission Guidelines](#submission-guidelines)
+- [Awesome Sui ](#awesome-sui-)
+  - [Contents](#contents)
+  - [IDEs](#ides)
+    - [Web IDEs](#web-ides)
+    - [Desktop IDEs](#desktop-ides)
+    - [IDE Utilities](#ide-utilities)
+  - [Client SDKs \& Libraries](#client-sdks--libraries)
+    - [Client SDKs](#client-sdks)
+    - [DeFi SDKs](#defi-sdks)
+    - [Client Libraries](#client-libraries)
+  - [dApp Development](#dapp-development)
+    - [dApp Toolkits](#dapp-toolkits)
+      - [zkLogin](#zklogin)
+      - [Misc](#misc)
+    - [Smart Contract Toolkits](#smart-contract-toolkits)
+  - [Indexers \& Data Services](#indexers--data-services)
+  - [Explorers](#explorers)
+  - [Oracles](#oracles)
+  - [Security](#security)
+  - [AI](#ai)
+  - [Walrus](#walrus)
+  - [Submission Guidelines](#submission-guidelines)
 
 ## IDEs
 
@@ -207,6 +208,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [SuiSecBlockList](https://github.com/SuiSec/SuiSecBlockList) - Block malicious websites and packages, Identify and hide phishing objects.
 - [DryRunTransactionBlockResponsePlus](https://github.com/SuiSec/DryRunTransactionBlockResponsePlus) - Decorator of `DryRunTransactionBlockResponse`, highlight `SenderChange`.
 - [Guardians](https://github.com/suiet/guardians) - Phishing Website Protection.
+- [HoneyPotDetectionOnSui](https://github.com/SuiSec/HoneyPotDetectionOnSui) - Detect HoneyPot SCAM on Sui.
 
 ## AI
 
