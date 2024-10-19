@@ -70,6 +70,8 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 - **Sui Typescript SDK (Mysten Labs)** - Typescript modular library of tools for interacting with the Sui blockchain.
   - [Github](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) | [Documentation](https://sdk.mystenlabs.com/typescript) | [Further Information](details/sdk_sui_typescript.md)
+- **Sui Kit(Scallop)** - Toolkit for interacting with SUI Network in Typescript.
+  - [Github](https://github.com/scallop-io/sui-kit) | [Further Information](details/sdk_sui_kit_scallop.md)
 - **Sui Rust SDK (Mysten Labs)** - Rust SDK to interact with Sui blockchain.
   - [Github](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) | [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) | [Further Information](details/sdk_sui_rust.md)
 - **Pysui** - Python SDK to interact with Sui blockchain.
@@ -93,7 +95,8 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Cetus CLMM SDK](https://github.com/CetusProtocol/cetus-clmm-sui-sdk) - The official software development kit (SDK) specifically designed for seamless integration with Cetus-CLMM on Sui.
 - [Aftermath SDK](https://github.com/AftermathFinance/aftermath-ts-sdk) - The Typescript SDK for interacting with Aftermath Protocol.
 - [FlowX SDK](https://github.com/FlowX-Finance/sdk) - FlowX Typescript SDK is an official software development kit that allows developers to interact with FlowX protocols using the Typescript programming language.
-- [7k Aggregator SDK](https://github.com/7k-ag/7k-sdk-ts) - The Typescript SDK for interacting with 7k Aggregator protocol. 
+- [7k Aggregator SDK](https://github.com/7k-ag/7k-sdk-ts) - The Typescript SDK for interacting with 7k Aggregator protocol.
+- [Hop Aggregator SDK](https://docs.hop.ag/hop-sdk) - The Typescript SDK for interacting with Hop Aggregator.
 
 ### Client Libraries
 
