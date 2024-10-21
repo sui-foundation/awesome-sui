@@ -29,6 +29,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
   - [Security](#security)
   - [AI](#ai)
   - [Walrus](#walrus)
+  - [Infrastructure as Code](#infrastructure-as-code)
   - [Submission Guidelines](#submission-guidelines)
 
 ## IDEs
@@ -224,6 +225,11 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 - **Walrus Sites GA** - Reusable GitHub Action for deploying Walrus Sites
   - [Github](https://github.com/zktx-io/walrus-sites-ga) | [Marketplace](https://github.com/marketplace/actions/walrus-sites-ga) | [Examples](https://github.com/zktx-io/walrus-sites-ga-example) | [Further Information](details/walrus_sites_ga.md)
+
+## Infrastructure as Code
+
+- **Sui Terraform Modules** - All-in-one solution for deploying, monitoring, and managing SUI infrastructure with ease.
+  - [Github](https://github.com/bartosian/sui-terraform-modules) | [Further Information](details/iac_sui_terraform_modules.md)
 
 ## Submission Guidelines
 
