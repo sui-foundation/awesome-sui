@@ -1,4 +1,4 @@
-# Awesome Sui[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Sui [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Directory tracking developer tools and infrastructure projects within Sui ecosystem.
 
