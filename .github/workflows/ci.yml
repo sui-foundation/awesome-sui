@@ -9,8 +9,8 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Awesome Linter
-        run: npx awesome-lint
-
       - name: Typo Check
         uses: crate-ci/typos@master
+
+      - name: Awesome Linter
+        run: npx awesome-lint
