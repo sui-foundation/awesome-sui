@@ -172,12 +172,12 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
   - [Homepage](https://zettablock.com/) | [Docs](https://docs.zettablock.com) | [Pricing](https://zettablock.com/pricing) | [Further Information](details/indexer_zettablock.md)
 - **Sentio** - Transform raw indexed data (transactions, events,...) into meaningful queryable data by writing custom processor logic.
   - [Homepage](https://www.sentio.xyz/indexer/) | [Documentation](https://docs.sentio.xyz/docs/data-collection) | [Examples](https://github.com/sentioxyz/sentio-processors/tree/main/projects) | [Further Information](details/indexer_sentio.md)
-- **BlockVision (SuiVision)** - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi,...
-  - [Homepage](https://suivision.xyz/) | [Documentation](https://docs.blockvision.org/reference/welcome-to-blockvision)
+- **BlockVision** - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi,...
+  - [Homepage](https://blockvision.org/) | [Documentation](https://docs.blockvision.org/reference/welcome-to-blockvision)
 - **BlockBerry (SuiScan)** - The Blockberry Sui API provides endpoints that reveal data about significant entities on the Sui Network. We index useful object metadata, including NFTs, domains, collections, coins, etc. Some data is drawn from third-party providers, particularly market data (coin prices, market cap, etc.).
   - [Homepage](https://blockberry.one/) | [Documentation](https://docs.blockberry.one/reference/sui-quickstart)
 - **Space And Time (SxT)** - Verifiable compute layer for AI x blockchain. Decentralized data warehouse with sub-second ZK proof.
-  - [Homepage](https://www.spaceandtime.io/) | [Documentation](https://www.spaceandtime.io/) | [Further Documentation](details/indexer_space_and_time.md)
+  - [Homepage](https://www.spaceandtime.io/) | [Documentation](https://docs.spaceandtime.io/) | [Further Documentation](details/indexer_space_and_time.md)
 - **Birdeye Data Services** - Access Crypto Market Data APIs on Sui. 
   - [Homepage](https://bds.birdeye.so/) | [Blog](https://blog.sui.io/birdeye-data-services-crypto-api-websocket/) | [API Documentation](https://docs.birdeye.so/reference/intro/authentication)
 - **Indexer.xyz (behind TradePort)** - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui. 
