@@ -53,7 +53,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - **IntelliJ Sui Move Language Plugin** - IntelliJ-based plugin for Move on Sui development.
   - [Homepage](https://plugins.jetbrains.com/plugin/23301-sui-move-language) | [Github](https://github.com/movefuns/intellij-move)
 - [Emacs move-mode](https://github.com/amnn/move-mode) - move-mode is an Emacs major-mode for editing smart contracts written in the Move programming language.
-- [Move.vim](https://github.com/tzakian/move.vim) - Syntax highlighting for the Move smart contract programming language.
+- [Move.vim](https://github.com/yanganto/move.vim) - Syntax highlighting supports 2024 edition convention of Move smart contract programming language.
 
 ### IDE Utilities
 
