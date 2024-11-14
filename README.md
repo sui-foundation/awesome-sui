@@ -52,12 +52,12 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
   - [Homepage](https://movebit.xyz/analyzer) - [GitHub](https://github.com/movebit/sui-move-analyzer) - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=MoveBit.sui-move-analyzer) - [Further Information](details/ide_vscode_movebit_sui_move_analyzer.md)
 - IntelliJ Sui Move Language Plugin - IntelliJ-based plugin for Move on Sui development.
   - [Homepage](https://plugins.jetbrains.com/plugin/23301-sui-move-language) - [GitHub](https://github.com/movefuns/intellij-move)
-- [Emacs move-mode](https://github.com/amnn/move-mode) - move-mode is an Emacs major-mode for editing smart contracts written in the Move programming language.
+- [Emacs move-mode](https://github.com/amnn/move-mode) - The move-mode is an Emacs major-mode for editing smart contracts written in the Move programming language.
 - [Move.vim](https://github.com/yanganto/move.vim) - Syntax highlighting supports 2024 edition convention of Move smart contract programming language.
 
 ### IDE Utilities
 
-- [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) - a Move language plugin for the Prettier code formatter.
+- [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) - A Move language plugin for the Prettier code formatter.
 - Sui Extension - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
   - [Homepage](https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension) - [Documentation](https://docs.zktx.io/vsce/sui/)
 - ⚠️ Sui Simulator - VSCode Extension to streamline Sui development workflow with intuitive UI.
