@@ -170,9 +170,9 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 - **ZettaBlock** - Generate custom GraphQL or REST APIs from SQL queries and incorporate your private off-chain data.
   - [Homepage](https://zettablock.com/) | [Docs](https://docs.zettablock.com) | [Pricing](https://zettablock.com/pricing) | [Further Information](details/indexer_zettablock.md)
-- **Sentio** - Transform raw indexed data (transactions, events,...) into meaningful queryable data by writing custom processor logic.
+- **Sentio** - Transform raw indexed data (transactions, events, etc.) into meaningful queryable data by writing custom processor logic.
   - [Homepage](https://www.sentio.xyz/indexer/) | [Documentation](https://docs.sentio.xyz/docs/data-collection) | [Examples](https://github.com/sentioxyz/sentio-processors/tree/main/projects) | [Further Information](details/indexer_sentio.md)
-- **BlockVision** - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi,...
+- **BlockVision** - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi, etc.
   - [Homepage](https://blockvision.org/) | [Documentation](https://docs.blockvision.org/reference/welcome-to-blockvision)
 - **BlockBerry (SuiScan)** - The Blockberry Sui API provides endpoints that reveal data about significant entities on the Sui Network. We index useful object metadata, including NFTs, domains, collections, coins, etc. Some data is drawn from third-party providers, particularly market data (coin prices, market cap, etc.).
   - [Homepage](https://blockberry.one/) | [Documentation](https://docs.blockberry.one/reference/sui-quickstart)
