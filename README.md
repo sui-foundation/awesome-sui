@@ -57,7 +57,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 ### IDE Utilities
 
-- [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) - a Move language plugin for the Prettier code formatter
+- [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) - a Move language plugin for the Prettier code formatter.
 - Sui Extension - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
   - [Homepage](https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension) - [Documentation](https://docs.zktx.io/vsce/sui/)
 - ⚠️ Sui Simulator - VSCode Extension to streamline Sui development workflow with intuitive UI.
@@ -103,14 +103,14 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [BCS Typescript (Mysten Labs)](https://sdk.mystenlabs.com/bcs) - BCS with Typescript.
 - [BCS Rust](https://github.com/zefchain/bcs) - BCS with Rust.
 - [BCS Dart](https://github.com/mofalabs/bcs) - BCS with Dart.
-- [BCS Kotlin](https://github.com/mcxross/kotlinx-serialization-bcs) - BCS with Kotlin
-- [BCS Swift](https://github.com/OpenDive/SuiKit/tree/main/Sources/SuiKit/Utils/BCS) - BCS with Swift
-- [BCS Unity](https://github.com/OpenDive/Sui-Unity-SDK/tree/main/Assets/Sui-Unity-SDK/Code/OpenDive.BCS) - BCS with Unity C#
+- [BCS Kotlin](https://github.com/mcxross/kotlinx-serialization-bcs) - BCS with Kotlin.
+- [BCS Swift](https://github.com/OpenDive/SuiKit/tree/main/Sources/SuiKit/Utils/BCS) - BCS with Swift.
+- [BCS Unity](https://github.com/OpenDive/Sui-Unity-SDK/tree/main/Assets/Sui-Unity-SDK/Code/OpenDive.BCS) - BCS with Unity C#.
 - [Sui Client Gen (KunaLabs)](https://github.com/kunalabs-io/sui-client-gen/tree/master) - A tool for generating TS SDKs for Sui Move smart contracts. Supports code generation both for source code and on-chain packages with no IDLs or ABIs required.
 - [TypeMove (Sentio)](https://github.com/sentioxyz/typemove/blob/main/packages/sui/Readme.md) - Generate TypeScript bindings for Sui contracts.
-- **Sui Wallet Standard (Mysten Labs)** - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
+- Sui Wallet Standard (Mysten Labs) - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-standard) - [Documentation](https://docs.sui.io/standards/wallet-standard)
-- [CoinMeta (Polymedia)](https://github.com/juzybits/polymedia-coinmeta) - Library for fetching coin metadata for Sui coins
+- [CoinMeta (Polymedia)](https://github.com/juzybits/polymedia-coinmeta) - Library for fetching coin metadata for Sui coins.
 
 ## dApp Development
 
@@ -148,8 +148,8 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [RPC Tools (Polymedia)](https://rpcs.polymedia.app/) - A webapp that lets users find the fastest RPC for their location. [GitHub](https://github.com/juzybits/polymedia-rpcs)
 - [Polymedia Commando (Polymedia)](https://github.com/juzybits/polymedia-commando) - Sui command line tools to help with Sui airdrops (send coins to many addresses), gather data from different sources (Sui RPCs, Indexer.xyz, Suiscan), and more.
 - [YubiSui (MystenLabs)](https://github.com/MystenLabs/yubigen) - Create a Sui Wallet inside a yubikey and sign Sui transactions with it.
-- [`sui-dapp-kit-theme-creator`](https://sui-dapp-kit-theme-creator.app/) - Build custom Sui dApp Kit themes
-- [Minting Server (Mysten Labs)](https://github.com/MystenLabs/minting-server) - A scalable system architecture that can process multiple Sui transactions in parallel using a producer-consumer worker scheme
+- [`sui-dapp-kit-theme-creator`](https://sui-dapp-kit-theme-creator.app/) - Build custom Sui dApp Kit themes.
+- [Minting Server (Mysten Labs)](https://github.com/MystenLabs/minting-server) - A scalable system architecture that can process multiple Sui transactions in parallel using a producer-consumer worker scheme.
 - [SuiInfra](https://suinfra.io/) - Provide users and developers with up-to-date recommendations on the ideal RPCs to use for their needs.
 - [Sui RPC Proxy](https://github.com/SuiSec/sui-rpc-proxy) - Monitor and analyze the network requests made by the Sui wallet application and Sui dApps.
 
