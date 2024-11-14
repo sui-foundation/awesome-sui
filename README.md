@@ -66,12 +66,12 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 - Sui Typescript SDK (Mysten Labs) - Typescript modular library of tools for interacting with the Sui blockchain.
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) - [Documentation](https://sdk.mystenlabs.com/typescript) - [Further Information](details/sdk_sui_typescript.md)
-- Sui Kit(Scallop) - Toolkit for interacting with SUI Network in Typescript.
+- Sui Kit(Scallop) - Toolkit for interacting with the Sui network in Typescript.
   - [GitHub](https://github.com/scallop-io/sui-kit) - [Further Information](details/sdk_sui_kit_scallop.md)
 - Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui blockchain.
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) - [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) - [Further Information](details/sdk_sui_rust.md)
 - Pysui - Python SDK to interact with Sui blockchain.
-  - [GitHub](https://github.com/FrankC01/pysui?tab=readme-ov-file)| [Documentation](https://pysui.readthedocs.io/en/latest/index.html) - [Pypi](https://pypi.org/project/pysui/) - [Discord](https://discord.gg/uCGYfY4Ph4) - [Further Information](details/sdk_pysui.md)
+  - [GitHub](https://github.com/FrankC01/pysui?tab=readme-ov-file) - [Documentation](https://pysui.readthedocs.io/en/latest/index.html) - [Pypi](https://pypi.org/project/pysui/) - [Discord](https://discord.gg/uCGYfY4Ph4) - [Further Information](details/sdk_pysui.md)
 - Sui Go SDK (SuiVision) - Golang SDK to interact with Sui blockchain.
   - [GitHub](https://github.com/block-vision/sui-go-sdk) - [API Documentation](https://pkg.go.dev/github.com/block-vision/sui-go-sdk) - [Examples](https://github.com/block-vision/sui-go-sdk?tab=readme-ov-file#examples) - [Further Information](details/sdk_sui_go.md)
 - Sui Dart SDK - Dart SDK to interact with Sui blockchain.
@@ -88,7 +88,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Bucket Protocol SDK](https://github.com/Bucket-Protocol/bucket-protocol-sdk) - The Typescript SDK for interacting with Bucket Protocol.
 - [Suilend SDK](https://github.com/solendprotocol/suilend-public/tree/production/sdk) - The TypeScript SDK for interacting with the Suilend program published on npm as [`@suilend/sdk`](https://www.npmjs.com/package/@suilend/sdk).
 - [Scallop SDK](https://github.com/scallop-io/sui-scallop-sdk) - The Typescript SDK for interacting with the Scallop lending protocol on the Sui network.
-- [Cetus CLMM SDK](https://github.com/CetusProtocol/cetus-clmm-sui-sdk) - The official software development kit (SDK) specifically designed for seamless integration with Cetus-CLMM on Sui.
+- [Cetus CLMM SDK](https://github.com/CetusProtocol/cetus-clmm-sui-sdk) - The official SDK specifically designed for seamless integration with Cetus-CLMM on Sui.
 - [Aftermath SDK](https://github.com/AftermathFinance/aftermath-ts-sdk) - The Typescript SDK for interacting with Aftermath Protocol.
 - [FlowX SDK](https://github.com/FlowX-Finance/sdk) - FlowX Typescript SDK is an official software development kit that allows developers to interact with FlowX protocols using the Typescript programming language.
 - [7k Aggregator SDK](https://github.com/7k-ag/7k-sdk-ts) - The Typescript SDK for interacting with 7k Aggregator protocol.
@@ -162,7 +162,8 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Move on Sui examples (Mysten Labs)](https://github.com/MystenLabs/sui/tree/main/examples/move) - Examples of Move on Sui applications.
 - [SuiGPT Decompiler](https://suigpt.tools/decompile) - Use latest generative AI to convert Move Bytecode back to Source Code.
 - [Revela](https://revela.verichains.io/) - Decompile Sui smart contracts to recover Move source code.
-- [Package Source Code Verification (WELLDONE Studio)](https://twitter.com/suiscanofficial/status/1775931534878621737) - Verify your package source code on [SuiScan](https://suiscan.xyz/mainnet/package-verification)
+- Package Source Code Verification - Verify your package source code on Suiscan, powered by WELLDONE Studio and Blockberry.
+  - [Documentation](https://docs.blockberry.one/docs/contract-verification) - [Form Submission](https://suiscan.xyz/mainnet/package-verification)
 
 ## Indexers & Data Services
 
@@ -172,7 +173,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
   - [Homepage](https://www.sentio.xyz/indexer/) - [Documentation](https://docs.sentio.xyz/docs/data-collection) - [Examples](https://github.com/sentioxyz/sentio-processors/tree/main/projects) - [Further Information](details/indexer_sentio.md)
 - BlockVision - Provide Sui indexed data for developers through pre-built APIs, such as, Token, NFT, and DeFi, etc.
   - [Homepage](https://blockvision.org/) - [Documentation](https://docs.blockvision.org/reference/welcome-to-blockvision)
-- BlockBerry (SuiScan) - The Blockberry Sui API provides endpoints that reveal data about significant entities on the Sui Network. We index useful object metadata, including NFTs, domains, collections, coins, etc. Some data is drawn from third-party providers, particularly market data (coin prices, market cap, etc.).
+- BlockBerry (Suiscan) - The Blockberry Sui API provides endpoints that reveal data about significant entities on the Sui Network. We index useful object metadata, including NFTs, domains, collections, coins, etc. Some data is drawn from third-party providers, particularly market data (coin prices, market cap, etc.).
   - [Homepage](https://blockberry.one/) - [Documentation](https://docs.blockberry.one/reference/sui-quickstart)
 - Space And Time (SxT) - Verifiable compute layer for AI x blockchain. Decentralized data warehouse with sub-second ZK proof.
   - [Homepage](https://www.spaceandtime.io/) - [Documentation](https://docs.spaceandtime.io/) - [Further Documentation](details/indexer_space_and_time.md)
@@ -185,7 +186,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 - SuiVision - Data analytics covering transactions, wallets, staking, and validators.
   - [Homepage](https://suivision.xyz/) - [Documentation](https://docs.blockvision.org/reference/integrate-suivision-into-your-dapp) - [Further Information](details/explorer_suivision.md)
-- SuiScan - Explorer and analytics platform for Sui.
+- Suiscan - Explorer and analytics platform for Sui.
   - [Homepage](https://suiscan.xyz/mainnet/home) - [Documentation](https://docs.blockberry.one/reference/welcome-to-blockberry-api) - [Further Information](details/explorer_suiscan.md)
 - OKLink - Provide fundamental explorer and data APIs on Sui.
   - [Homepage](https://www.oklink.com/sui) - [Further Information](details/explorer_oklink.md)
@@ -193,7 +194,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
   - [Homepage](https://explorer.polymedia.app) - [GitHub](https://github.com/juzybits/polymedia-explorer) - [Further Information](details/explorer_polymedia.md)
 - Local Sui Explorer - Sui Explorer for your localnet maintained by [kkomelin](https://github.com/kkomelin)
   - [GitHub](https://github.com/kkomelin/sui-explorer) - [Further Information](details/explorer_local_sui_explorer.md)
-- Suimon - Powerful command line tool designed to provide detailed dashboards for monitoring SUI network.
+- Suimon - Powerful command line tool designed to provide detailed dashboards for monitoring the Sui network.
   - [GitHub](https://github.com/bartosian/suimon) - [Further Information](details/explorer_suimon.md)
 
 ## Oracles
