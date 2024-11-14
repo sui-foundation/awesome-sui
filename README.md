@@ -37,7 +37,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - **BitsLab IDE** - online Move code editor that requires no configuration and supports Move code syntax highlighting, it's beginner-friendly and supports interacting with Sui.
   - [Homepage](https://www.bitslab.xyz/bitslabide) | [IDE](https://ide.bitslab.xyz/) | [Tutorial](https://www.youtube.com/watch?v=-9-WkqQwtu8) | [Further Information](details/ide_bitslab.md)
 - **MoveStudio** - Online IDE for Sui smart contract development.
-  - [Homepage](https://www.movestudio.dev/) | [Github](https://github.com/dantheman8300/move-studio) | [IDE](https://www.movestudio.dev/build) | [Further Information](details/ide_movestudio.md)
+  - [Homepage](https://www.movestudio.dev/) | [GitHub](https://github.com/dantheman8300/move-studio) | [IDE](https://www.movestudio.dev/build) | [Further Information](details/ide_movestudio.md)
 - **ChainIDE** - Move Cloud-Powered Development Platform.
   - [Homepage](https://chainide.com) | [Documentation](https://chainide.gitbook.io/chainide-english-1/ethereum-ide-1/9.-sui-ide) | [IDE](https://chainide.com/s/sui) | [Further Information](details/ide_chainide.md)
 - ⚠️ **WELLDONE Code** - Remix IDE plugin supports non-EVM smart contract development including Sui.
@@ -47,11 +47,11 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 ### Desktop IDEs
 
 - **VSCode Move by Mysten Labs** - VSCode Extension supports Move on Sui development with LSP features through Move Analyzer developed by Mysten Labs.
-  - [Github](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer) | [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=mysten.move) | [Further Information](details/ide_vscode_mysten_move_analyzer.md)
+  - [GitHub](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer) | [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=mysten.move) | [Further Information](details/ide_vscode_mysten_move_analyzer.md)
 - **VSCode Sui Move Analyzer by Movebit** - Alternative VSCode extension developed by Movebit.
-  - [Homepage](https://movebit.xyz/analyzer) | [Github](https://github.com/movebit/sui-move-analyzer) | [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=MoveBit.sui-move-analyzer) | [Further Information](details/ide_vscode_movebit_sui_move_analyzer.md)
+  - [Homepage](https://movebit.xyz/analyzer) | [GitHub](https://github.com/movebit/sui-move-analyzer) | [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=MoveBit.sui-move-analyzer) | [Further Information](details/ide_vscode_movebit_sui_move_analyzer.md)
 - **IntelliJ Sui Move Language Plugin** - IntelliJ-based plugin for Move on Sui development.
-  - [Homepage](https://plugins.jetbrains.com/plugin/23301-sui-move-language) | [Github](https://github.com/movefuns/intellij-move)
+  - [Homepage](https://plugins.jetbrains.com/plugin/23301-sui-move-language) | [GitHub](https://github.com/movefuns/intellij-move)
 - [Emacs move-mode](https://github.com/amnn/move-mode) - move-mode is an Emacs major-mode for editing smart contracts written in the Move programming language.
 - [Move.vim](https://github.com/yanganto/move.vim) - Syntax highlighting supports 2024 edition convention of Move smart contract programming language.
 
@@ -61,7 +61,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - **Sui Extension** - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
   - [Homepage](https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension) | [Documentation](https://docs.zktx.io/vsce/sui/)
 - ⚠️ **Sui Simulator** - VSCode Extension to streamline Sui development workflow with intuitive UI.
-  - [Homepage](https://marketplace.visualstudio.com/items?itemName=weminal-labs.sui-simulator-vscode) | [Github](https://github.com/Weminal-labs/sui-simulator-vscode) | [Demo](https://www.youtube.com/watch?v=BHRxeF_visM&pp=ygUMd2VtaW5hbCBsYWIg)
+  - [Homepage](https://marketplace.visualstudio.com/items?itemName=weminal-labs.sui-simulator-vscode) | [GitHub](https://github.com/Weminal-labs/sui-simulator-vscode) | [Demo](https://www.youtube.com/watch?v=BHRxeF_visM&pp=ygUMd2VtaW5hbCBsYWIg)
 - [Tree Sitter Move](https://github.com/tzakian/tree-sitter-move) - Tree Sitter for Move.
 
 ## Client SDKs & Libraries
@@ -69,23 +69,23 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 ### Client SDKs
 
 - **Sui Typescript SDK (Mysten Labs)** - Typescript modular library of tools for interacting with the Sui blockchain.
-  - [Github](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) | [Documentation](https://sdk.mystenlabs.com/typescript) | [Further Information](details/sdk_sui_typescript.md)
+  - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) | [Documentation](https://sdk.mystenlabs.com/typescript) | [Further Information](details/sdk_sui_typescript.md)
 - **Sui Kit(Scallop)** - Toolkit for interacting with SUI Network in Typescript.
-  - [Github](https://github.com/scallop-io/sui-kit) | [Further Information](details/sdk_sui_kit_scallop.md)
+  - [GitHub](https://github.com/scallop-io/sui-kit) | [Further Information](details/sdk_sui_kit_scallop.md)
 - **Sui Rust SDK (Mysten Labs)** - Rust SDK to interact with Sui blockchain.
-  - [Github](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) | [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) | [Further Information](details/sdk_sui_rust.md)
+  - [GitHub](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) | [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) | [Further Information](details/sdk_sui_rust.md)
 - **Pysui** - Python SDK to interact with Sui blockchain.
-  - [Github](https://github.com/FrankC01/pysui?tab=readme-ov-file)| [Documentation](https://pysui.readthedocs.io/en/latest/index.html) | [Pypi](https://pypi.org/project/pysui/) | [Discord](https://discord.gg/uCGYfY4Ph4) | [Further Information](details/sdk_pysui.md)
+  - [GitHub](https://github.com/FrankC01/pysui?tab=readme-ov-file)| [Documentation](https://pysui.readthedocs.io/en/latest/index.html) | [Pypi](https://pypi.org/project/pysui/) | [Discord](https://discord.gg/uCGYfY4Ph4) | [Further Information](details/sdk_pysui.md)
 - **Sui Go SDK (SuiVision)** - Golang SDK to interact with Sui blockchain.
-  - [Github](https://github.com/block-vision/sui-go-sdk) | [API Documentation](https://pkg.go.dev/github.com/block-vision/sui-go-sdk) | [Examples](https://github.com/block-vision/sui-go-sdk?tab=readme-ov-file#examples) | [Further Information](details/sdk_sui_go.md)
+  - [GitHub](https://github.com/block-vision/sui-go-sdk) | [API Documentation](https://pkg.go.dev/github.com/block-vision/sui-go-sdk) | [Examples](https://github.com/block-vision/sui-go-sdk?tab=readme-ov-file#examples) | [Further Information](details/sdk_sui_go.md)
 - **Sui Dart SDK** - Dart SDK to interact with Sui blockchain.
-  - [Github](https://github.com/mofalabs/sui) | [API documentation](https://pub.dev/documentation/sui/latest/) | [Further Information](details/sdk_sui_dart.md)
+  - [GitHub](https://github.com/mofalabs/sui) | [API documentation](https://pub.dev/documentation/sui/latest/) | [Further Information](details/sdk_sui_dart.md)
 - **Sui Kotlin SDK** - Kotlin Multiplatform (KMP) SDK for integrating with the Sui blockchain.
-  - [Github](https://github.com/mcxross/ksui) | [Further Information](details/sdk_ksui.md)
+  - [GitHub](https://github.com/mcxross/ksui) | [Further Information](details/sdk_ksui.md)
 - **SuiKit (OpenDive)** - Swift SDK natively designed to make developing for the Sui Blockchain easy.
-  - [Github](https://github.com/opendive/suikit?tab=readme-ov-file) | [Further Information](details/sdk_suikit.md)
+  - [GitHub](https://github.com/opendive/suikit?tab=readme-ov-file) | [Further Information](details/sdk_suikit.md)
 - **Sui Unity SDK (OpenDive)** - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
-  - [Github](https://github.com/OpenDive/Sui-Unity-SDK) | [Further Information](details/sdk_sui_unity_opendive.md)
+  - [GitHub](https://github.com/OpenDive/Sui-Unity-SDK) | [Further Information](details/sdk_sui_unity_opendive.md)
 
 ### DeFi SDKs
 - [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI Typescript SDK Client provides tools for interacting with the Sui blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
@@ -109,7 +109,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - [Sui Client Gen (KunaLabs)](https://github.com/kunalabs-io/sui-client-gen/tree/master) - A tool for generating TS SDKs for Sui Move smart contracts. Supports code generation both for source code and on-chain packages with no IDLs or ABIs required.
 - [TypeMove (Sentio)](https://github.com/sentioxyz/typemove/blob/main/packages/sui/Readme.md) - Generate TypeScript bindings for Sui contracts.
 - **Sui Wallet Standard (Mysten Labs)** - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
-  - [Github](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-standard) | [Documentation](https://docs.sui.io/standards/wallet-standard)
+  - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-standard) | [Documentation](https://docs.sui.io/standards/wallet-standard)
 - [CoinMeta (Polymedia)](https://github.com/juzybits/polymedia-coinmeta) - Library for fetching coin metadata for Sui coins
 
 ## dApp Development
@@ -118,20 +118,20 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 
 - [@mysten/create-dapp](https://sdk.mystenlabs.com/dapp-kit/create-dapp) - CLI tool that helps you create Sui dApp projects.
 - **Sui dApp Kit (Mysten Labs)** - Set of React components, hooks, and utilities to help you build a dApp for the Sui ecosystem.
-  - [Github](https://github.com/MystenLabs/sui/tree/main/sdk/dapp-kit) | [Documentation](https://sdk.mystenlabs.com/dapp-kit)
+  - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/dapp-kit) | [Documentation](https://sdk.mystenlabs.com/dapp-kit)
 - **Sui dApp Starter** - Full-stack boilerplate which lets you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
-  - [Github](https://github.com/kkomelin/sui-dapp-starter?tab=readme-ov-file) | [Documentation](https://sui-dapp-starter.dev/docs/) |  [Demo app](https://demo.sui-dapp-starter.dev/)
+  - [GitHub](https://github.com/kkomelin/sui-dapp-starter?tab=readme-ov-file) | [Documentation](https://sui-dapp-starter.dev/docs/) |  [Demo app](https://demo.sui-dapp-starter.dev/)
 - **Suiet Wallet Kit** - Suiet wallet kit is an awesome react toolkit for DApps to interact with all the wallets in Sui💧 easily 🥳.
-  - [Github](https://github.com/suiet/wallet-kit) | [Documentation](https://kit.suiet.app/docs/QuickStart)
+  - [GitHub](https://github.com/suiet/wallet-kit) | [Documentation](https://kit.suiet.app/docs/QuickStart)
 - **SmartKit** - React library that allows your dapp to connect to the Sui network in a simple way.
-  - [Homepage](https://smartkit.vercel.app/) | [Github](https://github.com/heapup-tech/smartkit)
+  - [Homepage](https://smartkit.vercel.app/) | [GitHub](https://github.com/heapup-tech/smartkit)
 - [Sui Suitcase](https://github.com/juzybits/polymedia-suitcase) - Sui utilities for TypeScript, Node, and React.
 - [Sui MultiSig Toolkit (Mysten Labs)](https://multisig-toolkit.vercel.app/offline-signer) - Toolkit for transaction signing.
 - [Sui dApp Scaffold (Bucket Protocol)](https://github.com/Bucket-Protocol/sui-dapp-scaffold-v1) - A frontend scaffold for a decentralized application (dApp) on the Sui blockchain.
 - [Wormhole Kit(zktx.io)](https://github.com/zktx-io/wormhole-kit-monorepo) - React library that enables instant integration of Wormhole into your dapp.
 - **SuiBase** - Suibase makes it easy to create "workdirs", each defining a distinct development environment targeting a network.
-  - [Github](https://github.com/chainmovers/suibase) | [Documentation](https://suibase.io/)
-- ⚠️ [Obelisk Engine (Beta)](https://obelisk.build/engine/docs) - Framework for ambitious Move applications. It compresses the complexity of building Move apps with a tightly integrated software stack. [Github](https://github.com/0xobelisk/obelisk-engine)
+  - [GitHub](https://github.com/chainmovers/suibase) | [Documentation](https://suibase.io/)
+- ⚠️ [Obelisk Engine (Beta)](https://obelisk.build/engine/docs) - Framework for ambitious Move applications. It compresses the complexity of building Move apps with a tightly integrated software stack. [GitHub](https://github.com/0xobelisk/obelisk-engine)
 - [Sui Tools](https://sui-tools.vercel.app/ptb-generator) - Scaffolding Typescript PTBs for any on-chain function you might want to invoke.
 - [Enoki (MystenLabs)](https://docs.enoki.mystenlabs.com/) - Make zkLogin and Sponsored Transactions more accessible.
 - [Sui Gas Pool (MystenLabs)](https://github.com/MystenLabs/sui-gas-pool) - Service that powers sponsored transactions on Sui at scale.
@@ -145,7 +145,7 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 #### Misc
 
 - [`sui-sniffer`](https://www.app.kriya.finance/sui-sniffer/) - Checking security of Sui tokens.
-- [RPC Tools (Polymedia)](https://rpcs.polymedia.app/) - A webapp that lets users find the fastest RPC for their location. [Github](https://github.com/juzybits/polymedia-rpcs)
+- [RPC Tools (Polymedia)](https://rpcs.polymedia.app/) - A webapp that lets users find the fastest RPC for their location. [GitHub](https://github.com/juzybits/polymedia-rpcs)
 - [Polymedia Commando (Polymedia)](https://github.com/juzybits/polymedia-commando) - Sui command line tools to help with Sui airdrops (send coins to many addresses), gather data from different sources (Sui RPCs, Indexer.xyz, Suiscan), and more.
 - [YubiSui (MystenLabs)](https://github.com/MystenLabs/yubigen) - Create a Sui Wallet inside a yubikey and sign Sui transactions with it.
 - [`sui-dapp-kit-theme-creator`](https://sui-dapp-kit-theme-creator.app/) - Build custom Sui dApp Kit themes
@@ -192,11 +192,11 @@ Directory tracking developer tools and infrastructure projects within Sui ecosys
 - **OKLink** - Provide fundamental explorer and data APIs on Sui.
   - [Homepage](https://www.oklink.com/sui) | [Further Information](details/explorer_oklink.md)
 - **Polymedia Explorer** - A fork of the original Sui Explorer.
-  - [Homepage](https://explorer.polymedia.app) | [Github](https://github.com/juzybits/polymedia-explorer) | [Further Information](details/explorer_polymedia.md)
+  - [Homepage](https://explorer.polymedia.app) | [GitHub](https://github.com/juzybits/polymedia-explorer) | [Further Information](details/explorer_polymedia.md)
 - **Local Sui Explorer** - Sui Explorer for your localnet maintained by [kkomelin](https://github.com/kkomelin)
-  - [Github](https://github.com/kkomelin/sui-explorer) | [Further Information](details/explorer_local_sui_explorer.md)
+  - [GitHub](https://github.com/kkomelin/sui-explorer) | [Further Information](details/explorer_local_sui_explorer.md)
 - **Suimon** - Powerful command line tool designed to provide detailed dashboards for monitoring SUI network.
-  - [Github](https://github.com/bartosian/suimon) | [Further Information](details/explorer_suimon.md)
+  - [GitHub](https://github.com/bartosian/suimon) | [Further Information](details/explorer_suimon.md)
 
 ## Oracles
 
