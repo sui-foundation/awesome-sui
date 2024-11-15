@@ -8,7 +8,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 > ⚠️ This warning icon means that the tool may not be functioning correctly at the moment. Please check these tools carefully.
 
-[**Submit your own devtool here**](#submission-guidelines)
+[**Submit your own developer tool here**](#submission-guidelines)
 
 ## Contents
 
