@@ -1,6 +1,8 @@
 # Awesome Sui [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Directory tracking developer tools and infrastructure projects within Sui ecosystem.
+> A curated list of _awesome_ developer tools and infrastructure projects within the Sui ecosystem.
+
+Sui is the first blockchain built for internet scale, enabling fast, scalable, and low-latency transactions. It’s programmable and composable, powered by the Move language, making it easy to build and integrate dApps. Sui prioritizes developer experience and frictionless user interactions, designed to support next-gen applications with minimal complexity.
 
 > ⚠️ This warning icon means that the tool may not be functioning correctly at the moment. Please check these tools carefully.
 
