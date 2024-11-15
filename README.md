@@ -2,7 +2,7 @@
 
 Directory tracking developer tools and infrastructure projects within Sui ecosystem.
 
-> ⚠️ prefix means that the tool isn't working properly at the moment. We encourage builders to have further check.
+> ⚠️ This warning icon means that the tool may not be functioning correctly at the moment. Please check these tools carefully.
 
 [**Submit your own devtool here**](#submission-guidelines)
 
