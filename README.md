@@ -29,6 +29,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Security](#security)
 - [AI](#ai)
 - [Walrus](#walrus)
+- [Infrastructure as Code](#infrastructure-as-code)
 
 ## Move IDEs
 
@@ -230,4 +231,4 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 ## Infrastructure as Code
 
 - Sui Terraform Modules - All-in-one solution for deploying, monitoring, and managing SUI infrastructure with ease.
-  - [Github](https://github.com/bartosian/sui-terraform-modules) - [Further Information](details/iac_sui_terraform_modules.md)
+  - [GitHub](https://github.com/bartosian/sui-terraform-modules) - [Further Information](details/iac_sui_terraform_modules.md)

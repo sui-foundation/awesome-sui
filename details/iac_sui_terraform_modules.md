@@ -2,13 +2,15 @@
 
 ## Tooling Category
 
+- [ ] AI
 - [ ] dApp Development
 - [ ] Explorer
 - [ ] IDE
 - [ ] Indexer
 - [ ] Oracle
 - [ ] SDK
-- [x] IAC
+- [ ] Walrus
+- [x] Infrastructure as Code
 
 ## Description
 
@@ -16,8 +18,7 @@ All-in-one solution for deploying, monitoring, and managing SUI infrastructure w
 
 ## Features
 - Supported entities for monitoring:
-    - Validators
-- Supported networks:
-    - Devnet
-    - Testnet
-    - Mainnet
+    - Sui
+        - Validator
+    - Walrus
+        - Storage Node

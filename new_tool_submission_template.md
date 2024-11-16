@@ -10,6 +10,7 @@
 - [ ] Oracle
 - [ ] SDK
 - [ ] Walrus
+- [ ] Infrastructure as Code
 
 ## Homepage or Repo or Download Link
 
