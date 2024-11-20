@@ -82,7 +82,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui Dart SDK - Dart SDK to interact with Sui blockchain.
   - [GitHub](https://github.com/mofalabs/sui) - [API documentation](https://pub.dev/documentation/sui/latest/) - [Further Information](details/sdk_sui_dart.md)
 - Sui Kotlin SDK - Kotlin Multiplatform (KMP) SDK for integrating with the Sui blockchain.
-  - [GitHub](https://github.com/mcxross/ksui) - [Further Information](details/sdk_ksui.md)
+  - [GitHub](https://github.com/mcxross/ksui) - [Documentation](https://suicookbook.com) - [Further Information](details/sdk_ksui.md)
 - SuiKit (OpenDive) - Swift SDK natively designed to make developing for the Sui blockchain easy.
   - [GitHub](https://github.com/opendive/suikit?tab=readme-ov-file) - [Further Information](details/sdk_suikit.md)
 - Sui Unity SDK (OpenDive) - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
