@@ -156,7 +156,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Minting Server (Mysten Labs)](https://github.com/MystenLabs/minting-server) - A scalable system architecture that can process multiple Sui transactions in parallel using a producer-consumer worker scheme.
 - [SuiInfra](https://suinfra.io/) - Provide users and developers with up-to-date recommendations on the ideal RPCs to use for their needs.
 - [Sui RPC Proxy](https://github.com/SuiSec/sui-rpc-proxy) - Monitor and analyze the network requests made by the Sui wallet application and Sui dApps.
-- [PTB Studio](https://ptb.studio) - Visual Programmable Transaction Block Builder
+- [PTB Studio](https://ptb.studio) - Visual Programmable Transaction Block Builder.
   - [Documentation](https://suicookbook.com/ptb-studio.html)
 
 ### Smart Contract Toolkits
