@@ -30,6 +30,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [AI](#ai)
 - [Walrus](#walrus)
 - [Infrastructure as Code](#infrastructure-as-code)
+- [Faucets](#faucets)
 
 ## Move IDEs
 
@@ -235,3 +236,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 - Sui Terraform Modules - All-in-one solution for deploying, monitoring, and managing SUI infrastructure with ease.
   - [GitHub](https://github.com/bartosian/sui-terraform-modules) - [Further Information](details/iac_sui_terraform_modules.md)
+
+## Faucets
+
+- @SuiwareFaucetBot - Sui Faucet Bot for Telegram.
+  - [GitHub](https://github.com/suiware/SuiwareFaucetBot) - [Telegram Bot](https://t.me/SuiwareFaucetBot)
