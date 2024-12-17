@@ -104,7 +104,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [BCS TypeScript (Mysten Labs)](https://sdk.mystenlabs.com/bcs) - BCS with TypeScript.
 - [BCS Rust](https://github.com/zefchain/bcs) - BCS with Rust.
 - [BCS Dart](https://github.com/mofalabs/bcs) - BCS with Dart.
-- [BCS Kotlin](https://github.com/mcxross/kotlinx-serialization-bcs) - BCS with Kotlin.
+- BCS Kotlin - BCS with Kotlin.
+  - [GitHub](https://github.com/mcxross/kotlinx-serialization-bcs) - [Documentation](https://suicookbook.com/bcs.html)
 - [BCS Swift](https://github.com/OpenDive/SuiKit/tree/main/Sources/SuiKit/Utils/BCS) - BCS with Swift.
 - [BCS Unity](https://github.com/OpenDive/Sui-Unity-SDK/tree/main/Assets/Sui-Unity-SDK/Code/OpenDive.BCS) - BCS with Unity C#.
 - [Sui Client Gen (Kuna Labs)](https://github.com/kunalabs-io/sui-client-gen/tree/master) - A tool for generating TS SDKs for Sui Move smart contracts. Supports code generation both for source code and on-chain packages with no IDLs or ABIs required.
@@ -155,6 +156,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Minting Server (Mysten Labs)](https://github.com/MystenLabs/minting-server) - A scalable system architecture that can process multiple Sui transactions in parallel using a producer-consumer worker scheme.
 - [SuiInfra](https://suinfra.io/) - Provide users and developers with up-to-date recommendations on the ideal RPCs to use for their needs.
 - [Sui RPC Proxy](https://github.com/SuiSec/sui-rpc-proxy) - Monitor and analyze the network requests made by the Sui wallet application and Sui dApps.
+- [PTB Studio](https://ptb.studio) - Visual Programmable Transaction Block Builder.
+  - [Documentation](https://suicookbook.com/ptb-studio.html)
 
 ### Smart Contract Toolkits
 
