@@ -139,12 +139,14 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Sui Tools](https://sui-tools.vercel.app/ptb-generator) - Scaffolding TypeScript PTBs for any on-chain function you might want to invoke.
 - [Enoki (Mysten Labs)](https://docs.enoki.mystenlabs.com/) - Make zkLogin and Sponsored Transactions more accessible.
 - [Sui Gas Pool (Mysten Labs)](https://github.com/MystenLabs/sui-gas-pool) - Service that powers sponsored transactions on Sui at scale.
+- [useSuiZkLogin](https://github.com/pixelbrawlgames/use-sui-zklogin) - React hook and functions for seamless zkLogin integration on Sui.
 
 #### zkLogin
 
 - [zkLogin Demo (Polymedia)](https://github.com/juzybits/polymedia-zklogin-demo)
 - [Sui zkLogin Demo by @jovicheng](https://github.com/jovicheng/sui-zklogin-demo)
 - [Sui zkWallet Demo by @ronanyeah](https://github.com/ronanyeah/sui-zk-wallet)
+- [zklogin Demo using use-sui-zklogin by @pixelbrawlgames](https://pixelbrawlgames.github.io/use-sui-zklogin/)
 
 #### Misc
 
