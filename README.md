@@ -123,7 +123,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui dApp Kit (Mysten Labs) - Set of React components, hooks, and utilities to help you build a dApp for the Sui ecosystem.
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/dapp-kit) - [Documentation](https://sdk.mystenlabs.com/dapp-kit)
 - Sui dApp Starter - Full-stack boilerplate which lets you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
-  - [GitHub](https://github.com/kkomelin/sui-dapp-starter?tab=readme-ov-file) - [Documentation](https://sui-dapp-starter.dev/docs/) -  [Demo app](https://demo.sui-dapp-starter.dev/)
+  - [GitHub](https://github.com/suiware/sui-dapp-starter?tab=readme-ov-file) - [Documentation](https://sui-dapp-starter.dev/docs/) -  [Demo app](https://demo.sui-dapp-starter.dev/)
 - Suiet Wallet Kit - React toolkit for aApps to interact with all wallet types in Sui easily.
   - [GitHub](https://github.com/suiet/wallet-kit) - [Documentation](https://kit.suiet.app/docs/QuickStart)
 - SmartKit - React library that allows your dapp to connect to the Sui network in a simple way.
@@ -140,6 +140,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Enoki (Mysten Labs)](https://docs.enoki.mystenlabs.com/) - Make zkLogin and Sponsored Transactions more accessible.
 - [Sui Gas Pool (Mysten Labs)](https://github.com/MystenLabs/sui-gas-pool) - Service that powers sponsored transactions on Sui at scale.
 - [useSuiZkLogin](https://github.com/pixelbrawlgames/use-sui-zklogin) - React hook and functions for seamless zkLogin integration on Sui.
+- @suiware/kit - Opinionated React components and hooks for Sui dApps.
+  - [Homepage](https://kit.suiware.io/) - [Documentation](https://github.com/suiware/kit/tree/main/packages/kit#readme) - [GitHub](https://github.com/suiware/kit)
 
 #### zkLogin
 
@@ -203,8 +205,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [Homepage](https://www.oklink.com/sui) - [Further Information](details/explorer_oklink.md)
 - Polymedia Explorer - A fork of the original Sui Explorer.
   - [Homepage](https://explorer.polymedia.app) - [GitHub](https://github.com/juzybits/polymedia-explorer) - [Further Information](details/explorer_polymedia.md)
-- Local Sui Explorer - Sui Explorer for your localnet maintained by [kkomelin](https://github.com/kkomelin)
-  - [GitHub](https://github.com/kkomelin/sui-explorer) - [Further Information](details/explorer_local_sui_explorer.md)
+- Local Sui Explorer - Sui Explorer for your localnet maintained by [suiware](https://github.com/suiware)
+  - [GitHub](https://github.com/suiware/sui-explorer) - [Further Information](details/explorer_local_sui_explorer.md)
 - Suimon - Powerful command line tool designed to provide detailed dashboards for monitoring the Sui network.
   - [GitHub](https://github.com/bartosian/suimon) - [Further Information](details/explorer_suimon.md)
 
