@@ -28,7 +28,6 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Oracles](#oracles)
 - [Security](#security)
 - [AI](#ai)
-- [Walrus](#walrus)
 - [Infrastructure as Code](#infrastructure-as-code)
 - [Faucets](#faucets)
 
@@ -232,11 +231,6 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
-
-## Walrus
-
-- Walrus Sites GA - Reusable GitHub Action for deploying Walrus Sites
-  - [GitHub](https://github.com/zktx-io/walrus-sites-ga) - [Marketplace](https://github.com/marketplace/actions/walrus-sites-ga) - [Examples](https://github.com/zktx-io/walrus-sites-ga-example) - [Further Information](details/walrus_sites_ga.md)
 
 ## Infrastructure as Code
 
