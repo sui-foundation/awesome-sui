@@ -59,8 +59,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 ### IDE Utilities
 
 - [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) - A Move language plugin for the Prettier code formatter.
-- Sui Extension - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
-  - [Homepage](https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension) - [Documentation](https://docs.zktx.io/vsce/sui/)
+- [Sui Extension](https://github.com/zktx-io/sui-extension) - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
+  - [Homepage](https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension) - [GitHub](https://github.com/zktx-io/sui-extension) - [Documentation](https://docs.zktx.io/vsce/sui/)
 - ⚠️ Sui Simulator - VSCode Extension to streamline Sui development workflow with intuitive UI.
   - [Homepage](https://marketplace.visualstudio.com/items?itemName=weminal-labs.sui-simulator-vscode) - [GitHub](https://github.com/Weminal-labs/sui-simulator-vscode) - [Demo](https://www.youtube.com/watch?v=BHRxeF_visM&pp=ygUMd2VtaW5hbCBsYWIg)
 - [Tree Sitter Move](https://github.com/tzakian/tree-sitter-move) - Tree Sitter for Move.
