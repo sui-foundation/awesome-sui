@@ -59,7 +59,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 ### IDE Utilities
 
 - [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) - A Move language plugin for the Prettier code formatter.
-- Sui Extension - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
+- [Sui Extension](https://github.com/zktx-io/sui-extension) - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
   - [Homepage](https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension) - [Documentation](https://docs.zktx.io/vsce/sui/)
 - ⚠️ Sui Simulator - VSCode Extension to streamline Sui development workflow with intuitive UI.
   - [Homepage](https://marketplace.visualstudio.com/items?itemName=weminal-labs.sui-simulator-vscode) - [GitHub](https://github.com/Weminal-labs/sui-simulator-vscode) - [Demo](https://www.youtube.com/watch?v=BHRxeF_visM&pp=ygUMd2VtaW5hbCBsYWIg)
@@ -206,6 +206,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [Homepage](https://www.oklink.com/sui) - [Further Information](details/explorer_oklink.md)
 - Polymedia Explorer - A fork of the original Sui Explorer.
   - [Homepage](https://explorer.polymedia.app) - [GitHub](https://github.com/juzybits/polymedia-explorer) - [Further Information](details/explorer_polymedia.md)
+- PTB Explorer - A fork of the Polymedia Explorer.
+  - [Homepage](https://explorer.walrus.site/) - [GitHub](https://github.com/zktx-io/polymedia-explorer-ptb-builder)
 - Local Sui Explorer - Sui Explorer for your localnet maintained by [suiware](https://github.com/suiware)
   - [GitHub](https://github.com/suiware/sui-explorer) - [Further Information](details/explorer_local_sui_explorer.md)
 - Suimon - Powerful command line tool designed to provide detailed dashboards for monitoring the Sui network.
