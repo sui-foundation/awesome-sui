@@ -243,6 +243,6 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 - [n1stake](https://faucet.n1stake.com/) - Website to claim testnet SUI with sui wallet integration.
 - @SuiwareFaucetBot - Sui Faucet Bot for Telegram.
-  - [GitHub](https://github.com/suiware/SuiwareFaucetBot) - ⚠️ [Telegram Bot](https://t.me/SuiwareFaucetBot)
+  - [GitHub](https://github.com/suiware/SuiwareFaucetBot) - [Telegram Bot](https://t.me/SuiwareFaucetBot)
 - Suiware Faucet Chrome Extension - An experimental Chrome extension.
-  - ⚠️ [GitHub](https://github.com/suiware/suiware-faucet-extension)
+  - [GitHub](https://github.com/suiware/suiware-faucet-extension)
