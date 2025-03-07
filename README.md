@@ -142,7 +142,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - @suiware/kit - Opinionated React components and hooks for Sui dApps.
   - [Homepage](https://kit.suiware.io/) - [Documentation](https://github.com/suiware/kit/tree/main/packages/kit#readme) - [GitHub](https://github.com/suiware/kit)
 - React ZK Login Kit - Ready-to-use Component with Hook (sign-in + sign-transaction)
-  - [Demo](https://demo.react-sui-zk-login.com) - [YouTube Guide](https://www.youtube.com/watch?v=2qnjmKg3ugY) - [GitHub](https://github.com/denyskozak/react-sui-zk-login-kit)
+  - [GitHub](https://github.com/denyskozak/react-sui-zk-login-kit) - [YouTube Guide](https://www.youtube.com/watch?v=2qnjmKg3ugY)
 
 #### zkLogin
 
