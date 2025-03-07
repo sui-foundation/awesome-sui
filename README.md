@@ -151,7 +151,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Sui zkWallet Demo by @ronanyeah](https://github.com/ronanyeah/sui-zk-wallet)
 - [zkLogin Demo using use-sui-zklogin by @pixelbrawlgames](https://pixelbrawlgames.github.io/use-sui-zklogin/)
 - [zkLogin Demo using react-zk-login-kit by @denyskozak](https://demo.react-sui-zk-login.com)
-- 
+
 #### Misc
 
 - [`sui-sniffer`](https://www.app.kriya.finance/sui-sniffer/) - Checking security of Sui tokens.
