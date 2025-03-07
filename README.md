@@ -142,14 +142,15 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - @suiware/kit - Opinionated React components and hooks for Sui dApps.
   - [Homepage](https://kit.suiware.io/) - [Documentation](https://github.com/suiware/kit/tree/main/packages/kit#readme) - [GitHub](https://github.com/suiware/kit)
 - React ZK Login Kit - Ready-to-use Component with Hook (sign-in + sign-transaction)
-  - [Demo](https://demo.react-sui-zk-login.com) - [YouTube Guide](https://www.youtube.com/watch?v=2qnjmKg3ugY) - [GitHub](https://github.com/denyskozak/react-sui-zk-login-kit)
+  - [GitHub](https://github.com/denyskozak/react-sui-zk-login-kit) - [YouTube Guide](https://www.youtube.com/watch?v=2qnjmKg3ugY)
 
 #### zkLogin
 
 - [zkLogin Demo (Polymedia)](https://github.com/juzybits/polymedia-zklogin-demo)
 - [Sui zkLogin Demo by @jovicheng](https://github.com/jovicheng/sui-zklogin-demo)
 - [Sui zkWallet Demo by @ronanyeah](https://github.com/ronanyeah/sui-zk-wallet)
-- [zklogin Demo using use-sui-zklogin by @pixelbrawlgames](https://pixelbrawlgames.github.io/use-sui-zklogin/)
+- [zkLogin Demo using use-sui-zklogin by @pixelbrawlgames](https://pixelbrawlgames.github.io/use-sui-zklogin/)
+- [zkLogin Demo using react-zk-login-kit by @denyskozak](https://demo.react-sui-zk-login.com)
 
 #### Misc
 
