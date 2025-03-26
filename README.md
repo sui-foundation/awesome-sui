@@ -44,6 +44,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - ⚠️ WELLDONE Code - Remix IDE plugin supports non-EVM smart contract development including Sui.
   - [Homepage](https://docs.welldonestudio.io/code) - [Documentation & Tutorial](https://docs.welldonestudio.io/code/deploy-and-run/sui) - [Further Information](details/ide_welldone_code.md)
 
+
 ### Desktop IDEs
 
 - VSCode Move by Mysten Labs - VSCode Extension supports Move on Sui development with LSP features through Move Analyzer developed by Mysten Labs.
@@ -115,7 +116,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui Wallet Standard (Mysten Labs) - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-standard) - [Documentation](https://docs.sui.io/standards/wallet-standard)
 - [CoinMeta (Polymedia)](https://github.com/juzybits/polymedia-coinmeta) - Library for fetching coin metadata for Sui coins.
-- [Dubhe Client (Dubhe Engine)](https://dubhe.obelisk.build/dubhe/sui/client#bcs-data-decoding) - Library for supports automatic parsing of BCS types based on contract metadata information and automatic conversion formatting
+- [Dubhe Client (Dubhe Engine)](https://dubhe.obelisk.build/dubhe/sui/client#bcs-data-decoding) - Library for supports automatic parsing of BCS types based on contract metadata information and automatic conversion formatting.
 
 ## dApp Development
 
