@@ -91,7 +91,6 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe.obelisk.build/dubhe/sui/client)
 
 ### DeFi SDKs
-
 - [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
 - [Bucket Protocol SDK](https://github.com/Bucket-Protocol/bucket-protocol-sdk) - The TypeScript SDK for interacting with Bucket Protocol.
 - [Suilend SDK](https://github.com/solendprotocol/suilend-public/tree/production/sdk) - The TypeScript SDK for interacting with the Suilend program published on npm as [`@suilend/sdk`](https://www.npmjs.com/package/@suilend/sdk).
@@ -116,7 +115,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui Wallet Standard (Mysten Labs) - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-standard) - [Documentation](https://docs.sui.io/standards/wallet-standard)
 - [CoinMeta (Polymedia)](https://github.com/juzybits/polymedia-coinmeta) - Library for fetching coin metadata for Sui coins.
-- [Dubhe Client (Dubhe Engine)](https://dubhe.obelisk.build/dubhe/sui/client#bcs-data-decoding) - Library for supports automatic parsing of BCS types based on contract metadata information and automatic conversion formatting.
+- [Dubhe Client BCS Decoding (Dubhe Engine)](https://github.com/0xobelisk/dubhe-docs/blob/main/pages/dubhe/sui/client.mdx#bcs-data-decoding) - Library for supports automatic parsing of BCS types based on contract metadata information and automatic conversion formatting.
 
 ## dApp Development
 
@@ -137,8 +136,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Wormhole Kit (zktx.io)](https://github.com/zktx-io/wormhole-kit-monorepo) - React library that enables instant integration of Wormhole into your dapp.
 - SuiBase - Suibase makes it easy to create "workdirs", each defining a distinct development environment targeting a network.
   - [GitHub](https://github.com/chainmovers/suibase) - [Documentation](https://suibase.io/)
-- [create-dubhe (Dubhe Engine)](https://github.com/0xobelisk/dubhe) - Create a new Dubhe project on Sui.
-  - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/create-dubhe) - [Documentation](https://dubhe.obelisk.build/dubhe/sui/quick-start)
+- [create-dubhe (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/create-dubhe) - Create a new Dubhe project on Sui.
+  - [Documentation](https://dubhe.obelisk.build/dubhe/sui/quick-start)
 - [Sui Tools](https://sui-tools.vercel.app/ptb-generator) - Scaffolding TypeScript PTBs for any on-chain function you might want to invoke.
 - [Enoki (Mysten Labs)](https://docs.enoki.mystenlabs.com/) - Make zkLogin and Sponsored Transactions more accessible.
 - [Sui Gas Pool (Mysten Labs)](https://github.com/MystenLabs/sui-gas-pool) - Service that powers sponsored transactions on Sui at scale.
