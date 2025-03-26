@@ -12,24 +12,28 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## Contents
 
-- [Move IDEs](#move-ides)
-  - [Web IDEs](#web-ides)
-  - [Desktop IDEs](#desktop-ides)
-  - [IDE Utilities](#ide-utilities)
-- [Client SDKs \& Libraries](#client-sdks--libraries)
-  - [Client SDKs](#client-sdks)
-  - [DeFi SDKs](#defi-sdks)
-  - [Client Libraries](#client-libraries)
-- [dApp Development](#dapp-development)
-  - [dApp Toolkits](#dapp-toolkits)
-  - [Smart Contract Toolkits](#smart-contract-toolkits)
-- [Indexers \& Data Services](#indexers--data-services)
-- [Explorers](#explorers)
-- [Oracles](#oracles)
-- [Security](#security)
-- [AI](#ai)
-- [Infrastructure as Code](#infrastructure-as-code)
-- [Faucets](#faucets)
+- [Awesome Sui ](#awesome-sui-)
+  - [Contents](#contents)
+  - [Move IDEs](#move-ides)
+    - [Web IDEs](#web-ides)
+    - [Desktop IDEs](#desktop-ides)
+    - [IDE Utilities](#ide-utilities)
+  - [Client SDKs \& Libraries](#client-sdks--libraries)
+    - [Client SDKs](#client-sdks)
+    - [DeFi SDKs](#defi-sdks)
+    - [Client Libraries](#client-libraries)
+  - [dApp Development](#dapp-development)
+    - [dApp Toolkits](#dapp-toolkits)
+      - [zkLogin](#zklogin)
+      - [Misc](#misc)
+    - [Smart Contract Toolkits](#smart-contract-toolkits)
+  - [Indexers \& Data Services](#indexers--data-services)
+  - [Explorers](#explorers)
+  - [Oracles](#oracles)
+  - [Security](#security)
+  - [AI](#ai)
+  - [Infrastructure as Code](#infrastructure-as-code)
+  - [Faucets](#faucets)
 
 ## Move IDEs
 
@@ -87,7 +91,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/opendive/suikit?tab=readme-ov-file) - [Further Information](details/sdk_suikit.md)
 - Sui Unity SDK (OpenDive) - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
   - [GitHub](https://github.com/OpenDive/Sui-Unity-SDK) - [Further Information](details/sdk_sui_unity_opendive.md)
-- Dubhe Client (Dubhe Engine) - supports various platforms including browsers, Node.js, and the COCOS game engine. It provides a simple interface to interact with your Sui Move contracts.
+- Dubhe Client (Dubhe Engine) - Supports various platforms including browsers, Node.js, and game engine. It provides a simple interface to interact with your Sui Move contracts.
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe.obelisk.build/dubhe/sui/client)  
 
 ### DeFi SDKs
@@ -181,7 +185,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Revela](https://revela.verichains.io/) - Decompile Sui smart contracts to recover Move source code.
 - Package Source Code Verification - Verify your package source code on Suiscan, powered by WELLDONE Studio and Blockberry.
   - [Documentation](https://docs.blockberry.one/docs/contract-verification) - [Form Submission](https://suiscan.xyz/mainnet/package-verification)
-- [Dubhe CLI](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) - Decompile Sui smart contracts to recover Move source code.- [Documentation](https://dubhe.obelisk.build/dubhe/sui/cli)
+- [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) - For building, and managing Dapps built on Dubhe Engine in Sui.
+  - [Documentation](https://dubhe.obelisk.build/dubhe/sui/cli)
 
 ## Indexers & Data Services
 
