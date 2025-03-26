@@ -48,7 +48,6 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - ⚠️ WELLDONE Code - Remix IDE plugin supports non-EVM smart contract development including Sui.
   - [Homepage](https://docs.welldonestudio.io/code) - [Documentation & Tutorial](https://docs.welldonestudio.io/code/deploy-and-run/sui) - [Further Information](details/ide_welldone_code.md)
 
-
 ### Desktop IDEs
 
 - VSCode Move by Mysten Labs - VSCode Extension supports Move on Sui development with LSP features through Move Analyzer developed by Mysten Labs.
@@ -92,9 +91,10 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui Unity SDK (OpenDive) - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
   - [GitHub](https://github.com/OpenDive/Sui-Unity-SDK) - [Further Information](details/sdk_sui_unity_opendive.md)
 - Dubhe Client (Dubhe Engine) - Supports various platforms including browsers, Node.js, and game engine. It provides a simple interface to interact with your Sui Move contracts.
-  - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe.obelisk.build/dubhe/sui/client)  
+  - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe.obelisk.build/dubhe/sui/client)
 
 ### DeFi SDKs
+
 - [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
 - [Bucket Protocol SDK](https://github.com/Bucket-Protocol/bucket-protocol-sdk) - The TypeScript SDK for interacting with Bucket Protocol.
 - [Suilend SDK](https://github.com/solendprotocol/suilend-public/tree/production/sdk) - The TypeScript SDK for interacting with the Suilend program published on npm as [`@suilend/sdk`](https://www.npmjs.com/package/@suilend/sdk).
@@ -120,6 +120,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-standard) - [Documentation](https://docs.sui.io/standards/wallet-standard)
 - [CoinMeta (Polymedia)](https://github.com/juzybits/polymedia-coinmeta) - Library for fetching coin metadata for Sui coins.
 - [Dubhe Client (Dubhe Engine)](https://dubhe.obelisk.build/dubhe/sui/client#bcs-data-decoding) - Library for supports automatic parsing of BCS types based on contract metadata information and automatic conversion formatting
+
 ## dApp Development
 
 ### dApp Toolkits
@@ -128,7 +129,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui dApp Kit (Mysten Labs) - Set of React components, hooks, and utilities to help you build a dApp for the Sui ecosystem.
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/dapp-kit) - [Documentation](https://sdk.mystenlabs.com/dapp-kit)
 - Sui dApp Starter - Full-stack boilerplate which lets you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
-  - [GitHub](https://github.com/suiware/sui-dapp-starter?tab=readme-ov-file) - [Documentation](https://sui-dapp-starter.dev/docs/) -  [Demo app](https://demo.sui-dapp-starter.dev/)
+  - [GitHub](https://github.com/suiware/sui-dapp-starter?tab=readme-ov-file) - [Documentation](https://sui-dapp-starter.dev/docs/) - [Demo app](https://demo.sui-dapp-starter.dev/)
 - Suiet Wallet Kit - React toolkit for aApps to interact with all wallet types in Sui easily.
   - [GitHub](https://github.com/suiet/wallet-kit) - [Documentation](https://kit.suiet.app/docs/QuickStart)
 - SmartKit - React library that allows your dapp to connect to the Sui network in a simple way.
@@ -200,11 +201,11 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [Homepage](https://blockberry.one/) - [Documentation](https://docs.blockberry.one/reference/sui-quickstart)
 - Space And Time (SxT) - Verifiable compute layer for AI x blockchain. Decentralized data warehouse with sub-second ZK proof.
   - [Homepage](https://www.spaceandtime.io/) - [Documentation](https://docs.spaceandtime.io/) - [Further Documentation](details/indexer_space_and_time.md)
-- Birdeye Data Services - Access Crypto Market Data APIs on Sui. 
+- Birdeye Data Services - Access Crypto Market Data APIs on Sui.
   - [Homepage](https://bds.birdeye.so/) - [Blog](https://blog.sui.io/birdeye-data-services-crypto-api-websocket/) - [API Documentation](https://docs.birdeye.so/reference/intro/authentication)
-- Indexer.xyz (behind TradePort) - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui. 
+- Indexer.xyz (behind TradePort) - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui.
   - [Homepage](https://www.indexer.xyz/) - [API Explorer](https://www.indexer.xyz/api-explorer) - [API Docs](https://tradeport.xyz/docs)
-- Dubhe Indexer (Dubhe Engine) - Automatic integration with Dubhe Engine, automatic indexing of all events based on Dubhe Engine to build Dapp on Sui, based on dubhe configuration files. 
+- Dubhe Indexer (Dubhe Engine) - Automatic integration with Dubhe Engine, automatic indexing of all events based on Dubhe Engine to build Dapp on Sui, based on dubhe configuration files.
   - [Homepage](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-indexer) - [API Documentation](https://dubhe.obelisk.build/dubhe/sui/indexer)
 
 ## Explorers
@@ -252,7 +253,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui Terraform Modules - All-in-one solution for deploying, monitoring, and managing SUI infrastructure with ease.
   - [GitHub](https://github.com/bartosian/sui-terraform-modules) - [Further Information](details/iac_sui_terraform_modules.md)
 - [Dubhe Engine (Obelisk Labs)](https://github.com/0xobelisk/dubhe) - Engine for Everyone to Build Intent-Centric Worlds ⚙️ An Open-Source toolchain for Move Applications.
-  - [GitHub](https://github.com/0xobelisk/dubhe) - [Documentation](https://dubhe.obelisk.build/)
+  - [Documentation](https://dubhe.obelisk.build/) - [Further Information](details/engine_dubhe.md)
 
 ## Faucets
 
