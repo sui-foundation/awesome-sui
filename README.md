@@ -168,6 +168,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Sui RPC Proxy](https://github.com/SuiSec/sui-rpc-proxy) - Monitor and analyze the network requests made by the Sui wallet application and Sui dApps.
 - [PTB Studio](https://ptb.studio) - Visual Programmable Transaction Block Builder.
   - [Documentation](https://suicookbook.com/ptb-studio.html)
+- [Indexer generator](https://www.npmjs.com/package/sui-events-indexer) - Code generating tool that will generate an indexer given a smart contract for all the events present. After that the user should remove unwanted events and fix the database schema and handlers (that write to the DB) according to their needs. The tool is written in typescript and uses prisma as an ORM.
 
 ### Smart Contract Toolkits
 
@@ -253,8 +254,9 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## Faucets
 
-- [n1stake](https://faucet.n1stake.com/) - Website to claim testnet SUI with sui wallet integration.
-- @SuiwareFaucetBot - Sui Faucet Bot for Telegram.
+- [Sui Faucet](https://faucet.sui.io/) - Official web faucet for claiming testnet SUI, with wallet integration.
+- [n1stake](https://faucet.n1stake.com/) - Community web faucet for claiming testnet SUI, with wallet integration.
+- [Blockbolt](https://faucet.blockbolt.io/) - Community web faucet for claiming testnet SUI, with wallet integration.
+- SuiwareFaucetBot - Sui Faucet Bot for Telegram.
   - [GitHub](https://github.com/suiware/SuiwareFaucetBot) - [Telegram Bot](https://t.me/SuiwareFaucetBot)
-- Suiware Faucet Chrome Extension - An experimental Chrome extension.
-  - [GitHub](https://github.com/suiware/suiware-faucet-extension)
+- [Suiware Faucet Chrome Extension](https://github.com/suiware/suiware-faucet-extension) - An experimental Chrome extension for receiving devnet and testnet SUI.
