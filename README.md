@@ -12,24 +12,28 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## Contents
 
-- [Move IDEs](#move-ides)
-  - [Web IDEs](#web-ides)
-  - [Desktop IDEs](#desktop-ides)
-  - [IDE Utilities](#ide-utilities)
-- [Client SDKs \& Libraries](#client-sdks--libraries)
-  - [Client SDKs](#client-sdks)
-  - [DeFi SDKs](#defi-sdks)
-  - [Client Libraries](#client-libraries)
-- [dApp Development](#dapp-development)
-  - [dApp Toolkits](#dapp-toolkits)
-  - [Smart Contract Toolkits](#smart-contract-toolkits)
-- [Indexers \& Data Services](#indexers--data-services)
-- [Explorers](#explorers)
-- [Oracles](#oracles)
-- [Security](#security)
-- [AI](#ai)
-- [Infrastructure as Code](#infrastructure-as-code)
-- [Faucets](#faucets)
+- [Awesome Sui ](#awesome-sui-)
+  - [Contents](#contents)
+  - [Move IDEs](#move-ides)
+    - [Web IDEs](#web-ides)
+    - [Desktop IDEs](#desktop-ides)
+    - [IDE Utilities](#ide-utilities)
+  - [Client SDKs \& Libraries](#client-sdks--libraries)
+    - [Client SDKs](#client-sdks)
+    - [DeFi SDKs](#defi-sdks)
+    - [Client Libraries](#client-libraries)
+  - [dApp Development](#dapp-development)
+    - [dApp Toolkits](#dapp-toolkits)
+      - [zkLogin](#zklogin)
+      - [Misc](#misc)
+    - [Smart Contract Toolkits](#smart-contract-toolkits)
+  - [Indexers \& Data Services](#indexers--data-services)
+  - [Explorers](#explorers)
+  - [Oracles](#oracles)
+  - [Security](#security)
+  - [AI](#ai)
+  - [Infrastructure as Code](#infrastructure-as-code)
+  - [Faucets](#faucets)
 
 ## Move IDEs
 
@@ -240,7 +244,6 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## AI
 
-- [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
 - [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
