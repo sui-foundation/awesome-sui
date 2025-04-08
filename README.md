@@ -244,6 +244,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+- [@suiware/ai-tools](https://github.com/suiware/ai-tools) - Sui tools for Vercel AI SDK (balance, swap, transfer and others).
 
 ## Infrastructure as Code
 
