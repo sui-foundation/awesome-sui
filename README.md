@@ -27,6 +27,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Explorers](#explorers)
 - [Oracles](#oracles)
 - [Security](#security)
+- [Walrus](#walrus)
 - [AI](#ai)
 - [Infrastructure as Code](#infrastructure-as-code)
 - [Faucets](#faucets)
@@ -237,6 +238,10 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [DryRunTransactionBlockResponsePlus](https://github.com/SuiSec/DryRunTransactionBlockResponsePlus) - Decorator of `DryRunTransactionBlockResponse`, highlight `SenderChange`.
 - [Guardians](https://github.com/suiet/guardians) - Phishing Website Protection.
 - [HoneyPotDetectionOnSui](https://github.com/SuiSec/HoneyPotDetectionOnSui) - Detect HoneyPot SCAM on Sui.
+
+## Walrus
+
+- [Walrus Sites Deploy](https://www.npmjs.com/package/walrus-sites-deploy) - A Suibase-based CLI tool for seamless deployment to Walrus Sites
 
 ## AI
 
