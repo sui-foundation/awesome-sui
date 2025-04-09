@@ -240,7 +240,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## AI
 
-- [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
+- ⚠️ [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
 - [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
