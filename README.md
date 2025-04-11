@@ -204,6 +204,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [Homepage](https://www.indexer.xyz/) - [API Explorer](https://www.indexer.xyz/api-explorer) - [API Docs](https://tradeport.xyz/docs)
 - Dubhe Indexer (Dubhe Engine) - Automatic integration with Dubhe Engine, automatic indexing of all events based on Dubhe Engine to build Dapp on Sui, based on dubhe configuration files.
   - [Homepage](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-indexer) - [API Documentation](https://dubhe.obelisk.build/dubhe/sui/indexer)
+- Nimbus - Tracking your tokens, NFTs, DeFi Positions, and Airdrops on Sui. Data layer to power your dAPP & AI Agent 🤖
+  - [Homepage](https://app.getnimbus.io/) - [API Docs](https://docs.getnimbus.io/)
 
 ## Explorers
 
@@ -244,6 +246,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+- [Sui Agent Kit](https://github.com/getnimbus/sui-agent-kit) - An open-source toolkit for connecting AI agents to Sui Network.
+  - [Documentation](https://docs.getnimbus.io/sui-ai-agent/introduction)
 
 ## Infrastructure as Code
 
