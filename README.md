@@ -235,6 +235,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## Security
 
+- <a href="https://info.asymptotic.tech/sui-prover"><img alt="Sui Prover logo" src="media/prover_logo.svg" width="15" /></a> [Sui Prover](https://info.asymptotic.tech/sui-prover) - Prover for doing Formal Verification of Move on Sui code.
 - [SuiSecBlockList](https://github.com/SuiSec/SuiSecBlockList) - Block malicious websites and packages, Identify and hide phishing objects.
 - [DryRunTransactionBlockResponsePlus](https://github.com/SuiSec/DryRunTransactionBlockResponsePlus) - Decorator of `DryRunTransactionBlockResponse`, highlight `SenderChange`.
 - [Guardians](https://github.com/suiet/guardians) - Phishing Website Protection.
