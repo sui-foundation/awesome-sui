@@ -185,6 +185,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [Documentation](https://docs.blockberry.one/docs/contract-verification) - [Form Submission](https://suiscan.xyz/mainnet/package-verification)
 - [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) - For building, and managing Dapps built on Dubhe Engine in Sui.
   - [Documentation](https://dubhe.obelisk.build/dubhe/sui/cli)
+- [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
+  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts
 
 ## Indexers & Data Services
 
@@ -233,6 +235,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## Security
 
+- <a href="https://info.asymptotic.tech/sui-prover"><img alt="Sui Prover logo" src="media/prover_logo.svg" width="15" /></a> [Sui Prover](https://info.asymptotic.tech/sui-prover) - Prover for doing Formal Verification of Move on Sui code.
 - [SuiSecBlockList](https://github.com/SuiSec/SuiSecBlockList) - Block malicious websites and packages, Identify and hide phishing objects.
 - [DryRunTransactionBlockResponsePlus](https://github.com/SuiSec/DryRunTransactionBlockResponsePlus) - Decorator of `DryRunTransactionBlockResponse`, highlight `SenderChange`.
 - [Guardians](https://github.com/suiet/guardians) - Phishing Website Protection.
@@ -240,7 +243,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## AI
 
-- [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
+- ⚠️ [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
 - [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
