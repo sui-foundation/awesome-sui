@@ -115,8 +115,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui Wallet Standard (Mysten Labs) - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-standard) - [Documentation](https://docs.sui.io/standards/wallet-standard)
 - [CoinMeta (Polymedia)](https://github.com/juzybits/polymedia-coinmeta) - Library for fetching coin metadata for Sui coins.
-- [Dubhe Client BCS Decoding (Dubhe Engine)](https://github.com/0xobelisk/dubhe-docs/blob/main/pages/dubhe/sui/client.mdx#bcs-data-decoding) 
-- Library for supports automatic parsing of BCS types based on contract metadata information and automatic conversion formatting.
+- [Dubhe Client BCS Decoding (Dubhe Engine)](https://github.com/0xobelisk/dubhe-docs/blob/main/pages/dubhe/sui/client.mdx#bcs-data-decoding) - Library for supports automatic parsing of BCS types based on contract metadata information and automatic conversion formatting.
 
 ## dApp Development
 
@@ -138,7 +137,6 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - SuiBase - Suibase makes it easy to create "workdirs", each defining a distinct development environment targeting a network.
   - [GitHub](https://github.com/chainmovers/suibase) - [Documentation](https://suibase.io/)
 - [create-dubhe (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/create-dubhe) - Create a new Dubhe project on Sui.
-  - [Website](https://dubhe.obelisk.build/)
   - [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/quick-start)
 - [Sui Tools](https://sui-tools.vercel.app/ptb-generator) - Scaffolding TypeScript PTBs for any on-chain function you might want to invoke.
 - [Enoki (Mysten Labs)](https://docs.enoki.mystenlabs.com/) - Make zkLogin and Sponsored Transactions more accessible.
@@ -207,9 +205,9 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Indexer.xyz (behind TradePort) - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui.
   - [Homepage](https://www.indexer.xyz/) - [API Explorer](https://www.indexer.xyz/api-explorer) - [API Docs](https://tradeport.xyz/docs)
 - Dubhe Indexer (Dubhe Engine) - Automatic integration with Dubhe Engine, automatic indexing of all events based on Dubhe Engine to build Dapp on Sui, based on dubhe configuration files.
-  - [Website](https://dubhe.obelisk.build/)
   - [Homepage](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-indexer)
   - [API Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/indexer)
+
 ## Explorers
 
 - SuiVision - Data analytics covering transactions, wallets, staking, and validators.
@@ -256,7 +254,6 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui Terraform Modules - All-in-one solution for deploying, monitoring, and managing SUI infrastructure with ease.
   - [GitHub](https://github.com/bartosian/sui-terraform-modules) - [Further Information](details/iac_sui_terraform_modules.md)
 - [Dubhe Engine (Obelisk Labs)](https://github.com/0xobelisk/dubhe) - Engine for Everyone to Build Intent-Centric Worlds ⚙️ An Open-Source toolchain for Move Applications.
-  - [Website](https://dubhe.obelisk.build/)
   - [Documentation](https://dubhe-docs.obelisk.build/) - [Further Information](details/engine_dubhe.md)
 
 ## Faucets
@@ -268,4 +265,3 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/suiware/SuiwareFaucetBot) - [Telegram Bot](https://t.me/SuiwareFaucetBot)
 - [Suiware Faucet Chrome Extension](https://github.com/suiware/suiware-faucet-extension) - An experimental Chrome extension for receiving devnet and testnet SUI.
 - [General Faucet for Sui](https://github.com/0xobelisk/faucet) - A general-purpose Sui web faucet developed by the Obelisk team.
-  - [GitHub](https://github.com/0xobelisk/faucet)
