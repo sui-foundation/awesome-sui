@@ -12,24 +12,28 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## Contents
 
-- [Move IDEs](#move-ides)
-  - [Web IDEs](#web-ides)
-  - [Desktop IDEs](#desktop-ides)
-  - [IDE Utilities](#ide-utilities)
-- [Client SDKs \& Libraries](#client-sdks--libraries)
-  - [Client SDKs](#client-sdks)
-  - [DeFi SDKs](#defi-sdks)
-  - [Client Libraries](#client-libraries)
-- [dApp Development](#dapp-development)
-  - [dApp Toolkits](#dapp-toolkits)
-  - [Smart Contract Toolkits](#smart-contract-toolkits)
-- [Indexers \& Data Services](#indexers--data-services)
-- [Explorers](#explorers)
-- [Oracles](#oracles)
-- [Security](#security)
-- [AI](#ai)
-- [Infrastructure as Code](#infrastructure-as-code)
-- [Faucets](#faucets)
+- [Awesome Sui ](#awesome-sui-)
+  - [Contents](#contents)
+  - [Move IDEs](#move-ides)
+    - [Web IDEs](#web-ides)
+    - [Desktop IDEs](#desktop-ides)
+    - [IDE Utilities](#ide-utilities)
+  - [Client SDKs \& Libraries](#client-sdks--libraries)
+    - [Client SDKs](#client-sdks)
+    - [DeFi SDKs](#defi-sdks)
+    - [Client Libraries](#client-libraries)
+  - [dApp Development](#dapp-development)
+    - [dApp Toolkits](#dapp-toolkits)
+      - [zkLogin](#zklogin)
+      - [Misc](#misc)
+    - [Smart Contract Toolkits](#smart-contract-toolkits)
+  - [Indexers \& Data Services](#indexers--data-services)
+  - [Explorers](#explorers)
+  - [Oracles](#oracles)
+  - [Security](#security)
+  - [AI](#ai)
+  - [Infrastructure as Code](#infrastructure-as-code)
+  - [Faucets](#faucets)
 
 ## Move IDEs
 
@@ -186,8 +190,9 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Package Source Code Verification - Verify your package source code on Suiscan, powered by WELLDONE Studio and Blockberry.
   - [Documentation](https://docs.blockberry.one/docs/contract-verification) - [Form Submission](https://suiscan.xyz/mainnet/package-verification)
 - [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) - For building, and managing Dapps built on Dubhe Engine in Sui.
-  - [Website](https://dubhe.obelisk.build/)
   - [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/cli)
+- [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
+  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts
 
 ## Indexers & Data Services
 
@@ -237,6 +242,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## Security
 
+- <a href="https://info.asymptotic.tech/sui-prover"><img alt="Sui Prover logo" src="media/prover_logo.svg" width="15" /></a> [Sui Prover](https://info.asymptotic.tech/sui-prover) - Prover for doing Formal Verification of Move on Sui code.
 - [SuiSecBlockList](https://github.com/SuiSec/SuiSecBlockList) - Block malicious websites and packages, Identify and hide phishing objects.
 - [DryRunTransactionBlockResponsePlus](https://github.com/SuiSec/DryRunTransactionBlockResponsePlus) - Decorator of `DryRunTransactionBlockResponse`, highlight `SenderChange`.
 - [Guardians](https://github.com/suiet/guardians) - Phishing Website Protection.
@@ -244,7 +250,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## AI
 
-- [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
+- ⚠️ [RagPool](https://ragpool.digkas.nl/) - RAG based chat with docs.
 - [Cookbook](https://docsbot-demo-git-sui-cookbookdev.vercel.app/) - Gemini-based RAG built for docs.
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
@@ -265,3 +271,5 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - SuiwareFaucetBot - Sui Faucet Bot for Telegram.
   - [GitHub](https://github.com/suiware/SuiwareFaucetBot) - [Telegram Bot](https://t.me/SuiwareFaucetBot)
 - [Suiware Faucet Chrome Extension](https://github.com/suiware/suiware-faucet-extension) - An experimental Chrome extension for receiving devnet and testnet SUI.
+- [General Faucet for Sui](https://github.com/0xobelisk/faucet) - A general-purpose Sui web faucet developed by the Obelisk team.
+  - [GitHub](https://github.com/0xobelisk/faucet)
