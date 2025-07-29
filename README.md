@@ -76,7 +76,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui blockchain via the Json RPC (to be deprecated).
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) - [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) - [Further Information](details/sdk_sui_rust.md)
 - Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui blockchain via the GraphQL RPC.
-  - [Github](https://github.com/MystenLabs/sui-rust-sdk) - [Guide](https://medium.com/the-sui-stack/a-guide-to-rust-on-sui-3095b6a0b11c)
+  - [GitHub](https://github.com/MystenLabs/sui-rust-sdk) - [Guide](https://medium.com/the-sui-stack/a-guide-to-rust-on-sui-3095b6a0b11c)
 - Pysui - Python SDK to interact with Sui blockchain.
   - [GitHub](https://github.com/FrankC01/pysui?tab=readme-ov-file) - [Documentation](https://pysui.readthedocs.io/en/latest/index.html) - [Pypi](https://pypi.org/project/pysui/) - [Discord](https://discord.gg/uCGYfY4Ph4) - [Further Information](details/sdk_pysui.md)
 - Sui Go SDK (SuiVision) - Golang SDK to interact with Sui blockchain.
@@ -118,7 +118,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-standard) - [Documentation](https://docs.sui.io/standards/wallet-standard)
 - [CoinMeta (Polymedia)](https://github.com/juzybits/polymedia-coinmeta) - Library for fetching coin metadata for Sui coins.
 - [Move Binding (Mysten Labs)](https://github.com/MystenLabs/move-binding) - Generates corresponding Rust structs and function entry points from on-chain Move packages.
-- [Sui Rust Utils (Thouny)](https://github.com/thounyy/sui-rust-utils) - Utilities and abstractions complementing the new [sui-rust-sdk](https://github.com/MystenLabs/sui-rust-sdk)
+- [Sui Rust Utils (Thouny)](https://github.com/thounyy/sui-rust-utils) - Utilities and abstractions complementing the new Rust SDK.
 - [MoveRox (Angelo)](https://github.com/0xangelo/moverox) - Decodes Move types into oxidized, bcs-compatible Rust types.
 - [Dubhe Client BCS Decoding (Dubhe Engine)](https://github.com/0xobelisk/dubhe-docs/blob/main/pages/dubhe/sui/client.mdx#bcs-data-decoding) - Library for supports automatic parsing of BCS types based on contract metadata information and automatic conversion formatting.
 
@@ -191,7 +191,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) - For building, and managing Dapps built on Dubhe Engine in Sui.
   - [Documentation](https://dubhe.obelisk.build/dubhe/sui/cli)
 - [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
-  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts
+  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts.
 
 ## Indexers & Data Services
 
