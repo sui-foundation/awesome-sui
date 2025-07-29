@@ -1,4 +1,4 @@
-# Sui Go SDK (by SuiVision)
+# Sui Go SDK (by Pattonkan)
 
 ## Tooling Category
 
@@ -16,4 +16,4 @@ The go-sui tool from Pattonkan facilitates basic Sui interactions. Additionally,
 ## Features
 
 - [Features](https://github.com/pattonkan/sui-go/tree/main/examples)
-- ⚠️ GraphQL is not supported yet.
+- [GraphQL](https://github.com/pattonkan/sui-go/pull/118) is supported.
