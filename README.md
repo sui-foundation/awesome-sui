@@ -12,24 +12,28 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## Contents
 
-- [Move IDEs](#move-ides)
-  - [Web IDEs](#web-ides)
-  - [Desktop IDEs](#desktop-ides)
-  - [IDE Utilities](#ide-utilities)
-- [Client SDKs \& Libraries](#client-sdks--libraries)
-  - [Client SDKs](#client-sdks)
-  - [DeFi SDKs](#defi-sdks)
-  - [Client Libraries](#client-libraries)
-- [dApp Development](#dapp-development)
-  - [dApp Toolkits](#dapp-toolkits)
-  - [Smart Contract Toolkits](#smart-contract-toolkits)
-- [Indexers \& Data Services](#indexers--data-services)
-- [Explorers](#explorers)
-- [Oracles](#oracles)
-- [Security](#security)
-- [AI](#ai)
-- [Infrastructure as Code](#infrastructure-as-code)
-- [Faucets](#faucets)
+- [Awesome Sui ](#awesome-sui-)
+  - [Contents](#contents)
+  - [Move IDEs](#move-ides)
+    - [Web IDEs](#web-ides)
+    - [Desktop IDEs](#desktop-ides)
+    - [IDE Utilities](#ide-utilities)
+  - [Client SDKs \& Libraries](#client-sdks--libraries)
+    - [Client SDKs](#client-sdks)
+    - [DeFi SDKs](#defi-sdks)
+    - [Client Libraries](#client-libraries)
+  - [dApp Development](#dapp-development)
+    - [dApp Toolkits](#dapp-toolkits)
+      - [zkLogin](#zklogin)
+      - [Misc](#misc)
+    - [Smart Contract Toolkits](#smart-contract-toolkits)
+  - [Indexers \& Data Services](#indexers--data-services)
+  - [Explorers](#explorers)
+  - [Oracles](#oracles)
+  - [Security](#security)
+  - [AI](#ai)
+  - [Infrastructure as Code](#infrastructure-as-code)
+  - [Faucets](#faucets)
 
 ## Move IDEs
 
@@ -37,8 +41,6 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 - BitsLab IDE - Online Move code editor that requires no configuration and supports Move code syntax highlighting. Beginner friendly and supports interacting with Sui.
   - [Homepage](https://www.bitslab.xyz/bitslabide) - [IDE](https://ide.bitslab.xyz/) - [Tutorial](https://www.youtube.com/watch?v=-9-WkqQwtu8) - [Further Information](details/ide_bitslab.md)
-- MoveStudio - Online IDE for Sui smart contract development.
-  - [Homepage](https://www.movestudio.dev/) - [GitHub](https://github.com/dantheman8300/move-studio) - [IDE](https://www.movestudio.dev/build) - [Further Information](details/ide_movestudio.md)
 - ChainIDE - Move Cloud-Powered Development Platform.
   - [Homepage](https://chainide.com) - [Documentation](https://chainide.gitbook.io/chainide-english-1/ethereum-ide-1/9.-sui-ide) - [IDE](https://chainide.com/s/sui) - [Further Information](details/ide_chainide.md)
 - ⚠️ WELLDONE Code - Remix IDE plugin supports non-EVM smart contract development including Sui.
