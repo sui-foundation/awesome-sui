@@ -171,6 +171,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [PTB Studio](https://ptb.studio) - Visual Programmable Transaction Block Builder.
   - [Documentation](https://suicookbook.com/ptb-studio.html)
 - [Indexer generator](https://www.npmjs.com/package/sui-events-indexer) - Code generating tool that will generate an indexer given a smart contract for all the events present. After that the user should remove unwanted events and fix the database schema and handlers (that write to the DB) according to their needs. The tool is written in typescript and uses prisma as an ORM.
+- [PTB Builder](https://ptb.wal.app) - PTB Builder is a visual development tool for Programmable Transaction Blocks. (PTBs)
+  - [Documentation](https://docs.zktx.io/ptb-builder/)
 
 ### Smart Contract Toolkits
 
@@ -188,7 +190,12 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) - For building, and managing Dapps built on Dubhe Engine in Sui.
   - [Documentation](https://dubhe.obelisk.build/dubhe/sui/cli)
 - [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
-  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts
+  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts.
+- [Sui MVR Provenance](https://github.com/marketplace/actions/sui-mvr-provenance) - A provenance tool that links deployed Move packages on Sui to their exact GitHub source.
+Generates in-toto metadata during deployment using Sigstore and SLSA. Supports verification via the [Move Registry (MVR)](https://www.moveregistry.com/) and [notary.wal.app](https://notary.wal.app).
+  - [GitHub](https://github.com/zktx-io/sui-mvr-provenance)
+  - [Documentation](https://docs.zktx.io/slsa/mvr/)
+  - [Live Example](https://notary.wal.app/mvr/@notary/hello-mvr)
 
 ## Indexers & Data Services
 
@@ -219,8 +226,6 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [Homepage](https://www.oklink.com/sui) - [Further Information](details/explorer_oklink.md)
 - Polymedia Explorer - A fork of the original Sui Explorer.
   - [Homepage](https://explorer.polymedia.app) - [GitHub](https://github.com/juzybits/polymedia-explorer) - [Further Information](details/explorer_polymedia.md)
-- PTB Explorer - A fork of the Polymedia Explorer.
-  - [Homepage](https://explorer.walrus.site/) - [GitHub](https://github.com/zktx-io/polymedia-explorer-ptb-builder)
 - Local Sui Explorer - Sui Explorer for your localnet maintained by [suiware](https://github.com/suiware)
   - [GitHub](https://github.com/suiware/sui-explorer) - [Further Information](details/explorer_local_sui_explorer.md)
 - Suimon - Powerful command line tool designed to provide detailed dashboards for monitoring the Sui network.
