@@ -17,7 +17,7 @@ Engine for Everyone to Build Intent-Centric Worlds ⚙️ An Open-Source toolcha
 
 - ⚡️ Built with [Move](https://move-language.github.io/move/)
 - 🏛️ Harvard Structural Architecture
-- 📦 Structured [Schema-based](https://dubhe.obelisk.build/dubhe/sui/schemas) Storage
+- 📦 Structured [Schema-based](https://dubhe-docs.obelisk.build/dubhe/sui/schemas) Storage
 - 🌐 Multi-Move Ecosystem Support
 - 🛠️ Development Tools:
   - Sandbox Networking & Indexing
