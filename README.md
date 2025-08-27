@@ -92,6 +92,9 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Dubhe Client (Dubhe Engine) - Supports various platforms including browsers, Node.js, and game engine. It provides a simple interface to interact with your Sui Move contracts.
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe.obelisk.build/dubhe/sui/client)
 
+- SuiSealrus SDK - Node.js SDK for Sui blockchain integration with SEAL encryption and Walrus decentralized storage. Provides file encryption, secure storage, and access control through smart contracts.
+  - [GitHub](https://github.com/Ashwin-3cS/suisealrus-sdk) - [npm](https://www.npmjs.com/package/sui-sealrus-sdk) - [Documentation](https://github.com/Ashwin-3cS/suisealrus-sdk#readme)
+
 ### DeFi SDKs
 - [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
 - [Bucket Protocol SDK](https://github.com/Bucket-Protocol/bucket-protocol-sdk) - The TypeScript SDK for interacting with Bucket Protocol.
