@@ -80,7 +80,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui Go SDK (SuiVision) - Golang SDK to interact with Sui blockchain.
   - [GitHub](https://github.com/block-vision/sui-go-sdk) - [API Documentation](https://pkg.go.dev/github.com/block-vision/sui-go-sdk) - [Examples](https://github.com/block-vision/sui-go-sdk?tab=readme-ov-file#examples) - [Further Information](details/sdk_sui_go.md)
 - Sui Go SDK (Pattonkan) - Golang SDK to interact with Sui blockchain. Support PTB and devInspect.
-  - [Github](https://github.com/pattonkan/sui-go) - [API Documentation](https://pkg.go.dev/github.com/pattonkan/sui-go) - [Examples](https://github.com/pattonkan/sui-go/tree/main/examples) - [Further Information](details/go-sui.md)
+  - [GitHub](https://github.com/pattonkan/sui-go) - [API Documentation](https://pkg.go.dev/github.com/pattonkan/sui-go) - [Examples](https://github.com/pattonkan/sui-go/tree/main/examples) - [Further Information](details/go-sui.md)
 - Sui Dart SDK - Dart SDK to interact with Sui blockchain.
   - [GitHub](https://github.com/mofalabs/sui) - [API documentation](https://pub.dev/documentation/sui/latest/) - [Further Information](details/sdk_sui_dart.md)
 - Sui Kotlin SDK - Kotlin Multiplatform (KMP) SDK for integrating with the Sui blockchain.
@@ -91,6 +91,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/OpenDive/Sui-Unity-SDK) - [Further Information](details/sdk_sui_unity_opendive.md)
 - Dubhe Client (Dubhe Engine) - Supports various platforms including browsers, Node.js, and game engine. It provides a simple interface to interact with your Sui Move contracts.
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe.obelisk.build/dubhe/sui/client)
+- SuiSealrus SDK - Node.js SDK for Sui blockchain integration with SEAL encryption and Walrus decentralized storage.
+  - [GitHub](https://github.com/Ashwin-3cS/suisealrus-sdk) - [npm](https://www.npmjs.com/package/sui-sealrus-sdk)
 
 ### DeFi SDKs
 - [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
@@ -191,7 +193,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) - For building, and managing Dapps built on Dubhe Engine in Sui.
   - [Documentation](https://dubhe.obelisk.build/dubhe/sui/cli)
 - [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
-  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts
+  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts.
 
 ## Indexers & Data Services
 
