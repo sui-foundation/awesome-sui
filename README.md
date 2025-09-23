@@ -4,7 +4,7 @@
 
 > A curated list of _awesome_ developer tools and infrastructure projects within the Sui ecosystem.
 
-Sui is the first blockchain built for internet scale, enabling fast, scalable, and low-latency transactions. It's programmable and composable, powered by the Move language, making it easy to build and integrate dApps. Sui prioritizes developer experience and frictionless user interactions, designed to support next-gen decentralized applications with minimal complexity.
+Sui is the first Blockchain built for internet scale, enabling fast, scalable, and low-latency transactions. It's programmable and composable, powered by the Move language, making it easy to build and integrate dApps. Sui prioritizes developer experience and frictionless user interactions, designed to support next-gen decentralized applications with minimal complexity.
 
 > ⚠️ This warning icon means that the tool may not be functioning correctly at the moment. Please check these tools carefully.
 
@@ -80,12 +80,12 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui Go SDK (SuiVision) - Golang SDK to interact with Sui blockchain.
   - [GitHub](https://github.com/block-vision/sui-go-sdk) - [API Documentation](https://pkg.go.dev/github.com/block-vision/sui-go-sdk) - [Examples](https://github.com/block-vision/sui-go-sdk?tab=readme-ov-file#examples) - [Further Information](details/sdk_sui_go.md)
 - Sui Go SDK (Pattonkan) - Golang SDK to interact with Sui blockchain. Support PTB and devInspect.
-  - [Github](https://github.com/pattonkan/sui-go) - [API Documentation](https://pkg.go.dev/github.com/pattonkan/sui-go) - [Examples](https://github.com/pattonkan/sui-go/tree/main/examples) - [Further Information](details/go-sui.md)
+  - [GitHub](https://github.com/pattonkan/sui-go) - [API Documentation](https://pkg.go.dev/github.com/pattonkan/sui-go) - [Examples](https://github.com/pattonkan/sui-go/tree/main/examples) - [Further Information](details/go-sui.md)
 - Sui Dart SDK - Dart SDK to interact with Sui blockchain.
   - [GitHub](https://github.com/mofalabs/sui) - [API documentation](https://pub.dev/documentation/sui/latest/) - [Further Information](details/sdk_sui_dart.md)
 - Sui Kotlin SDK - Kotlin Multiplatform (KMP) SDK for integrating with the Sui blockchain.
   - [GitHub](https://github.com/mcxross/ksui) - [Documentation](https://suicookbook.com) - [Further Information](details/sdk_ksui.md)
-- SuiKit (OpenDive) - Swift SDK natively designed to make developing for the Sui blockchain easy.
+- SuiKit (OpenDive) - Swift SDK natively designed to make developing for the Sui Blockchain easy.
   - [GitHub](https://github.com/opendive/suikit?tab=readme-ov-file) - [Further Information](details/sdk_suikit.md)
 - Sui Unity SDK (OpenDive) - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
   - [GitHub](https://github.com/OpenDive/Sui-Unity-SDK) - [Further Information](details/sdk_sui_unity_opendive.md)
@@ -93,7 +93,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe.obelisk.build/dubhe/sui/client)
 
 ### DeFi SDKs
-- [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
+- [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui Blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
 - [Bucket Protocol SDK](https://github.com/Bucket-Protocol/bucket-protocol-sdk) - The TypeScript SDK for interacting with Bucket Protocol.
 - [Suilend SDK](https://github.com/solendprotocol/suilend-public/tree/production/sdk) - The TypeScript SDK for interacting with the Suilend program published on npm as [`@suilend/sdk`](https://www.npmjs.com/package/@suilend/sdk).
 - [Scallop SDK](https://github.com/scallop-io/sui-scallop-sdk) - The TypeScript SDK for interacting with the Scallop lending protocol on the Sui network.
@@ -146,9 +146,9 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [useSuiZkLogin](https://github.com/pixelbrawlgames/use-sui-zklogin) - React hook and functions for seamless zkLogin integration on Sui.
 - @suiware/kit - Opinionated React components and hooks for Sui dApps.
   - [Homepage](https://kit.suiware.io/) - [Documentation](https://github.com/suiware/kit/tree/main/packages/kit#readme) - [GitHub](https://github.com/suiware/kit)
-- React ZK Login Kit - Ready-to-use Component with Hook (sign-in + sign-transaction)
+- React ZK Login Kit - Ready-to-use Component with Hook (sign-in + sign-transaction).
   - [GitHub](https://github.com/denyskozak/react-sui-zk-login-kit) - [YouTube Guide](https://www.youtube.com/watch?v=2qnjmKg3ugY)
-- [useSuiPasskey](https://github.com/denyskozak/use-sui-passkey) - React Hook for sign-in a users with passkey
+- [useSuiPasskey](https://github.com/denyskozak/use-sui-passkey) - React Hook for sign-in a users with passkey.
 
 #### zkLogin
 
@@ -171,7 +171,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Sui RPC Proxy](https://github.com/SuiSec/sui-rpc-proxy) - Monitor and analyze the network requests made by the Sui wallet application and Sui dApps.
 - [PTB Studio](https://ptb.studio) - Visual Programmable Transaction Block Builder.
   - [Documentation](https://suicookbook.com/ptb-studio.html)
-- [Indexer generator](https://www.npmjs.com/package/sui-events-indexer) - Code generating tool that will generate an indexer given a smart contract for all the events present. After that the user should remove unwanted events and fix the database schema and handlers (that write to the DB) according to their needs. The tool is written in typescript and uses prisma as an ORM.
+- [Indexer generator](https://www.npmjs.com/package/sui-events-indexer) - Code generating tool that will generate an indexer given a smart contract for all the events present. After that the user should remove unwanted events and fix the database schema and handlers (that write to the DB) according to their needs. The tool is written in TypeScript and uses Prisma as an ORM.
 
 ### Smart Contract Toolkits
 
@@ -192,7 +192,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) - For building, and managing Dapps built on Dubhe Engine in Sui.
   - [Documentation](https://dubhe.obelisk.build/dubhe/sui/cli)
 - [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
-  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts
+  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts.
 
 ## Indexers & Data Services
 
