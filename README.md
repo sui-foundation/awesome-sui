@@ -259,6 +259,8 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/bartosian/sui-terraform-modules) - [Further Information](details/iac_sui_terraform_modules.md)
 - [Dubhe Engine (Obelisk Labs)](https://github.com/0xobelisk/dubhe) - Engine for Everyone to Build Intent-Centric Worlds ⚙️ An Open-Source toolchain for Move Applications.
   - [Documentation](https://dubhe.obelisk.build/) - [Further Information](details/engine_dubhe.md)
+- Sui Tools Monitoring Stack - End-to-end monitoring solution for Sui services using Grafana, Prometheus, and Alertmanager.
+  - [GitHub](https://github.com/bartosian/sui-tools)
 
 ## Faucets
 
