@@ -244,6 +244,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+- [@suiware/ai-tools](https://www.npmjs.com/package/@suiware/ai-tools) - Sui tools for Vercel AI SDK (balance, swap, transfer and others).
+- [@suiware/mcp](https://www.npmjs.com/package/@suiware/mcp) - An MCP server with Sui tools (balance, swap, transfer and others).
 
 ## Infrastructure as Code
 
