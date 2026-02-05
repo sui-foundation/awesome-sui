@@ -248,8 +248,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ## Tools
 
-- [Suiup](https://github.com/MystenLabs/suiup) - Installer & version manager for Sui toolchain 
-- [sui-download-latest.sh](https://gist.github.com/robert-zaremba/820f4cb9c39dd08a004f802c0896cc4b) - Lean version of Suiup for Linux systems. Suiup will download the whole github release archive, that includes debug and validator tools, db frameworks etc... (800MB of gzip). sui-download-latest.sh downloads only downaloads what you need (by default `sui` and `move-analyzer` binaries).
+- [Suiup](https://github.com/MystenLabs/suiup) - Installer & version manager for Sui toolchain.
+- [sui-download-latest.sh](https://gist.github.com/robert-zaremba/820f4cb9c39dd08a004f802c0896cc4b) - Lean downloader of released binaries you need (by default `sui` and `move-analyzer` binaries). Suiup will download the whole github release archive, that includes debug and validator tools, db frameworks etc... (800MB of gzip).
 
 ## Infrastructure as Code
 
