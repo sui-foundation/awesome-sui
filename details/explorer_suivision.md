@@ -14,7 +14,7 @@
 Data analytics covering transactions, wallets, staking, and validators
 
 ## Features
-- Fundamental blockchain data (transactions, epoch,...)
+- Fundamental Blockchain data (transactions, epoch,...)
 - Analytics:
     - DeFi
     - Coins

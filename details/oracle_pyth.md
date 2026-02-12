@@ -11,7 +11,7 @@
 
 ## Description
 
-Pyth Network is an oracle protocol that connects the owners of market data to applications on multiple blockchains.
+Pyth Network is an oracle protocol that connects the owners of market data to applications on multiple Blockchains.
 
 ## Features
 - [Pull-based oracles](https://docs.pyth.network/price-feeds/pull-updates#pull-oracles)

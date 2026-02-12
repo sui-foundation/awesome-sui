@@ -1,4 +1,4 @@
-# Tooling Name (Please Replace)
+# Suiscan
 
 ## Tooling Category
 
@@ -15,7 +15,7 @@ Explorer and analytics platform for Sui.
 
 ## Features
 - [Data APIs](https://docs.blockberry.one/reference/sui-quickstart)
-- Fundamental blockchain data (transactions, epoch,...)
+- Fundamental Blockchain data (transactions, epoch,...)
 - Analytics:
     - DeFi
     - Coins

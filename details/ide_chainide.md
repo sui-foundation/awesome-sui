@@ -11,7 +11,7 @@
 
 ## Description
 
-ChainIDE is cloud-based IDE for creating decentralized applications to deploy on blockchains. It supports Sui smart contract development.
+ChainIDE is cloud-based IDE for creating decentralized applications to deploy on Blockchains. It supports Sui smart contract development.
 
 ## Features
 - Move

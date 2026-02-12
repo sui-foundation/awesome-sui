@@ -10,7 +10,7 @@
 - [ ] SDK
 
 ## Features
-- [Pull-based price feed](https://docs.supra.com/docs/data-feeds/pull-model) ([Sui is supported](https://docs.supra.com/docs/data-feeds/pull-model/networks))
-- [Push-based price feed](https://docs.supra.com/docs/data-feeds/decentralized) ([Sui is supported](https://docs.supra.com/docs/data-feeds/decentralized/networks))
+- [Pull-based price feed](https://docs.supra.com/oracles/data-feeds/pull-oracle) ([Sui is supported](https://docs.supra.com/oracles/data-feeds/pull-oracle/networks))
+- [Push-based price feed](https://docs.supra.com/oracles/data-feeds/push-oracle) ([Sui is supported](https://docs.supra.com/oracles/data-feeds/push-oracle/networks))
 - [Live Data Feed](https://supra.com/data)
-- [Supported pairs](https://docs.supra.com/docs/data-feeds/data-feeds-index)
+- [Supported pairs](https://docs.supra.com/oracles/indices)

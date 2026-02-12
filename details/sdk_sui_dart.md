@@ -11,7 +11,7 @@
 
 ## Description
 
-Dart Client SDK for Sui blockchain
+Dart Client SDK for Sui Blockchain
 
 ## Features
 

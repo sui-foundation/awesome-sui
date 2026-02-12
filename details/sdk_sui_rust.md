@@ -11,7 +11,7 @@
 
 ## Description
 
-Sui Rust SDK contains APIs to interact with Sui blockchain.
+Sui Rust SDK contains APIs to interact with Sui Blockchain.
 
 ## Features
 

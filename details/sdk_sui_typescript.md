@@ -11,7 +11,7 @@
 
 ## Description
 
-The Sui TypeScript SDK is a modular library of tools for interacting with the Sui blockchain. Use it to send queries to RPC nodes, build and sign transactions, and interact with a Sui or local network.
+The Sui TypeScript SDK is a modular library of tools for interacting with the Sui Blockchain. Use it to send queries to RPC nodes, build and sign transactions, and interact with a Sui or local network.
 
 ## Features
 

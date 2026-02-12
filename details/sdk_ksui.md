@@ -11,7 +11,7 @@
 
 ## Description
 
-Kotlin Multiplatform (KMP) SDK for integrating with the Sui blockchain. It is designed to be a type-safe, client-configurable, and multiplatform SDK that can be used across different platforms such as Android, iOS, JS, and JVM. It is built on top of the KMM toolchain and is designed to be extensible and easy to use.
+Kotlin Multiplatform (KMP) SDK for integrating with the Sui Blockchain. It is designed to be a type-safe, client-configurable, and multiplatform SDK that can be used across different platforms such as Android, iOS, JS, and JVM. It is built on top of the KMM toolchain and is designed to be extensible and easy to use.
 
 ## Features
 

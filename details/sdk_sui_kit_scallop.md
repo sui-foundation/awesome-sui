@@ -11,7 +11,7 @@
 
 ## Description
 
-TypeScript Client Kit SDK for Sui blockchain
+TypeScript Client Kit SDK for Sui Blockchain
 
 ## Features
 

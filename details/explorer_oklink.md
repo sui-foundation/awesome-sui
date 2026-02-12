@@ -15,6 +15,6 @@ Provide fundamental explorer and data APIs on Sui.
 
 ## Features
 - Fundamental network data (transactions, epoch,...)
-- [Fundamental blockchain data APIs](https://www.oklink.com/docs/en/#fundamental-blockchain-data)
+- [Fundamental Blockchain data APIs](https://www.oklink.com/docs/en/#fundamental-blockchain-data)
 - Supported networks:
     - Mainnet

@@ -11,7 +11,7 @@
 
 ## Description
 
-Python Client SDK for Sui blockchain
+Python Client SDK for Sui Blockchain
 
 ## Features
 
