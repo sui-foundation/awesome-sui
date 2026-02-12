@@ -161,8 +161,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [Sui RPC Proxy](https://github.com/SuiSec/sui-rpc-proxy) - Monitor and analyze the network requests made by the Sui wallet application and Sui dApps.
 - [PTB Studio](https://ptb.studio) - Visual Programmable Transaction Block Builder.
   - [Documentation](https://suicookbook.com/ptb-studio.html)
-- [Indexer generator](https://www.npmjs.com/package/sui-events-indexer) - Code generating tool that will generate an indexer given a smart contract for all the events present. After that the user should remove unwanted events and fix the database schema and handlers (that write to the DB) according to their needs. The tool is written in typescript and uses prisma as an ORM.
-- [PTB Builder](https://ptb.wal.app) - PTB Builder is a visual development tool for Programmable Transaction Blocks. (PTBs)
+- [Indexer generator](https://www.npmjs.com/package/sui-events-indexer) - Code generating tool that will generate an indexer given a smart contract for all the events present. After that the user should remove unwanted events and fix the database schema and handlers (that write to the DB) according to their needs. The tool is written in TypeScript and uses Prisma as an ORM.
+- [PTB Builder](https://ptb.wal.app) - A visual development tool for Programmable Transaction Blocks. (PTBs)
   - [Documentation](https://docs.zktx.io/ptb-builder/)
 
 ### Smart Contract Toolkits
