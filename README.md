@@ -244,6 +244,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+- [t2000](https://t2000.ai) - Non-custodial DeFi banking for AI agents. 23 MCP tools for save, borrow, invest, exchange, and send across NAVI, Suilend, and Cetus. Works with Claude Desktop, Cursor, and Windsurf.
+  - [GitHub](https://github.com/mission69b/t2000) - [npm](https://www.npmjs.com/package/@t2000/mcp)
 
 ## Infrastructure as Code
 
