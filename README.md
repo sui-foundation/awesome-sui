@@ -244,6 +244,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+- [sui-mcp-server](https://github.com/ExpertVagabond/sui-mcp-server) - 53-tool MCP server for AI agents — wallets, DeFi, Move contracts, staking, SuiNS, analytics.
 
 ## Infrastructure as Code
 
