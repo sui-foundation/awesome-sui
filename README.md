@@ -198,6 +198,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [Homepage](https://www.spaceandtime.io/) - [Documentation](https://docs.spaceandtime.io/) - [Further Documentation](details/indexer_space_and_time.md)
 - Birdeye Data Services - Access Crypto Market Data APIs on Sui.
   - [Homepage](https://bds.birdeye.so/) - [Blog](https://blog.sui.io/birdeye-data-services-crypto-api-websocket/) - [API Documentation](https://docs.birdeye.so/reference/intro/authentication)
+- DexPaprika - Free DEX data API covering Sui and 33 other blockchains. Pools, tokens, OHLCV, trades, real-time SSE streaming. No API key, no rate limits.
+  - [Homepage](https://dexpaprika.com/) - [API Documentation](https://docs.dexpaprika.com/) - [GitHub](https://github.com/coinpaprika/dexpaprika-mcp)
 - Indexer.xyz (behind TradePort) - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui.
   - [Homepage](https://www.indexer.xyz/) - [API Explorer](https://www.indexer.xyz/api-explorer) - [API Docs](https://tradeport.xyz/docs)
 - Dubhe Indexer (Dubhe Engine) - Automatic integration with Dubhe Engine, automatic indexing of all events based on Dubhe Engine to build Dapp on Sui, based on dubhe configuration files.
