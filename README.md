@@ -23,6 +23,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [dApp Development](#dapp-development)
   - [dApp Toolkits](#dapp-toolkits)
   - [Smart Contract Toolkits](#smart-contract-toolkits)
+- [Betting \& Prediction Markets](#betting--prediction-markets)
 - [Indexers \& Data Services](#indexers--data-services)
 - [Explorers](#explorers)
 - [Oracles](#oracles)
@@ -184,6 +185,11 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
   - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts.
 
+## Betting & Prediction Markets
+
+- SuiBets - On-chain sports & esports betting platform supporting SUI, SBETS, and USDsui. Immutable odds, instant settlement, zero KYC.
+  - [Homepage](https://suibets.replit.app) - [GitHub](https://github.com/elpou88/suibetsupdatedsecurity) - [Mainnet Contract](https://suiscan.xyz/mainnet/object/0x2e354642a3c00571832c03c42575587a0ca38cfe02e4f84cb3404cc9eab403d3)
+
 ## Indexers & Data Services
 
 - ZettaBlock - Generate custom GraphQL or REST APIs from SQL queries and incorporate your private off-chain data.
@@ -238,6 +244,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [DryRunTransactionBlockResponsePlus](https://github.com/SuiSec/DryRunTransactionBlockResponsePlus) - Decorator of `DryRunTransactionBlockResponse`, highlight `SenderChange`.
 - [Guardians](https://github.com/suiet/guardians) - Phishing Website Protection.
 - [HoneyPotDetectionOnSui](https://github.com/SuiSec/HoneyPotDetectionOnSui) - Detect HoneyPot SCAM on Sui.
+- [SuiBets](https://suibets.com) - Formally verified decentralized sports betting protocol on Sui. Verified contract with 13 proven security properties using Sui Prover specifications.
+  - [Suiscan Verified Source](https://suiscan.xyz/mainnet/object/0x4d83eab83defa9e2488b3c525f54fc588185cfc1a906e5dada1954bf52296e76) - [Formal Verification Report](https://suibets.com/formal-verification.html) - [Security Audit](https://suibets.com/audit-report.html)
 
 ## AI
 - [Talus](https://docs.talus.network/) - Build autonomous digital economy powered by Sui.
