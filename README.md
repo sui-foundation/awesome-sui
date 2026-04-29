@@ -183,6 +183,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/cli)
 - [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
   - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts.
+- [Mercator](https://github.com/mercaearth/mercator) - On-chain spatial uniqueness primitive for Sui. Claim non-overlapping polygon regions — land, game boards, spectrum. SAT + quadtree, all in Move.
 
 ## Indexers & Data Services
 
