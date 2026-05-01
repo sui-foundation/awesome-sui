@@ -21,6 +21,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [DeFi SDKs](#defi-sdks)
   - [Client Libraries](#client-libraries)
 - [dApp Development](#dapp-development)
+  - [AI Skills](#ai-skills)
   - [dApp Toolkits](#dapp-toolkits)
   - [Smart Contract Toolkits](#smart-contract-toolkits)
 - [Indexers \& Data Services](#indexers--data-services)
@@ -115,6 +116,10 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [Dubhe Client BCS Decoding (Dubhe Engine)](https://github.com/0xobelisk/dubhe-docs/blob/main/pages/dubhe/sui/client.mdx#bcs-data-decoding) - Library for supports automatic parsing of BCS types based on contract metadata information and automatic conversion formatting.
 
 ## dApp Development
+
+### AI Skills
+
+- [Sui Move Skills](https://github.com/robert-zaremba/ai-skills) - a comprehensive skill covering the latest Sui Move coding guide, patterns and standard library. Compatible will all major AI Coding Agents (Opencode, Kilocode, Claude Code, Codex ...).
 
 ### dApp Toolkits
 
