@@ -28,6 +28,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [Oracles](#oracles)
 - [Security](#security)
 - [AI](#ai)
+- [Tools](#tools)
 - [Infrastructure as Code](#infrastructure-as-code)
 - [Faucets](#faucets)
 
@@ -244,6 +245,11 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+
+## Tools
+
+- [Suiup](https://github.com/MystenLabs/suiup) - Installer & version manager for Sui toolchain.
+- [sui-download-latest.sh](https://gist.github.com/robert-zaremba/820f4cb9c39dd08a004f802c0896cc4b) - Lean downloader of released binaries you need (by default `sui` and `move-analyzer` binaries). Suiup will download the whole github release archive, that includes debug and validator tools, db frameworks etc... (800MB of gzip).
 
 ## Infrastructure as Code
 
