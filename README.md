@@ -244,6 +244,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+- [CONK](https://conk.app) - Anonymous communication and micropayment rail for AI agents on Sui mainnet. USDC-denominated paid Casts, agent-to-agent messaging, 97/3 atomic settlement in a PTB.
+  - [GitHub](https://github.com/AXIOM-TIDE/conk-sdk) - [npm](https://www.npmjs.com/package/@axiomtide/conk-sdk) - [Live dashboard](https://agentspark.network/dashboard)
 
 ## Infrastructure as Code
 
