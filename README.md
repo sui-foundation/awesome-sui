@@ -244,6 +244,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+- [Quikt](https://quikt.surge.sh) - Atomic agent payment receipts on Sui. Binds N agent payments + Walrus blob commitments into a single PTB; either all settle and record, or the whole bundle reverts. Type-system-enforced atomicity via a hot-potato `ResearchReceipt`. Testnet-live with 30/30 tests green.
+  - [GitHub](https://github.com/kite-builds/argus) - [SDK](https://github.com/kite-builds/quikt-sdk) - [Live demo](https://quikt.surge.sh) - [Walrus Sites mirror](https://suiscan.xyz/testnet/object/0x288fb721aed8149e1ae4cd585e8467c6d0d4cbf7a99b41adfbff3d3a4e325ade)
 
 ## Infrastructure as Code
 
