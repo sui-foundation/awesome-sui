@@ -6,7 +6,7 @@
 
 Sui is the first Blockchain built for internet scale, enabling fast, scalable, and low-latency transactions. It's programmable and composable, powered by the Move language, making it easy to build and integrate dApps. Sui prioritizes developer experience and frictionless user interactions, designed to support next-gen decentralized applications with minimal complexity.
 
-> ⚠️ This warning icon means that the tool may not be functioning correctly at the moment. Please check these tools carefully.
+> â ï¸ This warning icon means that the tool may not be functioning correctly at the moment. Please check these tools carefully.
 
 [**Submit your own developer tool here**](CONTRIBUTING.md)
 
@@ -56,7 +56,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) - A Move language plugin for the Prettier code formatter.
 - [Sui Extension](https://github.com/zktx-io/sui-extension) - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
   - [Homepage](https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension) - [Documentation](https://docs.zktx.io/vsce/sui/)
-- ⚠️ Sui Simulator - VSCode Extension to streamline Sui development workflow with intuitive UI.
+- â ï¸ Sui Simulator - VSCode Extension to streamline Sui development workflow with intuitive UI.
   - [Homepage](https://marketplace.visualstudio.com/items?itemName=weminal-labs.sui-simulator-vscode) - [GitHub](https://github.com/Weminal-labs/sui-simulator-vscode) - [Demo](https://www.youtube.com/watch?v=BHRxeF_visM&pp=ygUMd2VtaW5hbCBsYWIg)
 - [Tree Sitter Move](https://github.com/MystenLabs/sui/tree/main/external-crates/move/tooling/tree-sitter) - Tree Sitter for Move. [What is tree sitter](https://tree-sitter.github.io/tree-sitter/).
 
@@ -168,7 +168,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [Sui CLI](https://docs.sui.io/references/cli) - CLI tool to interact with the Sui network, its features, and the Move programming language.
 - [Sentio Debugger](https://docs.sentio.xyz/docs/debugger) - Shows the trace of the transaction [Explorer App](https://app.sentio.xyz/explorer) (mainnet only).
 - [`std::debug`](https://docs.sui.io/guides/developer/first-app/debug#related-links) - Print arbitrary values to the console to help with debugging process.
-- [Sui Tears 💧 (Interest Protocol)](https://docs.interestprotocol.com/overview/sui-tears) - Open source production ready Sui Move library to increase the productivity of new and experienced developers alike.
+- [Sui Tears ð§ (Interest Protocol)](https://docs.interestprotocol.com/overview/sui-tears) - Open source production ready Sui Move library to increase the productivity of new and experienced developers alike.
 - [Sui Codec](https://github.com/sui-potatoes/app/tree/main/packages/codec) - Ultimate encoding solution for Sui.
 - [SkipList (Cetus)](https://github.com/CetusProtocol/move-stl) - A skip link list implement by Move language in Sui.
 - [IntegerMate (Cetus)](https://github.com/CetusProtocol/integer-mate) - A Library of move module provides signed integer and some integer math functions.
@@ -204,6 +204,10 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/crates/dubhe-indexer) - [API Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/indexer)
 - Surflux <a href="https://surflux.dev"><img alt="Surflux logo" src="media/surflux_logo.svg" width="15" /></a> - Developer infrastructure for Sui. Build production-ready apps with powerful APIs, indexing, and real-time data streams.
   - [Homepage](https://surflux.dev/) - [Documentation](https://docs.surflux.dev/) - [Blog](https://surflux.dev/blog)
+
+- Waloogle - The first search engine for Walrus sites. Indexes every website deployed to Walrus decentralised storage on Sui — client-side search, category filtering, and an on-chain boost registry. No central server.
+  - [Homepage](https://waloogle.wal.app/) - [About](https://waloogle.wal.app/about.html) - [Boost](https://waloogle.wal.app/boost.html)
+
 
 ## Explorers
 
@@ -249,7 +253,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 - Sui Terraform Modules - All-in-one solution for deploying, monitoring, and managing SUI infrastructure with ease.
   - [GitHub](https://github.com/bartosian/sui-terraform-modules) - [Further Information](details/iac_sui_terraform_modules.md)
-- [Dubhe Engine (Obelisk Labs)](https://github.com/0xobelisk/dubhe) - Engine for Everyone to Build Intent-Centric Worlds ⚙️ An Open-Source toolchain for Move Applications.
+- [Dubhe Engine (Obelisk Labs)](https://github.com/0xobelisk/dubhe) - Engine for Everyone to Build Intent-Centric Worlds âï¸ An Open-Source toolchain for Move Applications.
   - [Documentation](https://dubhe.obelisk.build/) - [Further Information](details/engine_dubhe.md)
 
 ## Faucets
