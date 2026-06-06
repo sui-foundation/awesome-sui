@@ -244,6 +244,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+- [QuantOracle](https://quantoracle.dev/) - Deterministic quant-finance tools (Black-Scholes, liquidation price, impermanent loss, VaR/risk analysis) that Sui AI agents call as tools — over MCP or a TypeScript tool-pack — so they compute instead of hallucinating the math.
+  - [GitHub](https://github.com/QuantOracledev/quantoracle) - [Sui Integration](https://quantoracle.dev/writing/sui-talus-quant-agent)
 
 ## Infrastructure as Code
 
