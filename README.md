@@ -245,6 +245,10 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
 
+### Agent & Automation SDKs
+
+- [Edge Protocol SDK](https://github.com/fluturecode/edge) - Programmable trust infrastructure for autonomous AI agents on Sui. EdgePass lets agents transact within user-defined policy boundaries — budget, merchants, thresholds, expiry — without key sharing. Works across DeFi, gaming, subscriptions, enterprise, and consumer apps. Install via `npm install @edge-protocol/sdk`.
+  
 ## Infrastructure as Code
 
 - Sui Terraform Modules - All-in-one solution for deploying, monitoring, and managing SUI infrastructure with ease.
