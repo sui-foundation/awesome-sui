@@ -86,6 +86,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/OpenDive/Sui-Unity-SDK) - [Further Information](details/sdk_sui_unity_opendive.md)
 - Dubhe Client (Dubhe Engine) - Supports various platforms including browsers, Node.js, and game engine. It provides a simple interface to interact with your Sui Move contracts.
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe-docs.obelisk.build/)
+- PoR SDK (Proof of Real) - Gate any Sui app on verified-human (proof-of-personhood) credentials in a few lines.
+  - [GitHub](https://github.com/DrVelvetFog/por-sdk) - [npm](https://www.npmjs.com/package/por-sdk) - [Website](https://por-proof-of-real.netlify.app)
 
 ### DeFi SDKs
 - [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui Blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
@@ -244,6 +246,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+- [Sui x402 Facilitator](https://sui-facilitator.onrender.com) - The first live, non-custodial x402 facilitator on Sui — agents pay for HTTP resources with on-chain settlement and zero protocol fees.
+  - [GitHub](https://github.com/DrVelvetFog/sui-x402-facilitator)
 
 ## Infrastructure as Code
 
