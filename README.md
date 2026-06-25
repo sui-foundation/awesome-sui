@@ -87,7 +87,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - Dubhe Client (Dubhe Engine) - Supports various platforms including browsers, Node.js, and game engine. It provides a simple interface to interact with your Sui Move contracts.
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe-docs.obelisk.build/)
 - PoR SDK (Proof of Real) - Gate any Sui app on verified-human (proof-of-personhood) credentials in a few lines.
-  - [npm](https://www.npmjs.com/package/por-sdk) - [Website](https://por-proof-of-real.netlify.app)
+  - [GitHub](https://github.com/DrVelvetFog/por-sdk) - [npm](https://www.npmjs.com/package/por-sdk) - [Website](https://por-proof-of-real.netlify.app)
 
 ### DeFi SDKs
 - [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui Blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
