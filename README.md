@@ -76,6 +76,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/block-vision/sui-go-sdk) - [API Documentation](https://pkg.go.dev/github.com/block-vision/sui-go-sdk) - [Examples](https://github.com/block-vision/sui-go-sdk?tab=readme-ov-file#examples) - [Further Information](details/sdk_sui_go.md)
 - Sui Go SDK (Pattonkan) - Golang SDK to interact with Sui Blockchain. Support PTB and devInspect.
   - [GitHub](https://github.com/pattonkan/sui-go) - [API Documentation](https://pkg.go.dev/github.com/pattonkan/sui-go) - [Examples](https://github.com/pattonkan/sui-go/tree/main/examples) - [Further Information](details/go_sui.md)
+- Sui Go SDK (Inodra) - gRPC-native Golang SDK aligned with Sui's current data stack (no JSON-RPC dependency). All six signature schemes including zkLogin and Passkey, plus an auto-resolving transaction builder.
+  - [GitHub](https://github.com/inodrahq/go-sui-sdk) - [API Documentation](https://pkg.go.dev/github.com/inodrahq/go-sui-sdk)
 - Sui Dart SDK - Dart SDK to interact with Sui Blockchain.
   - [GitHub](https://github.com/mofalabs/sui) - [API documentation](https://pub.dev/documentation/sui/latest/) - [Further Information](details/sdk_sui_dart.md)
 - Sui Kotlin SDK - Kotlin Multiplatform (KMP) SDK for integrating with the Sui Blockchain.
@@ -86,6 +88,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/OpenDive/Sui-Unity-SDK) - [Further Information](details/sdk_sui_unity_opendive.md)
 - Dubhe Client (Dubhe Engine) - Supports various platforms including browsers, Node.js, and game engine. It provides a simple interface to interact with your Sui Move contracts.
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe-docs.obelisk.build/)
+- Sui PHP SDK (Inodra) - PHP SDK for Sui with all six signature schemes, an auto-resolving transaction builder, and dual gRPC/JSON-RPC transport with automatic fallback.
+  - [GitHub](https://github.com/inodrahq/php-sui-sdk) - [Packagist](https://packagist.org/packages/inodrahq/sui-sdk)
 
 ### DeFi SDKs
 - [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui Blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
@@ -107,6 +111,9 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/mcxross/kotlinx-serialization-bcs) - [Documentation](https://suicookbook.com/bcs.html)
 - [BCS Swift](https://github.com/OpenDive/SuiKit/tree/main/Sources/SuiKit/Utils/BCS) - BCS with Swift.
 - [BCS Unity](https://github.com/OpenDive/Sui-Unity-SDK/tree/main/Assets/Sui-Unity-SDK/Code/OpenDive.BCS) - BCS with Unity C#.
+- [BCS Go (Inodra)](https://github.com/inodrahq/go-bcs) - Type-safe BCS with Go generics, zero dependencies.
+- BCS PHP (Inodra) - BCS with PHP.
+  - [GitHub](https://github.com/inodrahq/php-bcs) - [Packagist](https://packagist.org/packages/inodrahq/bcs)
 - [Sui Client Gen (Kuna Labs)](https://github.com/kunalabs-io/sui-client-gen/tree/master) - A tool for generating TS SDKs for Sui Move smart contracts. Supports code generation both for source code and on-chain packages with no IDLs or ABIs required.
 - [TypeMove (Sentio)](https://github.com/sentioxyz/typemove/blob/main/packages/sui/Readme.md) - Generate TypeScript bindings for Sui contracts.
 - Sui Wallet Standard (Mysten Labs) - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/).
@@ -204,6 +211,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/crates/dubhe-indexer) - [API Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/indexer)
 - Surflux <a href="https://surflux.dev"><img alt="Surflux logo" src="media/surflux_logo.svg" width="15" /></a> - Developer infrastructure for Sui. Build production-ready apps with powerful APIs, indexing, and real-time data streams.
   - [Homepage](https://surflux.dev/) - [Documentation](https://docs.surflux.dev/) - [Blog](https://surflux.dev/blog)
+- Inodra <img alt="Inodra logo" src="media/inodra_logo.png" width="15" /> - Sui-native data layer: gRPC and GraphQL gateways backed by full archival history since genesis, plus Warp real-time streams (WebSocket/SSE) and filtered webhooks, all with one API key.
+  - [Homepage](https://inodra.com) - [Documentation](https://docs.inodra.com) - [Pricing](https://inodra.com/pricing)
 
 ## Explorers
 
@@ -260,3 +269,4 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - SuiwareFaucetBot - Sui Faucet Bot for Telegram.
   - [GitHub](https://github.com/suiware/SuiwareFaucetBot) - [Telegram Bot](https://t.me/SuiwareFaucetBot)
 - [Suiware Faucet Chrome Extension](https://github.com/suiware/suiware-faucet-extension) - An experimental Chrome extension for receiving devnet and testnet SUI.
+- [Inodra Faucet](https://inodra.com/products/faucet) - Web faucet for claiming testnet SUI with instant delivery, daily claims, and transaction tracking.
