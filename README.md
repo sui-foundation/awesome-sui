@@ -238,6 +238,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [DryRunTransactionBlockResponsePlus](https://github.com/SuiSec/DryRunTransactionBlockResponsePlus) - Decorator of `DryRunTransactionBlockResponse`, highlight `SenderChange`.
 - [Guardians](https://github.com/suiet/guardians) - Phishing Website Protection.
 - [HoneyPotDetectionOnSui](https://github.com/SuiSec/HoneyPotDetectionOnSui) - Detect HoneyPot SCAM on Sui.
+- [move-test-gen](https://github.com/mehvetero/move-test-gen) - Agent skill that generates edge-case test suites (boundary, arithmetic, access-control, economic) for Sui Move functions.
 
 ## AI
 - [Talus](https://docs.talus.network/) - Build autonomous digital economy powered by Sui.
