@@ -244,6 +244,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+- [Suize](https://github.com/Sceat/suize) - MCP server that lets coding agents (Claude Code, Cursor, Codex) publish static sites to Walrus in one tool call, paid with a single gasless USDC payment; the payer owns the site on-chain.
 
 ## Infrastructure as Code
 
