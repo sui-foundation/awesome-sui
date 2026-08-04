@@ -204,6 +204,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/crates/dubhe-indexer) - [API Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/indexer)
 - Surflux <a href="https://surflux.dev"><img alt="Surflux logo" src="media/surflux_logo.svg" width="15" /></a> - Developer infrastructure for Sui. Build production-ready apps with powerful APIs, indexing, and real-time data streams.
   - [Homepage](https://surflux.dev/) - [Documentation](https://docs.surflux.dev/) - [Blog](https://surflux.dev/blog)
+- [OpenChainBench](https://openchainbench.com) — Open-source multi-chain RPC and data API benchmarks. Latency, reliability, archive depth across 22+ chains. CC BY 4.0 data.
 
 ## Explorers
 
