@@ -167,7 +167,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 - [Sui CLI](https://docs.sui.io/references/cli) - CLI tool to interact with the Sui network, its features, and the Move programming language.
 - [Sentio Debugger](https://docs.sentio.xyz/docs/debugger) - Shows the trace of the transaction [Explorer App](https://app.sentio.xyz/explorer) (mainnet only).
-- [`std::debug`](https://docs.sui.io/guides/developer/first-app/debug#related-links) - Print arbitrary values to the console to help with debugging process.
+- [`std::debug`](https://docs.sui.io/references/framework/sui_std/debug) - Print arbitrary values to the console to help with debugging process.
 - [Sui Tears 💧 (Interest Protocol)](https://docs.interestprotocol.com/overview/sui-tears) - Open source production ready Sui Move library to increase the productivity of new and experienced developers alike.
 - [Sui Codec](https://github.com/sui-potatoes/app/tree/main/packages/codec) - Ultimate encoding solution for Sui.
 - [SkipList (Cetus)](https://github.com/CetusProtocol/move-stl) - A skip link list implement by Move language in Sui.
