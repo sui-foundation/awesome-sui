@@ -27,7 +27,9 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [Explorers](#explorers)
 - [Oracles](#oracles)
 - [Security](#security)
+  - [Audit Tools](#audit-tools)
 - [AI](#ai)
+  - [Developer Skills](#developer-skills)
 - [Infrastructure as Code](#infrastructure-as-code)
 - [Faucets](#faucets)
 
@@ -127,6 +129,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/suiet/wallet-kit) - [Documentation](https://kit.suiet.app/docs/QuickStart)
 - [Sui Suitcase](https://github.com/juzybits/polymedia-suitcase) - Sui utilities for TypeScript, Node, and React.
 - [Sui MultiSig Toolkit (Mysten Labs)](https://multisig-toolkit.vercel.app/offline-signer) - Toolkit for transaction signing.
+- [MultiSig (SuiSec)](https://github.com/SuiSec/multisig-web-app) - Open-source, non-custodial web app for creating Sui multisig wallets and proposing, reviewing, and signing transactions.
+- [MultiSig Connect (SuiSec)](https://github.com/SuiSec/MultiSigConnect) - Browser extension that exposes Sui multisig wallets as Wallet Standard accounts and routes dApp signing requests to the MultiSig web app for approval.
 - [Sui dApp Scaffold (Bucket Protocol)](https://github.com/Bucket-Protocol/sui-dapp-scaffold-v1) - A frontend scaffold for a decentralized application (dApp) on the Sui Blockchain.
 - [Wormhole Kit (zktx.io)](https://github.com/zktx-io/wormhole-kit-monorepo) - React library that enables instant integration of Wormhole into your dapp.
 - SuiBase - Suibase makes it easy to create "workdirs", each defining a distinct development environment targeting a network.
@@ -239,11 +243,23 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [Guardians](https://github.com/suiet/guardians) - Phishing Website Protection.
 - [HoneyPotDetectionOnSui](https://github.com/SuiSec/HoneyPotDetectionOnSui) - Detect HoneyPot SCAM on Sui.
 
+### Audit Tools
+
+- [exvul Sui Move Skill](https://github.com/exvulsec/sui-move-skill) - Codex skill for autonomous end-to-end security reviews of Sui Move packages, with validated findings and structured reports.
+- [move-test-gen](https://github.com/talongate/move-test-gen) - Agent skill that generates edge-case test suites for Sui Move functions and includes deterministic coverage, mutation-testing, and security-lint checks.
+- [SuiAudit](https://github.com/SuiAuditLab/suiaudit) - AI-powered Sui Move code audit solution.
+- [Monethic AI Auditor (MAIA)](https://github.com/Monethic/monethic-maia) - Smart contract security audit engine with detectors for Move on Sui, Move on Aptos, and EVM contracts.
+
 ## AI
 - [Talus](https://docs.talus.network/) - Build autonomous digital economy powered by Sui.
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+
+### Developer Skills
+
+- [Mysten Labs Agent Skills](https://github.com/MystenLabs/skills) - Reusable agent skills for building on Sui with Claude Code, Cursor, Codex, and other AI coding agents.
+- [Cetus Skills](https://github.com/CetusProtocol/cetus-skills) - Agent skills for programmatically interacting with Cetus Aggregator, CLMM, and DLMM on Sui.
 
 ## Infrastructure as Code
 
