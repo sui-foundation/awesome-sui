@@ -271,6 +271,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 ## Faucets
 
 - [Sui Faucet](https://faucet.sui.io/) - Official web faucet for claiming testnet SUI, with wallet integration.
+- [SuiLearn Faucet](https://faucet.suilearn.io/) - Community faucet for claiming testnet SUI and minting test NFTs.
 - [n1stake](https://faucet.n1stake.com/) - Community web faucet for claiming testnet SUI, with wallet integration.
 - [Blockbolt](https://faucet.blockbolt.io/) - Community web faucet for claiming testnet SUI, with wallet integration.
 - SuiwareFaucetBot - Sui Faucet Bot for Telegram.
