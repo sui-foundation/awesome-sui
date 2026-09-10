@@ -65,7 +65,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 ### Client SDKs
 
 - Sui TypeScript SDK (Mysten Labs) - TypeScript modular library of tools for interacting with the Sui Blockchain.
-  - [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/typescript) - [Documentation](https://sdk.mystenlabs.com/typescript) - [Further Information](details/sdk_sui_typescript.md)
+  - [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/sui) - [Documentation](https://sdk.mystenlabs.com/typescript) - [Further Information](details/sdk_sui_typescript.md)
 - Sui Kit(Scallop) - Toolkit for interacting with the Sui network in TypeScript.
   - [GitHub](https://github.com/scallop-io/sui-kit) - [Further Information](details/sdk_sui_kit_scallop.md)
 - Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui Blockchain.
@@ -90,7 +90,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 ### DeFi SDKs
 - [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui Blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
 - [Bucket Protocol SDK](https://github.com/Bucket-Protocol/bucket-protocol-sdk) - The TypeScript SDK for interacting with Bucket Protocol.
-- [Suilend SDK](https://github.com/suilend/suilend-fe-public/tree/main/sdk) - The TypeScript SDK for interacting with the Suilend program published on npm as [`@suilend/sdk`](https://www.npmjs.com/package/@suilend/sdk).
+- [Suilend SDK](https://www.npmjs.com/package/@suilend/sdk) - The TypeScript SDK for interacting with the Suilend program, published as `@suilend/sdk`.
 - [Scallop SDK](https://github.com/scallop-io/sui-scallop-sdk) - The TypeScript SDK for interacting with the Scallop lending protocol on the Sui network.
 - [Cetus CLMM SDK](https://github.com/CetusProtocol/cetus-clmm-sui-sdk) - The official Cetus SDK specifically designed for seamless integration with Cetus-CLMM on Sui.
 - [Aftermath SDK](https://github.com/AftermathFinance/aftermath-ts-sdk) - The TypeScript SDK for interacting with Aftermath Protocol.
@@ -100,6 +100,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ### Client Libraries
 
+- [Sui APIs (Mysten Labs)](https://github.com/MystenLabs/sui-apis) - Public Sui gRPC interface definitions for generating client libraries, documentation, and other artifacts.
 - [BCS TypeScript (Mysten Labs)](https://sdk.mystenlabs.com/bcs) - BCS with TypeScript.
 - [BCS Rust](https://github.com/zefchain/bcs) - BCS with Rust.
 - [BCS Dart](https://github.com/mofalabs/bcs) - BCS with Dart.
@@ -118,7 +119,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ### dApp Toolkits
 
-- [@mysten/create-dapp](https://sdk.mystenlabs.com/dapp-kit/create-dapp) - CLI tool that helps you create Sui dApp projects.
+- [@mysten/create-dapp](https://sdk.mystenlabs.com/dapp-kit/getting-started/create-dapp) - CLI tool that helps you create Sui dApp projects.
 - Sui dApp Kit (Mysten Labs) - Set of React components, hooks, and utilities to help you build a dApp for the Sui ecosystem.
   - [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/dapp-kit) - [Documentation](https://sdk.mystenlabs.com/dapp-kit)
 - Sui dApp Starter - Full-stack boilerplate which lets you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
@@ -132,7 +133,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - SuiBase - Suibase makes it easy to create "workdirs", each defining a distinct development environment targeting a network.
   - [GitHub](https://github.com/chainmovers/suibase) - [Documentation](https://suibase.io/)
 - [create-dubhe (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/create-dubhe) - Create a new Dubhe project on Sui.
-  - [Documentation](https://dubhe.obelisk.build/dubhe/sui/quick-start)
+  - [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/quick-start)
 - [Sui Tools](https://sui-tools.vercel.app/ptb-generator) - Scaffolding TypeScript PTBs for any on-chain function you might want to invoke.
 - [Enoki (Mysten Labs)](https://docs.enoki.mystenlabs.com/) - Make zkLogin and Sponsored Transactions more accessible.
 - [Sui Gas Pool (Mysten Labs)](https://github.com/MystenLabs/sui-gas-pool) - Service that powers sponsored transactions on Sui at scale.
@@ -166,6 +167,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 ### Smart Contract Toolkits
 
 - [Sui CLI](https://docs.sui.io/references/cli) - CLI tool to interact with the Sui network, its features, and the Move programming language.
+- [suiup (Mysten Labs)](https://github.com/MystenLabs/suiup) - Installer and version manager for command-line tools in the Sui ecosystem.
 - [Sentio Debugger](https://docs.sentio.xyz/docs/debugger) - Shows the trace of the transaction [Explorer App](https://app.sentio.xyz/explorer) (mainnet only).
 - [`std::debug`](https://docs.sui.io/guides/developer/first-app/debug#related-links) - Print arbitrary values to the console to help with debugging process.
 - [Sui Tears 💧 (Interest Protocol)](https://docs.interestprotocol.com/overview/sui-tears) - Open source production ready Sui Move library to increase the productivity of new and experienced developers alike.
@@ -197,7 +199,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - Space And Time (SxT) - Verifiable compute layer for AI x Blockchain. Decentralized data warehouse with sub-second ZK proof.
   - [Homepage](https://www.spaceandtime.io/) - [Documentation](https://docs.spaceandtime.io/) - [Further Documentation](details/indexer_space_and_time.md)
 - Birdeye Data Services - Access Crypto Market Data APIs on Sui.
-  - [Homepage](https://bds.birdeye.so/) - [Blog](https://blog.sui.io/birdeye-data-services-crypto-api-websocket/) - [API Documentation](https://docs.birdeye.so/reference/intro/authentication)
+  - [Homepage](https://bds.birdeye.so/) - [Blog](https://blog.sui.io/birdeye-data-services-crypto-api-websocket/) - [API Documentation](https://data.birdeye.so/docs/authentication)
 - Indexer.xyz (behind TradePort) - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui.
   - [Homepage](https://www.indexer.xyz/) - [API Explorer](https://www.indexer.xyz/api-explorer) - [API Docs](https://tradeport.xyz/docs)
 - Dubhe Indexer (Dubhe Engine) - Automatic integration with Dubhe Engine, automatic indexing of all events based on Dubhe Engine to build Dapp on Sui, based on dubhe configuration files.
@@ -240,6 +242,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [HoneyPotDetectionOnSui](https://github.com/SuiSec/HoneyPotDetectionOnSui) - Detect HoneyPot SCAM on Sui.
 
 ## AI
+- [Mysten Labs Agent Skills](https://github.com/MystenLabs/skills) - Reusable agent skills for building on Sui with Claude Code, Cursor, Codex, and other AI coding agents.
 - [Talus](https://docs.talus.network/) - Build autonomous digital economy powered by Sui.
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
