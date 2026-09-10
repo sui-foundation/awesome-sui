@@ -155,6 +155,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 - RPC Tools (Polymedia) - A webapp that lets users find the fastest RPC for their location.
   - [GitHub](https://github.com/juzybits/polymedia-rpcs) - [Documentation](https://rpcs.polymedia.app/)
+- [OpenChainBench](https://openchainbench.com/benchmarks/sui-rpc) - Live latency benchmark for Sui RPC providers (Mysten Labs, PublicNode, BlockVision, Suiet, OnFinality): p50/p90/p99 measured every 60 seconds from US-East, EU-West and Singapore.
 - [Polymedia Commando (Polymedia)](https://github.com/juzybits/polymedia-commando) - Sui command line tools to help with Sui airdrops (send coins to many addresses), gather data from different sources (Sui RPCs, Indexer.xyz, Suiscan), and more.
 - [YubiSui (MystenLabs)](https://github.com/MystenLabs/yubigen) - Create a Sui Wallet inside a yubikey and sign Sui transactions with it.
 - [`sui-dapp-kit-theme-creator`](https://sui-dapp-kit-theme-creator.app/) - Build custom Sui dApp Kit themes.
