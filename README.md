@@ -97,6 +97,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [FlowX SDK](https://github.com/FlowX-Finance/sdk) - The official FlowX TypeScript SDK that allows developers to interact with FlowX protocols using the TypeScript programming language.
 - [7k Aggregator SDK](https://github.com/7k-ag/7k-sdk-ts) - The TypeScript SDK for interacting with 7k Aggregator protocol.
 - [Hop Aggregator SDK](https://docs.hop.ag/hop-sdk) - The TypeScript SDK for interacting with Hop Aggregator.
+- [SODAX SDK](https://github.com/icon-project/sodax-sdks) - The TypeScript SDK (`@sodax/sdk`) for intent-based trading, lending, and asset transfers between Sui and 20+ other networks, filled by independent solvers.
 
 ### Client Libraries
 
@@ -247,6 +248,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
+- [SODAX Builders MCP](https://docs.sodax.com/builders-mcp) - Remote MCP server that gives AI coding agents live SODAX data (networks, tokens, quotes, money market rates) and docs for building Sui and cross-network integrations.
 
 ## Infrastructure as Code
 
