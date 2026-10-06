@@ -240,6 +240,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [DryRunTransactionBlockResponsePlus](https://github.com/SuiSec/DryRunTransactionBlockResponsePlus) - Decorator of `DryRunTransactionBlockResponse`, highlight `SenderChange`.
 - [Guardians](https://github.com/suiet/guardians) - Phishing Website Protection.
 - [HoneyPotDetectionOnSui](https://github.com/SuiSec/HoneyPotDetectionOnSui) - Detect HoneyPot SCAM on Sui.
+- [SuiBets](https://suibets.com) - Formally verified decentralized sports betting protocol on Sui. Verified contract with 13 proven security properties using Sui Prover specifications.
+  - [Suiscan Verified Source](https://suiscan.xyz/mainnet/object/0x4d83eab83defa9e2488b3c525f54fc588185cfc1a906e5dada1954bf52296e76) - [Formal Verification Report](https://suibets.com/formal-verification.html) - [Security Audit](https://suibets.com/audit-report.html)
 
 ## AI
 - [Mysten Labs Agent Skills](https://github.com/MystenLabs/skills) - Reusable agent skills for building on Sui with Claude Code, Cursor, Codex, and other AI coding agents.
