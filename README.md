@@ -50,6 +50,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [Homepage](https://plugins.jetbrains.com/plugin/23301-sui-move-language) - [GitHub](https://github.com/movefuns/intellij-move)
 - [Emacs move-mode](https://github.com/amnn/move-mode) - The move-mode package is an Emacs major-mode for editing smart contracts written in the Move programming language.
 - [Move.vim](https://github.com/yanganto/move.vim) - Syntax highlighting that supports the Move 2024 edition.
+- Sui Move Runner - Comprehensive VS Code extension that streamlines Sui Move development with package management, wallet integration, network switching, and automated Sui CLI updates.
+  - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=blockchainBard.suimoverunner) - [GitHub](https://github.com/blockchainBard101/SuiMoveRunner) - [Documentation](https://github.com/blockchainBard101/SuiMoveRunner#readme)
 
 ### IDE Utilities
 
