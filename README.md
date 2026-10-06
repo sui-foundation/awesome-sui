@@ -240,6 +240,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [DryRunTransactionBlockResponsePlus](https://github.com/SuiSec/DryRunTransactionBlockResponsePlus) - Decorator of `DryRunTransactionBlockResponse`, highlight `SenderChange`.
 - [Guardians](https://github.com/suiet/guardians) - Phishing Website Protection.
 - [HoneyPotDetectionOnSui](https://github.com/SuiSec/HoneyPotDetectionOnSui) - Detect HoneyPot SCAM on Sui.
+- [dxd-audit-kit-smartcontract](https://github.com/DXD-LABS/dxd-audit-kit-smartcontract) - Comprehensive Move/Sui security resource featuring a vulnerability database, PoC tests, secure design patterns, and audit checklists.
 
 ## AI
 - [Mysten Labs Agent Skills](https://github.com/MystenLabs/skills) - Reusable agent skills for building on Sui with Claude Code, Cursor, Codex, and other AI coding agents.
