@@ -153,6 +153,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 #### Misc
 
+- [Chain.Love](https://www.chain.love/) - Open-source directory for discovering and comparing Sui infrastructure providers across APIs, analytics, bridges, explorers, oracles, SDKs, storage, and wallets.
 - RPC Tools (Polymedia) - A webapp that lets users find the fastest RPC for their location.
   - [GitHub](https://github.com/juzybits/polymedia-rpcs) - [Documentation](https://rpcs.polymedia.app/)
 - [Polymedia Commando (Polymedia)](https://github.com/juzybits/polymedia-commando) - Sui command line tools to help with Sui airdrops (send coins to many addresses), gather data from different sources (Sui RPCs, Indexer.xyz, Suiscan), and more.
