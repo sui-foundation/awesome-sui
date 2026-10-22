@@ -97,7 +97,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - [FlowX SDK](https://github.com/FlowX-Finance/sdk) - The official FlowX TypeScript SDK that allows developers to interact with FlowX protocols using the TypeScript programming language.
 - [7k Aggregator SDK](https://github.com/7k-ag/7k-sdk-ts) - The TypeScript SDK for interacting with 7k Aggregator protocol.
 - [Hop Aggregator SDK](https://docs.hop.ag/hop-sdk) - The TypeScript SDK for interacting with Hop Aggregator.
-- [SODAX SDK](https://github.com/icon-project/sodax-sdks) - The TypeScript SDK (`@sodax/sdk`) for intent-based trading, lending, and asset transfers between Sui and 20+ other networks, filled by independent solvers.
+- [SODAX SDK](https://github.com/gosodax/sodax-sdks) - The TypeScript SDK (`@sodax/sdk`) for intent-based trading, lending, and asset transfers between Sui and 20+ other networks, filled by independent solvers.
 
 ### Client Libraries
 
