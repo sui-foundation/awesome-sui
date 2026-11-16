@@ -206,6 +206,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/crates/dubhe-indexer) - [API Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/indexer)
 - Surflux <a href="https://surflux.dev"><img alt="Surflux logo" src="media/surflux_logo.svg" width="15" /></a> - Developer infrastructure for Sui. Build production-ready apps with powerful APIs, indexing, and real-time data streams.
   - [Homepage](https://surflux.dev/) - [Documentation](https://docs.surflux.dev/) - [Blog](https://surflux.dev/blog)
+- Oferoo.eu - European supermarket price data API (31 countries, products matched by barcode), paid per request with x402 in USDC on Sui mainnet. Every night the Merkle root of all prices of the day is written on Sui with a qualified timestamp, so each price can be checked on-chain.
+  - [Homepage](https://oferoo.eu/) - [API Documentation](https://oferoo.eu/api) - [Daily receipts on Sui](https://oferoo.eu/dovezi) - [Paying with x402 on Sui](https://oferoo.eu/how-to-pay)
 
 ## Explorers
 
