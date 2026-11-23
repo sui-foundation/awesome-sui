@@ -248,7 +248,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
-- [SODAX Builders MCP](https://docs.sodax.com/builders-mcp) - Remote MCP server that gives AI coding agents live SODAX data (networks, tokens, quotes, money market rates) and docs for building Sui and cross-network integrations.
+- [SODAX MCP](https://mcp.sodax.com) - Remote MCP server that gives AI coding agents live SODAX data (networks, tokens, quotes, money market rates) and docs for building Sui and cross-network integrations.
 
 ## Infrastructure as Code
 
