@@ -223,6 +223,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/suiware/sui-explorer) - [Further Information](details/explorer_local_sui_explorer.md)
 - Suimon - Powerful command line tool designed to provide detailed dashboards for monitoring the Sui network.
   - [GitHub](https://github.com/bartosian/suimon) - [Further Information](details/explorer_suimon.md)
+- Suistaking - Staking and validator analytics for Sui: measured APY estimates, commission, stake flows and epoch history, with a developer API.
+  - [Homepage](https://suistaking.io/) - [Developer API](https://suistaking.io/developers)
 
 ## Oracles
 
